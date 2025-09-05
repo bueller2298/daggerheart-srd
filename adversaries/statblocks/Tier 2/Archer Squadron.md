@@ -8,9 +8,9 @@ mt: Stick together, survive, volley fire
 tier: 2
 type: Horde (2/HP)
 scores: [13, 8/16, 4, 3]
-atk: 1d200
-atk_roll: 1d200
-atk_dice: 1d200
+atk: 1d20+0
+atk_roll: 1d20+0
+atk_dice: 1d20+0
 dmg: Longbow - Far
 dmg_roll: 2d6+3 phy
 dmg_dice: 2d6+3 phy
