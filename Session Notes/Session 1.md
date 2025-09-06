@@ -37,7 +37,7 @@ The High Priest raises his hands, silencing the crowd. His voice, a soothing bal
 
 The vision shifts. Shame, sorrow, and a simmering rage fill you, a small, burning ember of righteous fury that quickly grows into a roaring inferno. It whispers a new word to you, a new name, one that would define your path forward.
 
-Days, then weeks, then months pass in a flash of cold wind and hungry nights. The vision shifts, and you are no longer the same. Your body has grown, hardened by hardship. The whisper of **Vengeance** becomes a roar in your ears. You need to become strong, to learn the ways of the fight. You travel far, seeking a teacher who could forge you into the weapon you needed to be.
+Days, then weeks, then months pass in a flash of cold wind and hungry nights. The vision shifts, and you are no longer the same. Your body has grown, hardened by hardship. The whisper of **Vengeance** becomes a roar in your ears. You need to become strong, to learn the ways of the fight. You travel far, seeking a teacher who could forge you into the weapon you needed to be, until eventually hunger, thirst, and fatigue set in. When it seems y
 
 The vision focuses on a single place, a person. The training wasn't a long, slow lesson, but a brutal crash course born of desperation. The teacher was a hard and unforgiving taskmaster, but they understood your fury. Their final lesson was about transforming that rage into something more than just a weapon. They spoke of how your anger was a kind of fuel, but that fuel could either burn you to ash or give you the power to soar.
 
