@@ -27,7 +27,7 @@ The walls of **Haven** may have kept out the gods, but they could not stop the
 
 The world around you seems to blur, the sounds of the camp fading into a low, echoing hum. You feel a presence, ancient and mournful, settling over you like a cold shroud. The light shifts, and the world is no longer what it was. You stand not in the present, but in a memory—a waking vision of a time not long past. 
 
-**Please describe to me the general layout of your clan's village which lies in the greater vicinity known as Keener's Pike**
+**Please describe to me the general layout of your clan's village which lies to the south of the greater vicinity known as Keener's Pike**
 
 You are a young giant again, your hands clutched tightly at your mother's cloak as she weeps. Your father stands tall, defiant, his shoulders stooped under the weight of injustice. Before you, a crowd of your kin. The High Priest's voice booms across the village square, a sentence of exile. Your family's name, **Purpose**, is stripped from you.
 
