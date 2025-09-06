@@ -47,7 +47,7 @@ Then, at the end of your training, a miracle. In a fierce sparring match with yo
 
 **What do you say in return?**
 
-"Then show me!" And suddenly the spar turns into what seems like a duel to the death, he begins to weave under your ax, striking you in your legs and starting to cut you down. You feel the pain set, your britches soaking with blood.
+"Then show me!" And suddenly the spar turns into what seems like a duel to the death, he begins to weave under your ax, striking you in your legs and starting to cut you down. You feel the pain set, your britches soaking with blood. You fall to your knees.As you wince in pain, before the thought of a countering blow, 
 
 The vision shifts one last time, to a mountaintop, a sacred place your trainer brought you to. As you stand there, a fierce wind whips around you. The sky, a bruised purple, seems to crackle with an ancient, divine energy. From your back, a strange new sensation begins to form, a pulling, a tearing, an exquisite pain as something new unfurls from your flesh. You feel the wind catch under them, a new weight to your body, a new freedom to your soul. They are a gift from Nikta herself—a sign that you have earned your new purpose. You are a champion of your goddess, and you must now return to fight for the balance she can no longer maintain on her own. You have earned her wings.
 
