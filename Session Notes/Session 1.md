@@ -43,7 +43,7 @@ Days, then weeks, then months pass in a flash of cold wind and hungry nights. Th
 
 The vision focuses on a single place, a person. The training wasn't a long, slow lesson, but a brutal crash course born of desperation. The teacher was a hard and unforgiving taskmaster, but they understood your fury. Their final lesson was about transforming that rage into something more than just a weapon. They spoke of how your anger was a kind of fuel, but that fuel could either burn you to ash or give you the power to soar.
 
-Then, at the end of your training, a miracle. In a fierce sparring match with your **trainer** you're blows seem to be finding purchase more so than ever, your axe denting into their armor. Your trainer has ne
+Then, at the end of your training, a miracle. In a fierce sparring match with your **trainer** you're blows seem to be finding purchase more so than ever, your axe denting into their armor. Your trainer has never shied away from bloodshed in your training, and even you have scars that have marked your tribulations on your road to vengeance. 
 
 The vision shifts one last time, to a mountaintop, a sacred place your trainer brought you to. As you stand there, a fierce wind whips around you. The sky, a bruised purple, seems to crackle with an ancient, divine energy. From your back, a strange new sensation begins to form, a pulling, a tearing, an exquisite pain as something new unfurls from your flesh. You feel the wind catch under them, a new weight to your body, a new freedom to your soul. They are a gift from Nikta herself—a sign that you have earned your new purpose. You are a champion of your goddess, and you must now return to fight for the balance she can no longer maintain on her own. You have earned her wings.
 
