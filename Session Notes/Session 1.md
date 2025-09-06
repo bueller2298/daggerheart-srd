@@ -22,3 +22,25 @@ Now, **Nikta** can only watch over the land with a single, unblinking **Sowin
 You can feel it in the air, a sticky warmth that never fades. The vines of the **Witherwild** choke the paths and strangle the rivers. The trees twist and coil into monstrous hunters. The very earth you walk on has become a hungry, verdant thing, swallowing everything in its path.
 
 The walls of **Haven** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
+
+## Purpose's vision
+
+The world around you seems to blur, the sounds of the camp fading into a low, echoing hum. You feel a presence, ancient and mournful, settling over you like a cold shroud. The light shifts, and the world is no longer what it was. You stand not in the present, but in a memory—a waking vision of a time not long past.
+
+You are a young giant again, your hands clutched tightly at your mother's cloak as she weeps. Your father stands tall, defiant, his shoulders stooped under the weight of injustice. Before you, a crowd of your kin. The High Priest's voice booms across the village square, a sentence of exile. Your family's name, **Purpose**, is stripped from you.
+
+The High Priest raises his hands, silencing the crowd. His voice, a soothing balm, cuts through the tension. "My people," he begins, his gaze sweeping over the crowd, "look at the sickness that has come to our land. We have prayed, we have fasted, and we have waited for **Nikta** to restore the balance. But she has not. She has turned her eyes away from us, and so we must look to a new path. The **balance** this family clings to is a relic of a time that is past, a cage of decay that will only bring us ruin!" He turns to you, his face a mask of disappointment. "And you, young one... you are **Purpose** no longer. A hollow name for a hollow life."
+
+The vision shifts. Shame, sorrow, and a simmering rage fill you, a small, burning ember of righteous fury that quickly grows into a roaring inferno. It whispers a new word to you, a new name, one that would define your path forward.
+
+Days, then weeks, then months pass in a flash of cold wind and hungry nights. The vision shifts, and you are no longer the same. Your body has grown, hardened by hardship. The whisper of **Vengeance** becomes a roar in your ears. You need to become strong, to learn the ways of the fight. You travel far, seeking a teacher who could forge you into the weapon you needed to be.
+
+The vision focuses on a single place, a person. The training wasn't a long, slow lesson, but a brutal crash course born of desperation. The teacher was a hard and unforgiving taskmaster, but they understood your fury. Their final lesson was about transforming that rage into something more than just a weapon. They spoke of how your anger was a kind of fuel, but that fuel could either burn you to ash or give you the power to soar.
+
+Then, at the end of your training, a miracle.
+
+The vision shifts one last time, to a mountaintop, a sacred place your trainer brought you to. As you stand there, a fierce wind whips around you. The sky, a bruised purple, seems to crackle with an ancient, divine energy. From your back, a strange new sensation begins to form, a pulling, a tearing, an exquisite pain as something new unfurls from your flesh. You feel the wind catch under them, a new weight to your body, a new freedom to your soul. They are a gift from Nikta herself—a sign that you have earned your new purpose. You are a champion of your goddess, and you must now return to fight for the balance she can no longer maintain on her own. You have earned her wings.
+
+The vision rushes forward once more, time blurring past like a river. You feel the grit of a well-worn road under your feet, the familiar scent of home on the breeze. You are an adult, strong and determined, and you are back. You approach the High Priest's home, the grand oak doors looming before you, just as you remember them from your last moments here. You stand there for a moment, the weight of a year's fury and determination in your heart. You feel the eyes of your community on you, on this single, crucial moment.
+
+**What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**"
