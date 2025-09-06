@@ -47,8 +47,11 @@ Then, at the end of your training, a miracle. In a fierce sparring match with yo
 
 **What do you say in return?**
 
-"Then show me!" And suddenly the spar turns into what seems like a duel to the death, he begins to weave under your ax, striking you in your legs and starting to cut you down. You feel the pain set, your britches soaking with blood. You fall to your knees. As you wince in pain, before the thought of a countering blow, you look up and your master seems bigger than he ever was, like he was falling from the sky, and with a massive **WHAM** he punches you in the face, and you feel the taste of your blood fill your mouth.
+"Then show me!" And suddenly the spar turns into what seems like a duel to the death, he begins to weave under your ax, striking you in your legs and starting to cut you down. You feel the pain set, your britches soaking with blood. You fall to your knees. As you wince in pain, before the thought of a countering blow, you look up and your master seems bigger than he ever was, like he was falling from the sky, and with a massive **WHAM** he punches you in the face, and you feel the taste of your blood fill your mouth. "If you're going to hit me, then hit me!"
 
+**What do you do?**
+
+You trade blow after blow, strike after strike, parry af
 The vision shifts one last time, to a mountaintop, a sacred place your trainer brought you to. As you stand there, a fierce wind whips around you. The sky, a bruised purple, seems to crackle with an ancient, divine energy. From your back, a strange new sensation begins to form, a pulling, a tearing, an exquisite pain as something new unfurls from your flesh. You feel the wind catch under them, a new weight to your body, a new freedom to your soul. They are a gift from Nikta herself—a sign that you have earned your new purpose. You are a champion of your goddess, and you must now return to fight for the balance she can no longer maintain on her own. You have earned her wings.
 
 The vision rushes forward once more, time blurring past like a river. You feel the grit of a well-worn road under your feet, the familiar scent of home on the breeze. You are an adult, strong and determined, and you are back. You approach the High Priest's home, the grand oak doors looming before you, just as you remember them from your last moments here. You stand there for a moment, the weight of a year's fury and determination in your heart. You feel the eyes of your community on you, on this single, crucial moment.
