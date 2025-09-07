@@ -112,7 +112,7 @@ You feel the wind catch under them, a new weight to your body, a new freedom to 
 
 The vision rushes forward once more, time blurring past like a river. You feel the grit of a well-worn road under your feet, the familiar scent of home on the breeze. You are an adult, strong and determined, and you are back. You approach the High Priest's home, the grand oak doors looming before you, just as you remember them from your last moments here. You stand there for a moment, the weight of a year's fury and determination in your heart. You feel the eyes of your community on you, on this single, crucial moment.
 
-**What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**
+**What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?** (DAVEED!)
 
 And then the vision fades, and you are back to reality. Wandering through the streets here in Selonia. As you turn a familiar corner back towards the quaint home of a family you've been staying with in return for a helping hand. Through the window you can see candlelight and a breeze washes over you and you smell a freshly cooked meal. As you open the door, you look upon the dinner table with the small family already eating and an unfamiliar face joining them at the table.
 
