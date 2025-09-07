@@ -152,4 +152,4 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 ## Ryan
 
-Your eyes sting with a familiar sensation, t
+You've been sitting in place for what seems like days. 
