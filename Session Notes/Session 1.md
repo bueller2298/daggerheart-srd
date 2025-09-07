@@ -68,9 +68,11 @@ The figure watches you carefully as you speak, puffing on his pipe.
 
 This man is Kreil Dirn the spymaster of Haven, He is responsible for rooting out  insurgents, stopping schemes before they have a chance to  start, and keeping a close watch on [[Haven]]’s internal activities.
 
-"I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance "
+"I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something that may change the life of every life still in these lands. What do you say to that?"
 
-He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "I am placing my faith in you. Will you place yours in me?"
+
+
+He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "Will you place yours in me?"
 
 **Do you take the scroll? What is your first action after it is in your hands?**
 
