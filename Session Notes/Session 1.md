@@ -148,7 +148,7 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 **Where do you go in this town?**
 
-As
+As you approach, you are greeted by an unfamiliar face. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood
 
 ## Ryan
 
