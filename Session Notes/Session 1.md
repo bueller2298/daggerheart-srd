@@ -64,7 +64,7 @@ You deal with them quickly, your movements fluid and efficient. The thugs drop t
 
 The figure watches you carefully as you speak, puffing on his pipe. 
 
-"A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. PMy sources tell me of a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
+"A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. But a man on the run, is j I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
 
 He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "I am placing my faith in you. Will you place yours in me?"
 
