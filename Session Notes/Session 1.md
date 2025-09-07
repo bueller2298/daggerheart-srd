@@ -88,4 +88,4 @@ You drive your blade into the fibrous plant. Sap bursts from it, thick and syrup
 
 **How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.**
 
-Your blade strikes true, slicing the vine in two. The tension is broken. The phantom melody of Thestle's song fades. All that remains is the sound of your own ragged breath and the crackling of the fire. You are still Rayvian Goldwind, but you are also something more. You are not gilded anymore. You are a foundation of resilience, a simple stone. And that is enough.
+Your blade strikes true, slicing the vine in two. The tension is broken. All that remains is the sound of your own ragged breath and the crackling of the fire. 
