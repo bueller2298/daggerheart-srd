@@ -162,7 +162,7 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, sir! We've heard back from the scholars of Alula!"
 
-**Describe this small child, and how you came to know them**.
+**Describe this small child, and how you came to know them**. (A small well dressed child with a joyous energy and a desire to learn and is a make shift assistant)
 
 "Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seems to be brimming with excitement, clearly this is something that you to have been searching for information on for a while.
 
