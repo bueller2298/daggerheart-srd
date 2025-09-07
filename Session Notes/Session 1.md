@@ -166,7 +166,7 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seems to be brimming with excitement, clearly this is something that you to have been searching for information on for a while.
 
-**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc?** (Black in color, )
+**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc?** (Black in color, indiscernible from a raven or a crow, sharp edges, the quill at the end is sharp very durable bristle almost weapon like)
 
 "Sir, sir, this could be it!"
 
