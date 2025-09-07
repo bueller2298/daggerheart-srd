@@ -74,7 +74,7 @@ This man is Kreil Dirn the spymaster of Haven, He is responsible for rooting out
 
 He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "Will you place yours in me?"
 
-**Do you take the scroll? What is your first action after it is in your hands?**
+
 
 ## Purpose's Vision of Broken Wings
 
