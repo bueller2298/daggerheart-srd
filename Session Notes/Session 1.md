@@ -78,7 +78,7 @@ Moments later, your mother's voice, sharp as a winter wind, cuts through your ha
 **What was the expression on your mother’s face in that moment? Was it fear? Rage? Something else? Describe the exact look you will never forget.**
 
 
-In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **Witherwild** is a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
+In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **Witherwild** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
 
 In this moment, your shield is needed. A massive vine, thick as a tree trunk and moving with a slow, predatory will of its own, is coiling around something precious. You stand between the encroaching verdance and your charge, your body a wall of iron and muscle, your blade sharp and ready. This is not a grand battle. It is a quiet, deliberate stand.
 
