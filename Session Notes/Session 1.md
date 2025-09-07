@@ -152,4 +152,4 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 ## Ryan
 
-You've been sitting in place for what seems like days. A stack of tomes and scrolls stacked high to your side. This activity is perhaps the most 
+You've been sitting in place for what seems like days. A stack of tomes and scrolls stacked high to your side. This is a familiar activity, and you can't begin to estimate the amount of time 
