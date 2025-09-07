@@ -152,4 +152,4 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 ## Ryan
 
-Your eyes sting wit
+Your eyes sting with a familiar sensation, t
