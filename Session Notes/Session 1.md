@@ -56,13 +56,13 @@ A fight begins to break out, but you know this isn't a fight to the death, it se
 
 You deal with them quickly, your movements fluid and efficient. The thugs drop to the alley floor, groaning in pain. 
 
-"Good." The figure says as steps through the smoke cloud he just exhaled.  He is wiry, unassuming yet somehow commanding. His eyes, as he begins to approach, however, are anything but simple. They are sharp, intelligent, and they miss nothing. This is **Kreil Dirn**.
+"Good." The figure says as steps through the smoke cloud he just exhaled.  He is wiry, unassuming yet somehow commanding. His eyes, as he begins to approach, however, are anything but simple. They are sharp, intelligent, and they examine you and it's as if they see into your soul and to every moment of your past.
 
 "My apologies for the theatrics," he says, his voice a smooth, silver whisper. "But I had to see for myself. Reports are one thing; proof is another. You handled yourself well." He looks at you, his gaze lingering on the warhammer at your hip. "I've heard tales of a faun warrior who fights for coin, but his eyes tell a different story. They say you are a ghost in the wind, a quiet protector with a talent for being in the right place at the right time. But they never speak of a motive. Why do you do this? Why do you wander alone?"
 
 **How do you respond to his question? Do you reveal any truth, or do you hide behind the armor of a mercenary?**
 
-Kreil watches you carefully as you speak, taking a single, thoughtful bite of his apple. "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "My sources tell me of a war you lost and a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
+The figure watches you carefully as you speak, taking a single, thoughtful bite of his apple. "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "My sources tell me of a war you lost and a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
 
 He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "I am placing my faith in you. Will you place yours in me?"
 
