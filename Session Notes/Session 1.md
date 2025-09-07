@@ -84,9 +84,7 @@ In this moment, your shield is needed. A massive vine, thick as a tree trunk and
 
 **What is the vine coiling around, and why is it so important to you to save it?**
 
-You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. This clear note has found it's way into your mind for months, reminding you of a turning point in your life. It is not mournful. It is not sad. It is a sound  untouched **purity**, a stark and painful reminder of the life you ended. It pierces the false comfort of your new life, bringing with it the echo of a forgotten truth: you were once a part of the problem.
-
-The song grows louder, a ghostly harmony that wraps around you like a second, cold skin. The feeling of your past, of your polished golden armor and your unshakeable certainty, is a crushing weight. Your old self whispers to you, "You cannot undo what you have done. Your heroism is a lie."
+You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. This clear note has found it's way into your mind for months, reminding you of a turning point in your life. It is not mournful. It is not sad. It is a sound  untouched **purity**. This ghostly harmony begins to wrap around you like a second, cold skin. You look down your polished golden armor and your unshakeable certainty, is a crushing weight. Your old self whispers to you, "You cannot undo what you have done. Your heroism is a lie."
 
 **How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.**
 
