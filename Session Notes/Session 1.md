@@ -30,7 +30,7 @@ Harlow, you travel ahead of a small merchant man. Hours before, he had given you
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
-Two thugs with crude knives and grim expressions step out from behind some crates. They aren’t interested in the ledger. They are interested in you.
+The alley you travel down turns up ahead, slowly you approach, hand on the handle of your weapon. You turn the corner to find two thugs with crude knives and grim expressions step out from behind some crates. They aren’t interested in the ledger. They are interested in you.
 
 "The boss wants a word with you," one snarls, his blade glinting in the pale moonlight. This isn't a fight; it's a test. A small, polite one. They are just enough to gauge your ability, but not enough to be a real threat.
 
