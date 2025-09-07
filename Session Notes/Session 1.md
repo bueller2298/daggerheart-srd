@@ -88,4 +88,7 @@ You drive your blade into the fibrous plant. Sap bursts from it, thick and syrup
 
 **How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.**
 
-Your blade strikes true, slicing the vine in two. The tension is broken. All that remains is the sound of your own ragged breath and the crackling of the fire. 
+Your blade strikes true, slicing the vine in two. The tension is broken. All that remains is the sound of your own ragged breath and the crackling of the fire. Until finally your charge whimpers, "Is it dead?"
+
+Sleep eventually 
+
