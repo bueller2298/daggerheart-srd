@@ -112,7 +112,7 @@ The vision rushes forward once more, time blurring past like a river. You feel t
 
 **What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**
 
-And then the vision fades, and you are back to reality. Wandering through the streets here in Selonia. As you turn a familiar corner back towards the quaint home of a family you've been staying with in return for a helping hand. Through the window you can see candlelight and a breeze washes over you and you smell a freshly cooked meal. As you open the door, you look upon the dinner table with the small family already eating and an unfamiliar face joining them at the t
+And then the vision fades, and you are back to reality. Wandering through the streets here in Selonia. As you turn a familiar corner back towards the quaint home of a family you've been staying with in return for a helping hand. Through the window you can see candlelight and a breeze washes over you and you smell a freshly cooked meal. As you open the door, you look upon the dinner table with the small family already eating and an unfamiliar face joining them at the table.
 
 ## A Glimpse of the Wild
 
@@ -150,7 +150,7 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 **Where do you go in this town?**
 
-As you approach, you are greeted by an unfamiliar face. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood.
+As you approach, you are greeted by an unfamiliar faces. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood.
 
 ## Ryan
 
