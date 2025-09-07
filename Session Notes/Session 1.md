@@ -160,8 +160,8 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seems to be brimming with excitement, clearly this is something that you to have been searching for information on for a while.
 
-**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc**
+**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc?**
 
 "Sir, sir, this could be it!"
 
-You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the item you mentioned. Our records indicate three known feathers that match your description, though many of these records seem to be passed down through generations of anecdotes and ballads. "
+You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the item you mentioned. Our records indicate three known feathers that match your description, though many of these records seem to be passed down through generations of anecdotes and ballads, with little to no confirmation. The three feathers of legend are known as as such. The Blighted Feather of Oz'kan, the Razor "
