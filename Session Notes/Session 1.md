@@ -36,9 +36,9 @@ The alley you travel down turns up ahead, slowly you approach, hand on the handl
 
 The Merchant pipes up, "Good help is hard to find these days." He nods toward you.
 
-"Don't I know it. Let's go."
+"Don't I know it." One of the thugs approaches Mortimer and places a bag into his hands, the jingle of coin is heard as it hits his hand.
 
-The figure gets up and walks over to a bulkhead, opens it, and steps down inside. His thugs motion toward you to follow. Mortimer, the merchant, begins to step forward, 
+The figure gets up and walks over to a bulkhead, opens it, and steps down inside. His thugs motion toward you to follow. 
 
 **What do you do?**
 
