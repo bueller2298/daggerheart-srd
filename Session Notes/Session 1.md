@@ -178,6 +178,6 @@ You open a letter that reads, "Greetings (name), Your inquiry was received by th
 
 As you way your options, you know one thing, you have been awake for far too long, and you can use a drink and some much needed rest. So you make your way to the local tavern here in village.
 
-**What about this tavern has you coming back a few times a week?**
+**What about this tavern has you coming back a few times a week?** (The smell of food inside is incredible)
 
 As you look around you notice someone a few new faces.
