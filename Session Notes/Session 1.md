@@ -46,6 +46,11 @@ The figure gets up and walks over to a bulkhead, opens it, and steps down inside
 
 The bulkhead enters into a  room that you now see, is lit dimly by candle light, and is about 15 ft. by 15 ft. The cloaked figure has made his way to the back of the room and his face is dimly lit by a pipe of some kind. The thugs enter the room behind you, closing the bulkhead with a loud clang. 
 
+Almost immediately, your survival instincts begin to click in, it's a force of habit.
+
+The figure says, "Boys let's see what he can do."
+
+A fight begins to break out, 
 **How do you handle them? Describe your first action, and how you use your warhammer to dispatch them without being overly destructive.**
 
 You deal with them quickly, your movements fluid and efficient. The thugs drop to the alley floor, groaning in pain, but they are not dead. A single figure steps out from a doorway you hadn't noticed. He is slight, unassuming, dressed in the simple cloak of a traveler. He holds a small, half-eaten apple in his hand. His eyes, however, are anything but simple. They are sharp, intelligent, and they miss nothing. This is **Kreil Dirn**.
