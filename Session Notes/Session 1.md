@@ -70,7 +70,7 @@ This man is Kreil Dirn, the spymaster of Haven. He is responsible for rooting ou
 
 "I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be a part of something that may change the life of every soul still in these lands. What do you say to that?"
 
-He hands you a scroll, its paper heavy and its words already written. "I need you to find some people. You will deliver my message to them, and you will bring them to me. They have no reason to trust you, but you will find a way to make them. Your success is not a suggestion; it's a requirement." He looks at you, his gaze piercing. "The future of both our worlds depends on your ability to convince them. Are we clear?"
+He hands you a scroll, its paper heavy and its words already written. "I need you to find some people. You will deliver my messages to them, and you will bring them to me. They have no reason to trust you, but you will find a way to make them. Your success is not a suggestion; it's a requirement." He looks at you, his gaze piercing. "The future of both our worlds depends on your ability to convince them. Are we clear?"
 
 
 
@@ -168,6 +168,7 @@ You open a letter that reads, "Greetings (name), Your inquiry was received by th
 
 "What does it say, sir, do they know where it is?"
 
-"Oh, i'm sorry sir. Does this mean you will stop looking, or will you venture to the Isle of the Twelve?"
+"Oh, I'm sorry sir. Does this mean you will stop looking, or will you venture to the Isle of the Twelve?"
+
 
 
