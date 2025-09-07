@@ -26,7 +26,7 @@ The walls of **Haven** may have kept out the gods, but they could not stop the
 ### A Deal in the Dark
 
 The job was simple enough. A merchant, claiming to need a bodyguard to retrieve a valuable ledger, offered you good coin for a quick trip into the heart of **Haven’s** underbelly. The place is a cesspit of smugglers and thieves known as the Black Market. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. This isn't a job. It's a setup.
-Harlow 
+Harlow, you travel ahead of a small merchant man. Hours before, he had given you a handful of coin, with the promise for more if you d
 He stops abruptly, his voice a nervous whisper. "It's just up ahead. The ledger, I mean. Are you ready?"
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
