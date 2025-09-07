@@ -181,3 +181,5 @@ As you way your options, you know one thing, you have been awake for far too lon
 **What about this tavern has you coming back a few times a week?** (The smell of food inside is incredible)
 
 As you look around you notice someone a few new faces.
+
+Flawsee has a broom like tuft of hair that marks his plight and curse
