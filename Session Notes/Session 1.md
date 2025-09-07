@@ -60,3 +60,23 @@ You feel the wind catch under them, a new weight to your body, a new freedom to 
 The vision rushes forward once more, time blurring past like a river. You feel the grit of a well-worn road under your feet, the familiar scent of home on the breeze. You are an adult, strong and determined, and you are back. You approach the High Priest's home, the grand oak doors looming before you, just as you remember them from your last moments here. You stand there for a moment, the weight of a year's fury and determination in your heart. You feel the eyes of your community on you, on this single, crucial moment.
 
 **What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**
+
+## A Glimpse of the Wild
+
+The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For months now, you've been slipping away from the manicured gardens of **Haven** and into a place the city guards call "Wood's End." You've never heard of a druid named **Stonebark** or any elders, only the whispers of the wild and the stories your father told you of a land beyond the city walls.
+
+Today, you are more curious than ever, and you venture a little too far, a little too deep, until you happen upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
+
+**What does this person look like? Describe their general appearance, and one detail that makes them seem as though they have been a part of this forest forever.**
+
+The figure introduces himself as **Stonebark**, and over the next year, you frequent this place. You learn to listen to the whispers of the wind, to feel the life in the plants, and to practice the forbidden magic of the wild.
+
+The vision flashes forward. You are now a year older, a year wiser, and a year more rebellious. It is late at night, and you are alone in your room, the silence broken only by the tick of an old clock. The air here is so still, so suffocatingly quiet. You remember the words of your elder, **Stonebark**. Your hands tingle with an urge to create, to bring life into this sterile place. You take a small white flower from a vase on your desk and begin to whisper the incantations **Stonebark** taught you. Slowly, impossibly, the petals swell and shift, reforming into something new.
+
+**What small animal did you shape from the blossoms?**
+
+Just as your tiny creation finishes taking shape, a small, curious face peeks through your open window. It is the son of the royal servants, a younger boy with wide, inquisitive eyes. He stares at the tiny magical creature you have made. You know you should make it disappear, but for a moment, you are caught in the joy of your little trick. The boy’s eyes are wide with wonder, and then, slowly, a grin spreads across his face. You think he understands. And then, without a word, he is gone.
+
+Moments later, your mother's voice, sharp as a winter wind, cuts through your happy stupor. "What is this nonsense, child? What have you been doing?" Her face is a storm of fury and disappointment. She knows what you have been doing. She knows where you have been going. The servant's son told her everything. Her eyes land on your creation, and the magic shrivels and dies under her gaze. She knows what she must do to protect you from the world that she so desperately wants you to be safe from.
+
+**What was the expression on your mother’s face in that moment? Was it fear? Rage? Something else? Describe the exact look you will never forget.**
