@@ -162,11 +162,11 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, sir! We've heard back from the scholars of Alula!"
 
-**Describe this small child, and how you came to know them**. (A small well dressed child with a joyous energy and a desire to learn and is a make shift assistant)
+**Describe this small child, and how you came to know them**. (A small well dressed child with a joyous energy and a desire to learn and is a make shift assistant, his name is Terrenace )
 
 "Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seems to be brimming with excitement, clearly this is something that you to have been searching for information on for a while.
 
-**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc?**
+**Describe this feather that you've been searching for significance it may hold, though minor. What is the color, size, and does it have any unique markings, deformities, or jewels embedded, etc?** (Black in color, )
 
 "Sir, sir, this could be it!"
 
