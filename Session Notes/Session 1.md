@@ -30,7 +30,13 @@ Harlow, you travel ahead of a small merchant man. Hours before, he had given you
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
-The alley you travel down turns up ahead, slowly you approach, hand on the handle of your weapon. You turn the corner to find two large thugs, blades at their side. Behind them, a figure in a cloak, sits on a box, with his face to the ground. They aren’t interested in the ledger. They are interested in you.
+The alley you travel down turns up ahead, slowly you approach, hand on the handle of your weapon. You turn the corner to find two large thugs, blades at their side. Behind them, a figure in a cloak, sits on a box, with his face to the ground. 
+
+"Nice of you to show up, a little late Mortimer."
+
+The Merchant pipes up, "Good help is hard to find these days." He nods toward you.
+
+"Don't I know it."
 
 "The boss wants a word with you," one snarls, his blade glinting in the pale moonlight. This isn't a fight; it's a test. A small, polite one. They are just enough to gauge your ability, but not enough to be a real threat.
 
