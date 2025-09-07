@@ -23,6 +23,32 @@ You can feel it in the air, a sticky warmth that never fades. The vines of the 
 
 The walls of **Haven** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
 
+### A Deal in the Dark
+
+The job was simple enough. A merchant, claiming to need a bodyguard to retrieve a valuable ledger, offered you good coin for a quick trip into the heart of **Haven’s** underbelly. The place is a cesspit of smugglers and thieves known as the Black Market. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. This isn't a job. It's a setup.
+Harlow 
+He stops abruptly, his voice a nervous whisper. "It's just up ahead. The ledger, I mean. Are you ready?"
+
+**What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
+
+Before you can get an answer, the trap is sprung. Two thugs with crude knives and grim expressions step out from behind some crates. They aren’t interested in the ledger. They are interested in you.
+
+"The boss wants a word with you," one snarls, his blade glinting in the pale moonlight. This isn't a fight; it's a test. A small, polite one. They are just enough to gauge your ability, but not enough to be a real threat.
+
+**How do you handle them? Describe your first action, and how you use your warhammer to dispatch them without being overly destructive.**
+
+You deal with them quickly, your movements fluid and efficient. The thugs drop to the alley floor, groaning in pain, but they are not dead. A single figure steps out from a doorway you hadn't noticed. He is slight, unassuming, dressed in the simple cloak of a traveler. He holds a small, half-eaten apple in his hand. His eyes, however, are anything but simple. They are sharp, intelligent, and they miss nothing. This is **Kreil Dirn**.
+
+"My apologies for the theatrics," he says, his voice a smooth, silver whisper. "But I had to see for myself. Reports are one thing; proof is another. You handled yourself well." He looks at you, his gaze lingering on the warhammer at your hip. "I've heard tales of a faun warrior who fights for coin, but his eyes tell a different story. They say you are a ghost in the wind, a quiet protector with a talent for being in the right place at the right time. But they never speak of a motive. Why do you do this? Why do you wander alone?"
+
+**How do you respond to his question? Do you reveal any truth, or do you hide behind the armor of a mercenary?**
+
+Kreil watches you carefully as you speak, taking a single, thoughtful bite of his apple. "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "My sources tell me of a war you lost and a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
+
+He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "I am placing my faith in you. Will you place yours in me?"
+
+**Do you take the scroll? What is your first action after it is in your hands?**
+
 ## Purpose's Vision of Broken Wings
 
 The world around you seems to blur, the sounds of the camp fading into a low, echoing hum. You feel a presence, ancient and mournful, settling over you like a cold shroud. The light shifts, and the world is no longer what it was. You stand not in the present, but in a memory—a waking vision of a time not long past.
