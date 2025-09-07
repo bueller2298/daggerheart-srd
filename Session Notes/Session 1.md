@@ -144,7 +144,9 @@ In this moment, your shield is needed. A massive vine, thick as a tree trunk and
 
 You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. This clear note has found it's way into your mind for months, reminding you of a turning point in your life. It is not mournful. It is not sad. It is a sound  untouched **purity**. This ghostly harmony begins to wrap around you like a second, cold skin. You look down on your once polished golden armor that you no longer care to shine and your unshakeable certainty, is a crushing weight. A voice whispers within your mind, "You cannot undo what you have done. Your heroism is a lie."
 
-**How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.** (I accept it and agree with it, but I feel athe armor getting uncomfortable but I start to try and take it off.)
+**How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.** 
+
+(I accept it and agree with it, but I feel athe armor getting uncomfortable but I start to try and take it off.)
 
 Your blade strikes true, slicing the vine in two. The tension is broken. All that remains is the sound of your own ragged breath and the crackling of the fire. Until finally your charge whimpers, "Is it dead?"
 
