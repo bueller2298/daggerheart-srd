@@ -156,6 +156,6 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, sir! We've heard back from the scholars of Alula!"
 
-**Describe this small child, and how you came to know them**
+**Describe this small child, and how you came to know them**.
 
-""
+"Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seem
