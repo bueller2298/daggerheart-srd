@@ -25,13 +25,12 @@ The walls of **Haven** may have kept out the gods, but they could not stop the
 
 ### A Deal in the Dark
 
-The job was simple enough. A merchant, claiming to need a bodyguard to retrieve a valuable ledger, offered you good coin for a quick trip into the heart of **Haven’s** underbelly. The place is a cesspit of smugglers and thieves known as the Black Market. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. This isn't a job. It's a setup.
-Harlow, you travel ahead of a small merchant man. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so called "grease-pits", a nickname for the places where smugglers, thieves, criminals, and just generally dangerous people tend to be found. The job is straight forward, bring him to the location, make the trade, and get him back. 
-He stops abruptly, his voice a nervous whisper. "It's just up ahead. The ledger, I mean. Are you ready?"
+
+Harlow, you travel ahead of a small merchant man. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so called "grease-pits", a nickname for the places where smugglers, thieves, criminals, and just generally dangerous people tend to be found. The job is straight forward, bring him to the location, make the trade, and get him back.  As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. He stops abruptly, his voice a nervous whisper. "It's just up ahead. The spot, I mean. Are you ready?"
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
-Before you can get an answer, the trap is sprung. Two thugs with crude knives and grim expressions step out from behind some crates. They aren’t interested in the ledger. They are interested in you.
+Two thugs with crude knives and grim expressions step out from behind some crates. They aren’t interested in the ledger. They are interested in you.
 
 "The boss wants a word with you," one snarls, his blade glinting in the pale moonlight. This isn't a fight; it's a test. A small, polite one. They are just enough to gauge your ability, but not enough to be a real threat.
 
