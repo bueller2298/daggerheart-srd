@@ -23,8 +23,6 @@ You can feel it in the air, a sticky warmth that never fades. The vines of the 
 
 The walls of **Haven** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
 
-## Purpose's vision
-
 ## Purpose's Vision of Broken Wings
 
 The world around you seems to blur, the sounds of the camp fading into a low, echoing hum. You feel a presence, ancient and mournful, settling over you like a cold shroud. The light shifts, and the world is no longer what it was. You stand not in the present, but in a memory—a waking vision of a time not long past.
