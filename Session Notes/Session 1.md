@@ -160,6 +160,8 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, what do you think they may have said? Do you think they've tracked down of the feather?" He seems to be brimming with excitement, clearly this is something that you to have been searching for information on for a while.
 
+**Describe this feather that you've been seraching for and the minor significance i**
+
 "Sir, sir, this could be it!"
 
-You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the "B" "
+You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the item you mentioned. "
