@@ -30,6 +30,8 @@ The walls of **Haven** may have kept out the gods, but they could not stop the
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
+Smaller older in need of a body guard, but has navigation skills because he doesnt have the mental bandwidth at his age to think that long, keeps to himself. First time job.zZ
+
 The alley you travel down turns up ahead. You slowly approach, hand on the handle of your weapon. You turn the corner to find two large thugs, blades at their side. Behind them, a figure in a cloak sits on a box, their face turned to the ground.
 
 "Nice of you to show up, a little late, Mortimer."
