@@ -26,51 +26,49 @@ The walls of **Haven** may have kept out the gods, but they could not stop the
 ### A Deal in the Dark
 
 
-Harlow, you travel ahead of a small merchant man. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so called "grease-pits", a nickname for the places where smugglers, thieves, criminals, and just generally dangerous people tend to be found. The job is straight forward, bring him to the location, make the trade, and get him back.  As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. He stops abruptly, his voice a nervous whisper. "It's just up ahead. The spot, I mean. Are you ready?"
+**Harlow,** you travel ahead of a small merchant. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so-called "grease-pits," a nickname for the places where smugglers, thieves, criminals, and generally dangerous people tend to be found. The job is straightforward: bring him to the location, make the trade, and get him back. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. He stops abruptly, his voice a nervous whisper. "It's just up ahead. The spot, I mean. Are you ready?"
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
-The alley you travel down turns up ahead, slowly you approach, hand on the handle of your weapon. You turn the corner to find two large thugs, blades at their side. Behind them, a figure in a cloak, sits on a box, with his face to the ground. 
+The alley you travel down turns up ahead. You slowly approach, hand on the handle of your weapon. You turn the corner to find two large thugs, blades at their side. Behind them, a figure in a cloak sits on a box, their face turned to the ground.
 
-"Nice of you to show up, a little late Mortimer."
+"Nice of you to show up, a little late, Mortimer."
 
-The Merchant pipes up, "Good help is hard to find these days." He nods toward you.
+The merchant pipes up, "Good help is hard to find these days." He nods toward you.
 
-"Don't I know it." The figure says. One of the thugs approaches Mortimer and places a bag into his hands, the jingle of coin is heard as it hits his hand. "Thank you Mortimer, that will be all. Harlow let's chat."
+"Don't I know it," the figure says. One of the thugs approaches the merchant and places a bag into his hands. The jingle of coin is heard as it hits his hand. "Thank you, Mortimer, that will be all. Harlow, let's chat."
 
-You have no idea who this man is and how he knows your name.
+You have no idea who this man is or how he knows your name.
 
-The figure gets up and walks over to a bulkhead, opens it, and steps down inside. His thugs motion toward you to follow. 
+The figure gets up and walks over to a bulkhead, opens it, and steps down inside. His thugs motion for you to follow.
 
 **What do you do?**
 
-The bulkhead enters into a  room that you now see, is lit dimly by candle light, and is about 15 ft. by 15 ft. The cloaked figure has made his way to the back of the room and his face is dimly lit by a pipe of some kind. The thugs enter the room behind you, closing the bulkhead with a loud clang. 
+The bulkhead enters a room you now see is lit dimly by candlelight and is about 15 ft. by 15 ft. The cloaked figure has made his way to the back of the room, and his face is dimly lit by a pipe of some kind. The thugs enter the room behind you, closing the bulkhead with a loud clang.
 
-Almost immediately, your survival instincts begin to click in, it's a force of habit.
+Almost immediately, your survival instincts click in—a force of habit.
 
-The figure says, "Boys let's see what he can do."
+The figure says, "Boys, let's see what he can do."
 
-A fight begins to break out, but you know this isn't a fight to the death, it seems like a test of some kind.
+A fight breaks out, but you know this isn't a fight to the death. It seems like a test of some kind.
 
 **How do you handle them? Describe your first action, and how you use your warhammer to dispatch them without being overly destructive.**
 
-You deal with them quickly, your movements fluid and efficient. The thugs drop to the alley floor, groaning in pain. 
+You deal with them quickly, your movements fluid and efficient. The thugs drop to the floor, groaning in pain.
 
-"Good." The figure says as steps through the smoke cloud he just exhaled.  He is wiry, unassuming yet somehow commanding. His eyes, as he begins to approach, however, are anything but simple. They are sharp, intelligent, and they examine you and it's as if they see into your soul and to every moment of your past.
+"Good," the figure says as he steps through the smoke cloud he just exhaled. He is wiry, unassuming, yet somehow commanding. As he begins to approach, his eyes, however, are anything but simple. They are sharp, intelligent, and it is as if they see into your soul and to every moment of your past.
 
 "My apologies for the theatrics," he says, his voice a smooth, silver whisper. "But I had to see for myself. Reports are one thing; proof is another. You handled yourself well." He looks at you, his gaze lingering on the warhammer at your hip. "I've heard tales of a faun warrior who fights for coin, but his eyes tell a different story. They say you are a ghost in the wind, a quiet protector with a talent for being in the right place at the right time. But they never speak of a motive. Why do you do this? Why do you wander alone?"
 
 **How do you respond to his question? Do you reveal any truth, or do you hide behind the armor of a mercenary?**
 
-The figure watches you carefully as you speak, puffing on his pipe. 
+The figure watches you carefully as you speak, puffing on his pipe.
 
-"A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. But a man on the run is a man in flux. A man on the precipice of something. I have found many men like this, and have set them onto their way towards their destines. "Do you know who I am boy?" He pulls back his cloak revealing his face. 
+"A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. But a man on the run is a man in flux, on the precipice of something. I have found many men like this, and have set them onto their way towards their destinies. Do you know who I am, boy?" He pulls back his cloak, revealing his face.
 
-This man is Kreil Dirn the spymaster of Haven, He is responsible for rooting out  insurgents, stopping schemes before they have a chance to  start, and keeping a close watch on [[Haven]]’s internal activities.
+This man is Kreil Dirn, the spymaster of Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities.
 
-"I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something that may change the life of every life still in these lands. What do you say to that?"
-
-
+"I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be a part of something that may change the life of every soul still in these lands. What do you say to that?"
 
 He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "Will you place yours in me?"
 
