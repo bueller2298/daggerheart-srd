@@ -56,7 +56,7 @@ A fight begins to break out, but you know this isn't a fight to the death, it se
 
 You deal with them quickly, your movements fluid and efficient. The thugs drop to the alley floor, groaning in pain. 
 
-"Good." The figure says as steps through the smoke cloud he just exhaled. He is slight, unassuming, dressed in the simple cloak of a traveler. He holds a small, half-eaten apple in his hand. His eyes, however, are anything but simple. They are sharp, intelligent, and they miss nothing. This is **Kreil Dirn**.
+"Good." The figure says as steps through the smoke cloud he just exhaled.  He is wiry, unassuming yet somehow commanding. His eyes, as he begins to approach, however, are anything but simple. They are sharp, intelligent, and they miss nothing. This is **Kreil Dirn**.
 
 "My apologies for the theatrics," he says, his voice a smooth, silver whisper. "But I had to see for myself. Reports are one thing; proof is another. You handled yourself well." He looks at you, his gaze lingering on the warhammer at your hip. "I've heard tales of a faun warrior who fights for coin, but his eyes tell a different story. They say you are a ghost in the wind, a quiet protector with a talent for being in the right place at the right time. But they never speak of a motive. Why do you do this? Why do you wander alone?"
 
