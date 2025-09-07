@@ -76,3 +76,18 @@ Just as your tiny creation finishes taking shape, a small, curious face peeks th
 Moments later, your mother's voice, sharp as a winter wind, cuts through your happy stupor. "What is this nonsense, child? What have you been doing?" Her face is a storm of fury and disappointment. She knows what you have been doing. She knows where you have been going. You see the servant boy standing behind her some distance. Her eyes land on your creation, and the magic shrivels and dies under her gaze.
 
 **What was the expression on your mother’s face in that moment? Was it fear? Rage? Something else? Describe the exact look you will never forget.**
+
+
+In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **Witherwild** is a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
+
+In this moment, your shield is needed. A massive vine, thick as a tree trunk and moving with a slow, predatory will of its own, is coiling around something precious. You stand between the encroaching verdance and your charge, your body a wall of iron and muscle, your blade sharp and ready. This is not a grand battle. It is a quiet, deliberate stand.
+
+**What is the vine coiling around, and why is it so important to you to save it?**
+
+You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. The song of **Thestle**, the spirit you were ordered to kill. It is not mournful. It is not sad. It is a sound of pure, untouched **purity**, a stark and painful reminder of the life you ended. It pierces the false comfort of your new life, bringing with it the echo of a forgotten truth: you were once a part of the problem.
+
+The song grows louder, a ghostly harmony that wraps around you like a second, cold skin. The feeling of your past, of your polished golden armor and your unshakeable certainty, is a crushing weight. Your old self whispers to you, "You cannot undo what you have done. Your heroism is a lie."
+
+**How do you push through this wave of doubt? Do you speak a word aloud, a vow to yourself, or do you channel your resolve into a physical action? Describe how you overcome this feeling of unworthiness.**
+
+Your blade strikes true, slicing the vine in two. The tension is broken. The phantom melody of Thestle's song fades. All that remains is the sound of your own ragged breath and the crackling of the fire. You are still Rayvian Goldwind, but you are also something more. You are not gilded anymore. You are a foundation of resilience, a simple stone. And that is enough.
