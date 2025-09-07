@@ -62,7 +62,9 @@ You deal with them quickly, your movements fluid and efficient. The thugs drop t
 
 **How do you respond to his question? Do you reveal any truth, or do you hide behind the armor of a mercenary?**
 
-The figure watches you carefully as you speak, taking a single, thoughtful bite of his apple. "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "My sources tell me of a war you lost and a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
+The figure watches you carefully as you speak, puffing on his pipe. 
+
+"A man who fights for nothing will eventually be consumed by nothing," he says quietly. "My sources tell me of a wound you can't heal. They tell me of a family you lost and a life you had to leave behind. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be part of something more. A chance to be a hero when no one else is looking."
 
 He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "I am placing my faith in you. Will you place yours in me?"
 
