@@ -44,7 +44,7 @@ The figure gets up and walks over to a bulkhead, opens it, and steps down inside
 
 **What do you do?**
 
-As 
+The room you now see, is lit dimly by candle light, and is about 15 ft. by 15 ft. The cloaked figure has made his way to the back of the room
 
 **How do you handle them? Describe your first action, and how you use your warhammer to dispatch them without being overly destructive.**
 
