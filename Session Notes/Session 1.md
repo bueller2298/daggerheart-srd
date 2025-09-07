@@ -90,5 +90,5 @@ You drive your blade into the fibrous plant. Sap bursts from it, thick and syrup
 
 Your blade strikes true, slicing the vine in two. The tension is broken. All that remains is the sound of your own ragged breath and the crackling of the fire. Until finally your charge whimpers, "Is it dead?"
 
-Sleep eventually 
+Sleep eventually overtakes your both, and the next day you continue on your journey until you eventually make your way to
 
