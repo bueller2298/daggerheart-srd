@@ -70,7 +70,7 @@ This man is Kreil Dirn, the spymaster of Haven. He is responsible for rooting ou
 
 "I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be a part of something that may change the life of every soul still in these lands. What do you say to that?"
 
-He hands you a scroll, its paper heavy and its words already written. "I need you to find some people for me. They have been selected for a reason, but they have no reason to trust you. You must convince them to come with you. If you succeed, you will have a part in a story greater than anything you could ever imagine. A story that could save both lands." He looks at you, his gaze piercing. "Will you place yours in me?"
+He hands you a scroll, its paper heavy and its words already written. "I need you to find some people. You will deliver my message to them, and you will bring them to me. They have no reason to trust you, but you will find a way to make them. Your success is not a suggestion; it's a requirement." He looks at you, his gaze piercing. "The future of both our worlds depends on your ability to convince them. Are we clear?"
 
 
 
