@@ -98,7 +98,7 @@ The vision focuses on a single place, a person. The training wasn't a long, slow
 
 Then, at the end of your training, a miracle. In a fierce sparring match with your **trainer**, your blows seem to be finding purchase more so than ever, your axe denting into their armor. Your trainer has never shied away from bloodshed in your training, and even you have scars that have marked your tribulations on your road to vengeance. He barks out at you, "V, you have learned a great deal, but do you have what it takes to strike true, when the moment comes, or will you cower?"
 
-**What do you say in return?**
+**What do you say in return? **
 
 "Then show me!" And suddenly the spar turns into what seems like a duel to the death. He begins to weave under your axe, striking you in your legs and starting to cut you down. You feel the pain set, your britches soaking with blood. You fall to your knees. As you wince in pain, before the thought of a countering blow, you look up and your master seems bigger than he ever was, like he was falling from the sky, and with a massive **WHAM**, he punches you in the face, and you feel the taste of your blood fill your mouth. "If you're going to hit me, then hit me!"
 
