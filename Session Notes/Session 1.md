@@ -171,4 +171,3 @@ You open a letter that reads, "Greetings (name), Your inquiry was received by th
 "Oh, I'm sorry sir. Does this mean you will stop looking, or will you venture to the Isle of the Twelve?"
 
 
-
