@@ -112,7 +112,7 @@ The vision rushes forward once more, time blurring past like a river. You feel t
 
 **What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**
 
-And then the vision fades, and you are back to reality. Wandering through the streets here in 
+And then the vision fades, and you are back to reality. Wandering through the streets here in Selonia. As you turn a familiar corner back towards the place you've found rest for some time now, you 
 
 ## A Glimpse of the Wild
 
