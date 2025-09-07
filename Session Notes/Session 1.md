@@ -63,16 +63,4 @@ The vision rushes forward once more, time blurring past like a river. You feel t
 
 ## A Glimpse of the Wild
 
-The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of Fanewick ,and the stories until eventually you had to see the land he described for yourself. Shortly after your 16th name-day you slipped away from the manicured gardens of **Haven** and into a place your father had called "Wood's End." That day your curiosity pulled your deeper and deeper into the wood until you happen upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
-
-**What does this person look like? Describe their general appearance, and one detail that makes them seem as though they have been a part of this forest forever.**
-
-The figure introduces themself as **Stonebark**, and over the next year, you frequent this place. You slowly learn to listen to the whispers of the wind, to feel the life in the plants, and begin to practice the magic of the wild. Now a year older, a year wiser, and a year more rebellious. It is late at night, and you are alone in your room, the silence broken only by the tick of an old clock. The air here is so still, so suffocatingly quiet. You remember the teachings of your elder, **Stonebark**. Your hands tingle with an urge to create, to bring life into this sterile place. You take a small white flower from a vase on your desk and begin to whisper to it the way **Stonebark** taught you. Slowly, impossibly, the petals swell and shift, reforming into something new.
-
-**What small animal did you shape from the blossoms?**
-
-Just as your tiny creation finishes taking shape, a small, curious face peeks through your open window. It is the son of the your family's servants, a younger boy with wide, inquisitive eyes. He stares at the tiny magical creation you have made. You know you should make it disappear, but for a moment, you are caught in the joy of your little trick. The boy’s eyes are wide with wonder, and then, slowly, a grin spreads across his face. You think he understands. And then, without a word, he is gone.
-
-Moments later, your mother's voice, sharp as a winter wind, cuts through your happy stupor. "What is this nonsense, child? What have you been doing?" Her face is a storm of fury and disappointment. She knows what you have been doing. She knows where you have been going. You see the servant boy standing behind her some distance. Her eyes land on your creation, and the magic shrivels and dies under her gaze. 
-
-**What was the expression on your mother’s face in that moment? Was it fear? Rage? Something else? Describe the exact look you will never forget.**
+The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so 
