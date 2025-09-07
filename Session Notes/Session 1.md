@@ -112,6 +112,8 @@ The vision rushes forward once more, time blurring past like a river. You feel t
 
 **What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?**
 
+And then the vision fades, and you are back to reality. Wandering through the streets here in 
+
 ## A Glimpse of the Wild
 
 The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of **Fanewick**, stories you had to see for yourself. Shortly after your 16th name-day, you slipped away from the manicured gardens of **Haven** and into a place your father had called "Wood's End." That day your curiosity pulled you deeper and deeper into the wood until you happened upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
@@ -148,7 +150,7 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 **Where do you go in this town?**
 
-As you approach, you are greeted by an unfamiliar face. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood
+As you approach, you are greeted by an unfamiliar face. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood.
 
 ## Ryan
 
