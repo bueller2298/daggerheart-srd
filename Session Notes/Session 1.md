@@ -162,4 +162,4 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, sir, this could be it!"
 
-You open a letter that reads, "Greetings (name), Your inquiry has been received by the Alulan Atelie"
+You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the "B" "
