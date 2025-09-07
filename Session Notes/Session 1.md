@@ -36,7 +36,12 @@ The alley you travel down turns up ahead, slowly you approach, hand on the handl
 
 The Merchant pipes up, "Good help is hard to find these days." He nods toward you.
 
-"Don't I know it."
+"Don't I know it. Let's go."
+
+The figure gets up and walks over to a bulkhead, opens it, and steps down inside. His thugs motion toward you to follow. Mortimer, the merchant, begins to step forward, 
+
+**What do you do?**
+
 
 "The boss wants a word with you," one snarls, his blade glinting in the pale moonlight. This isn't a fight; it's a test. A small, polite one. They are just enough to gauge your ability, but not enough to be a real threat.
 
