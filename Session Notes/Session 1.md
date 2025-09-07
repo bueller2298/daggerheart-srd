@@ -170,4 +170,4 @@ You open a letter that reads, "Greetings (name), Your inquiry was received by th
 
 "Oh, I'm sorry sir. Does this mean you will stop looking, or will you venture to the Isle of the Twelve?"
 
-
+As you way your options, you know one thing, you have been awake for far too long, and you can use a drink and some much needed rest. So you make your way to the local tavern here in
