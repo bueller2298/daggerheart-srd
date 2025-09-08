@@ -186,4 +186,4 @@ Flawsee has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-Harlow, on a job, was lead to a dark alley where he had a rendezvous with Kreil Dirn. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick adn
+Harlow, on a job, was lead to a dark alley where he had a rendezvous with Kreil Dirn. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and Haven, and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish 
