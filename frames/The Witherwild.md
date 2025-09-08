@@ -72,7 +72,7 @@ Characters from these communities were likely raised in Fanewick’s deadly envi
 
 In exchange for protection from the Witherwild for themselves and their families, some Wicklings from these groups have been forced to take jobs as farmers in Haven’s flower fields. Though it is backbreaking work performed for a nation destroying their land, the farmers are offered safety by the Haven fires that burn back the ever-creeping Witherwild.
 
-> *What Faint Divinities do you give tribute to, and how have you been rewarded in kind?*
+> *What [[Faint Divinities]] do you give tribute to, and how have you been rewarded in kind?*
 >
 > *You displeased a god of Fanewick. What did you do, and what misfortune befell you or a loved one?*
 >
@@ -248,7 +248,7 @@ Fanewick’s various divinities each have their own opinion concerning the Withe
 
 These are but a small slice of the hundreds, if not thousands, of gods watching, lurking, relaxing, hunting, and playing throughout Fanewick.
 
-> *What Faint Divinities do the PCs acknowledge and pay tribute to, if any?*
+> *What [[Faint Divinities]] do the PCs acknowledge and pay tribute to, if any?*
 >
 > *How has the Witherwild changed the outlook, personality, and dispositions of the [[Faint Divinities]] the characters encounter?*
 >

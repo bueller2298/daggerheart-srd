@@ -9,11 +9,11 @@ Listen closely, and you will hear a faint hum—the thrum of **Fanewick's** un
 
 But the world outside has changed.
 
-In the walled city of **Haven**, the walls themselves are a tomb. Built from the petrified remains of **Shun’Aush, the Granite Ophid**, they were meant to be a monument to a godless empire. For a thousand years, they stood as a shield. But the ancient dust of that slain deity has found its way home.
+In the walled city of **[[Haven]]**, the walls themselves are a tomb. Built from the petrified remains of **Shun’Aush, the Granite Ophid**, they were meant to be a monument to a godless empire. For a thousand years, they stood as a shield. But the ancient dust of that slain deity has found its way home.
 
-It rose on the wind and settled in the lungs of **Haven's** people, a curse known as the **Serpent’s Sickness**. It starts with a cough of fine dust and ends with a scream, turning flesh to stone and leaving a city of silent statues.
+It rose on the wind and settled in the lungs of **[[Haven]]'s** people, a curse known as the **[[Serpent’s Sickness]]**. It starts with a cough of fine dust and ends with a scream, turning flesh to stone and leaving a city of silent statues.
 
-In their desperation, the **Havenites** plunged into **Fanewick** in search of a cure: a single, rare bloom known as the **crimson lady’s veil**. But to find a cure, they brought a disease of their own. Under the command of **Archmage Phylax**, they did the unthinkable. They stole the **Reaping Eye** from **Nikta**, the Great Owl and Shepherd of the Seasons.
+In their desperation, the **Havenites** plunged into **Fanewick** in search of a cure: a single, rare bloom known as the **[[crimson lady’s veil]]**. But to find a cure, they brought a disease of their own. Under the command of **Archmage Phylax**, they did the unthinkable. They stole the **Reaping Eye** from **Nikta**, the Great Owl and Shepherd of the Seasons.
 
 And in that moment, the balance broke.
 
@@ -21,7 +21,7 @@ Now, **Nikta** can only watch over the land with a single, unblinking **Sowin
 
 You can feel it in the air, a sticky warmth that never fades. The vines of the **[[Witherwild]]** choke the paths and strangle the rivers. The trees twist and coil into monstrous hunters. The very earth you walk on has become a hungry, verdant thing, swallowing everything in its path.
 
-The walls of **Haven** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
+The walls of **[[Haven]]** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
 
 ### A Deal in the Dark
 
@@ -68,7 +68,7 @@ The figure watches you carefully as you speak, puffing on his pipe.
 
 "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. But a man on the run is a man in flux, on the precipice of something. I have found many men like this, and have set them onto their way towards their destinies. Do you know who I am, boy?" He pulls back his cloak, revealing his face.
 
-This man is [[Kreil Dirn]], the spymaster of Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities.
+This man is [[Kreil Dirn]], the spymaster of [[Haven]]. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on [[Haven]]’s internal activities.
 
 "I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be a part of something that may change the life of every soul still in these lands. What do you say to that?"
 
@@ -118,7 +118,7 @@ And then the vision fades, and you are back to reality. Wandering through the st
 
 ## A Glimpse of the Wild
 
-The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of **Fanewick**, stories you had to see for yourself. Shortly after your 16th name-day, you slipped away from the manicured gardens of **Haven** and into a place your father had called "Wood's End." That day your curiosity pulled you deeper and deeper into the wood until you happened upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
+The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of **Fanewick**, stories you had to see for yourself. Shortly after your 16th name-day, you slipped away from the manicured gardens of **[[Haven]]** and into a place your father had called "Wood's End." That day your curiosity pulled you deeper and deeper into the wood until you happened upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
 
 **What does this person look like? Describe their general appearance, and one detail that makes them seem as though they have been a part of this forest forever.**
 
@@ -186,4 +186,4 @@ Flawsee has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-Harlow, on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and Haven, and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to Haven to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to Haven.
+Harlow, on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
