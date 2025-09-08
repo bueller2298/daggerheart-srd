@@ -183,3 +183,7 @@ As you way your options, you know one thing, you have been awake for far too lon
 As you look around you notice someone a few new faces.
 
 Flawsee has a broom like tuft of hair that marks his plight and curse
+
+
+Session 1 Summary
+Harlow, on a job, was lead to a dark alley where he had a rendesvouz with Kreil Dirn. There he was given a jo
