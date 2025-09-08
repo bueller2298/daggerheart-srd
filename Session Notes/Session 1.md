@@ -5,7 +5,7 @@ The [[Reaping Eye]] is stowed in a secure vault beneath the  central tower of [[
 
 "Silence the bells, for their ring is a lie. The seasons are broken. The world is coming undone.
 
-Listen closely, and you will hear a faint hum—the thrum of **Fanewick's** unending life. For centuries, this untamed land has kept its secrets in the dark, twisted woods, guarded by ancient rules and the strange, small miracles of **Faint Divinities**. The people here, the **Wicklings**, have always been hardy, living by a single truth: the wilderness is a living thing, and you must respect its hunger.
+Listen closely, and you will hear a faint hum—the thrum of **Fanewick's** unending life. For centuries, this untamed land has kept its secrets in the dark, twisted woods, guarded by ancient rules and the strange, small miracles of **[[Faint Divinities]]**. The people here, the **Wicklings**, have always been hardy, living by a single truth: the wilderness is a living thing, and you must respect its hunger.
 
 But the world outside has changed.
 
@@ -19,7 +19,7 @@ And in that moment, the balance broke.
 
 Now, **Nikta** can only watch over the land with a single, unblinking **Sowing Eye**. The cycle of growth and decay is gone. The world is stuck in a state of eternal spring.
 
-You can feel it in the air, a sticky warmth that never fades. The vines of the **Witherwild** choke the paths and strangle the rivers. The trees twist and coil into monstrous hunters. The very earth you walk on has become a hungry, verdant thing, swallowing everything in its path.
+You can feel it in the air, a sticky warmth that never fades. The vines of the **[[Witherwild]]** choke the paths and strangle the rivers. The trees twist and coil into monstrous hunters. The very earth you walk on has become a hungry, verdant thing, swallowing everything in its path.
 
 The walls of **Haven** may have kept out the gods, but they could not stop the vengeance of a broken land. And now, at the border of this eternal spring, your story begins."
 
@@ -68,7 +68,7 @@ The figure watches you carefully as you speak, puffing on his pipe.
 
 "A man who fights for nothing will eventually be consumed by nothing," he says quietly. "I've been around long enough to know the look of a man who is running from something. Perhaps you don't even know what it is. But a man on the run is a man in flux, on the precipice of something. I have found many men like this, and have set them onto their way towards their destinies. Do you know who I am, boy?" He pulls back his cloak, revealing his face.
 
-This man is Kreil Dirn, the spymaster of Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities.
+This man is [[Kreil Dirn]], the spymaster of Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities.
 
 "I need you to do something for me. I'm not offering you coin, for I know you will eventually be sick of it. I'm offering you a chance to be a part of something that may change the life of every soul still in these lands. What do you say to that?"
 
@@ -136,7 +136,7 @@ Moments later, your mother's voice, sharp as a winter wind, cuts through your ha
 
 ## Rayvian 
 
-In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **Witherwild** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
+In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
 
 In this moment, your shield is needed. A massive vine, thick as a tree trunk and moving with a slow, predatory will of its own, is coiling around something precious. You stand between the encroaching verdance and your charge, your body a wall of iron and muscle, your blade sharp and ready. This is not a grand battle. It is a quiet, deliberate stand.
 
@@ -170,7 +170,7 @@ You've been sitting in place for what seems like days. A stack of tomes and scro
 
 "Sir, sir, this could be it!"
 
-You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the item you mentioned. Our records indicate three known feathers that match your description, though many of these records seem to be passed down through generations of anecdotes and ballads, with little to no confirmation. The three feathers of legend are known as as such. The Blighted Feather of Oz'kan, Pley'ni's Razor, and the Scarred Tuft of Tulani. *Use the description given to differentiate three separate feathers.* The only one with a rumored location seems to be within the Isle of the Twelve. With the onset of the Witherwild we do not recommend a journey to this place alone, as insurmountable danger may lie within, with several vessels not returning to our lands northern shores. We apologize for our lack of certainty. "
+You open a letter that reads, "Greetings (name), Your inquiry was received by the Alulan Archival Atelier and after digging into our records we believe to have some information for you on the item you mentioned. Our records indicate three known feathers that match your description, though many of these records seem to be passed down through generations of anecdotes and ballads, with little to no confirmation. The three feathers of legend are known as as such. The Blighted Feather of Oz'kan, Pley'ni's Razor, and the Scarred Tuft of Tulani. *Use the description given to differentiate three separate feathers.* The only one with a rumored location seems to be within the Isle of the Twelve. With the onset of the [[Witherwild]] we do not recommend a journey to this place alone, as insurmountable danger may lie within, with several vessels not returning to our lands northern shores. We apologize for our lack of certainty. "
 
 "What does it say, sir, do they know where it is?"
 
@@ -186,4 +186,4 @@ Flawsee has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-Harlow, on a job, was lead to a dark alley where he had a rendezvous with Kreil Dirn. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and Haven, and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to Haven to meet back up with Kreil Dirn, along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to Haven.
+Harlow, on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and Haven, and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to Haven to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to Haven.

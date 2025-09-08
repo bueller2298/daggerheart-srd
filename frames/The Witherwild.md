@@ -28,9 +28,9 @@ Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and
 
 *If your group decides to play this campaign, give your players the following information before character creation.*
 
-**Fanewick** is a wild and untamed land, long avoided by outside forces. The woods are dark and twisting, filled with Faint Divinities who perform small miracles and services for its inhabitants, but are just as likely to lure travelers off narrow paths to their ruin. Seemingly harmless expanses of field hide bogs that engulf entire armies, consuming heavy artillery as quickly as it can cross the border. This wilderness fosters hardy people who are bold enough to raise families where others have not and strictly follow the unique rules that keep them safe. These Wicklings remained insulated from their neighbors’ wars until plague forced the people of Haven to desperate acts.
+**Fanewick** is a wild and untamed land, long avoided by outside forces. The woods are dark and twisting, filled with [[Faint Divinities]] who perform small miracles and services for its inhabitants, but are just as likely to lure travelers off narrow paths to their ruin. Seemingly harmless expanses of field hide bogs that engulf entire armies, consuming heavy artillery as quickly as it can cross the border. This wilderness fosters hardy people who are bold enough to raise families where others have not and strictly follow the unique rules that keep them safe. These Wicklings remained insulated from their neighbors’ wars until plague forced the people of Haven to desperate acts.
 
-**Haven** was once the most powerful force in the region; for centuries, the high stone walls into the capital bore the phrase “The Godless Gate.” While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that the founders of Haven wished to be free of the influence of the Faint Divinities that dominated the surrounding regions. They hatched a plan to kill one of the mightiest of these deities, known as **Shun’Aush the Granite Ophid**. While their exact method of deicide is forgotten, their victory ensured Haven’s dominance in the region for centuries to come. They made their home behind his remains, which became the mighty walls that Haven is known for.
+**Haven** was once the most powerful force in the region; for centuries, the high stone walls into the capital bore the phrase “The Godless Gate.” While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that the founders of Haven wished to be free of the influence of the [[Faint Divinities]] that dominated the surrounding regions. They hatched a plan to kill one of the mightiest of these deities, known as **[[Shun’Aush the Granite Ophid]]**. While their exact method of deicide is forgotten, their victory ensured Haven’s dominance in the region for centuries to come. They made their home behind his remains, which became the mighty walls that Haven is known for.
 
 But Shun’Aush would have his revenge. As the Haventies carved his stone body, the fine dust left behind settled into the surrounding earth. There was a time of prosperity over many centuries while the scales of the god remained undisturbed. But progress is its own pressure. The growing population demanded increased productivity, and as farmers tilled deeper soil and miners hacked into hidden stone, the ancient stone dust rose to the surface. The same walls that brought the city security became the crucible that incubated a virulent plague.
 
@@ -68,7 +68,7 @@ In Haven, the wealthiest members are highborne, having inherited riches built in
 
 #### RIDGEBORNE, UNDERBORNE, AND WILDBORNE
 
-Characters from these communities were likely raised in Fanewick’s deadly environs, which have only become more dangerous as the Witherwild grows. Each community has unique customs, some freely shared and others kept secret, that allow them safe passage through dangerous terrain and the Faint Divinities’ territories.
+Characters from these communities were likely raised in Fanewick’s deadly environs, which have only become more dangerous as the Witherwild grows. Each community has unique customs, some freely shared and others kept secret, that allow them safe passage through dangerous terrain and the [[Faint Divinities]]’ territories.
 
 In exchange for protection from the Witherwild for themselves and their families, some Wicklings from these groups have been forced to take jobs as farmers in Haven’s flower fields. Though it is backbreaking work performed for a nation destroying their land, the farmers are offered safety by the Haven fires that burn back the ever-creeping Witherwild.
 
@@ -184,7 +184,7 @@ Find your character’s humanity and showcase it whenever you can. They should b
 
 #### PAINT THE WORLD IN CONTRAST
 
-Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Haventies fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
+Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the [[Faint Divinities]] with the devotion of the Wicklings and Haventies fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
 
 #### SHOW THEM TRUE DANGER
 
@@ -250,7 +250,7 @@ These are but a small slice of the hundreds, if not thousands, of gods watching,
 
 > *What Faint Divinities do the PCs acknowledge and pay tribute to, if any?*
 >
-> *How has the Witherwild changed the outlook, personality, and dispositions of the Faint Divinities the characters encounter?*
+> *How has the Witherwild changed the outlook, personality, and dispositions of the [[Faint Divinities]] the characters encounter?*
 >
 > *Which gods ally themselves with Haven to preserve the endless spring? Which align with Fanewick?*
 
@@ -260,13 +260,13 @@ These are but a small slice of the hundreds, if not thousands, of gods watching,
 
 The Reaping Eye is stowed in a secure vault beneath the central tower of Haven’s wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **Fanewraith** (she/her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren’t when Haven invaded.
 
-Haven’s beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities. Kreil has never agreed—at least not openly—with **Archmage Phylax’s** (they/them) decision to steal the Reaping Eye, and the consequences they’ve all paid for that decision have been grimly vindicating.
+Haven’s beleaguered spymaster, **[[Kreil Dirn]]** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities. [[Kreil Dirn|Kreil]] has never agreed—at least not openly—with **Archmage Phylax’s** (they/them) decision to steal the Reaping Eye, and the consequences they’ve all paid for that decision have been grimly vindicating.
 
-Recently, Kreil uncovered the Fanewraith’s plot and is horrified by the possibility of her success. Knowing he can’t send a troop of Haven soldiers deep into the woods to hunt down and stop the Fanewraith from stealing the Sowing Eye, Kreil uses his vast network of informants and spies to find a group of adventurers who can bring the Fanewraith to swift justice.
+Recently, [[Kreil Dirn|Kreil]] uncovered the Fanewraith’s plot and is horrified by the possibility of her success. Knowing he can’t send a troop of Haven soldiers deep into the woods to hunt down and stop the Fanewraith from stealing the Sowing Eye, [[Kreil Dirn|Kreil]] uses his vast network of informants and spies to find a group of adventurers who can bring the Fanewraith to swift justice.
 
-The party is sent an invitation from Haven to meet with Kreil. But is his information correct? Does he have his own motivation or secret ambition? Whether they come from Fanewick or Haven, the party must extend some trust to a person who is equally as dangerous and mercurial as the “enemy” they pursue. And what will they do when they find the Fanewraith? Bring her to justice? Side with her? Attempt to recover the Reaping Eye?
+The party is sent an invitation from Haven to meet with [[Kreil Dirn|Kreil]]. But is his information correct? Does he have his own motivation or secret ambition? Whether they come from Fanewick or Haven, the party must extend some trust to a person who is equally as dangerous and mercurial as the “enemy” they pursue. And what will they do when they find the Fanewraith? Bring her to justice? Side with her? Attempt to recover the Reaping Eye?
 
-Kreil advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
+[[Kreil Dirn|Kreil]] advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
 
 ## CAMPAIGN MECHANICS
 
