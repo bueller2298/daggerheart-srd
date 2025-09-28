@@ -2,7 +2,7 @@
 ## Summary
 ## **The Gathering: A Season Stuck in Stone**
 
-The world of **Fanewick** is choking. The theft of **Nikta’s Reaping Eye** by the desperate forces of **Haven** has shattered the natural order, trapping the land in a perpetual, sickly spring. The **Witherwild** now blooms with monstrous hunger, while the walled city of **Haven**—a tomb built from the god **Shun’Aush**—slowly turns its residents to stone with the **Serpent’s Sickness**. The balance is broken, and a new story must begin.
+The world of **Fanewick** is choking. The theft of **Nikta’s Reaping Eye** by the desperate forces of **Haven** has shattered the natural order, trapping the land in a perpetual, sickly spring. The **Witherwild** now blooms with monstrous hunger, while the walled city of **Haven**—a tomb built from the feint deity **Shun’Aush**—slowly turns its residents to stone with the **Serpent’s Sickness**. The balance is broken, and a new story must begin.
 
 It started in the shadow-drenched grease-pits of the city, where the spymaster **Kreil Dirn** sought not coin, but instruments of destiny.
 
