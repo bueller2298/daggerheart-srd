@@ -1,3 +1,25 @@
+
+## Summary
+## **The Gathering: A Season Stuck in Stone**
+
+The world of **Fanewick** is choking. The theft of **Nikta’s Reaping Eye** by the desperate forces of **Haven** has shattered the natural order, trapping the land in a perpetual, sickly spring. The **Witherwild** now blooms with monstrous hunger, while the walled city of **Haven**—a tomb built from the god **Shun’Aush**—slowly turns its residents to stone with the **Serpent’s Sickness**. The balance is broken, and a new story must begin.
+
+It started in the shadow-drenched grease-pits of the city, where the spymaster **Kreil Dirn** sought not coin, but instruments of destiny.
+
+**Harlow**, the faun warrior who fights for coin to escape an inner void, found himself tested by Dirn’s thugs, his precise, brutal movements earning him a scroll instead of silver. He was given a mandate: gather those who could yet save the world.
+
+His path led him to the massive, bright-winged giant who had reclaimed his birthright: **Purpose**. Once exiled from his people's valley village by **High Priest Daveed** and forced to wander, he endured brutal training and a trial by fire. Now, bearing **eight rainbow wings**—a fierce, divine gift from the broken goddess Nikta—he stands as her champion, his exile ended and his name restored, ready to strike a blow against the new corruption that threatens his home.
+
+Next, Harlow encountered **Rayvian**, a fierce bulwark of a protector who wears his heavy, golden armor like a shackle of shame. Haunted by a past failure, Rayvian finds his only solace in shielding the innocent. It was while protecting a lost child from the hungry, coiling vines of the **Witherwild** that he was marked, the wave of his unworthiness momentarily pushed aside as he began to **shed his ill-fitting armor**.
+
+Finally, they tracked down **Flawsee L’Bougie**, the bookish spell-caster tormented by a curse that has already claimed his family and is now visibly upon him, marked by a shocking tuft of hair. Driven by his loyal young assistant, **Terrenace**, Flawsee is desperate for a cure. His latest lead is the legendary **Blighted Feather of Oz'kan**, rumored to be on the perilous **Isle of the Twelve**, but a summons from Dirn diverted him from his immediate search.
+
+The three had been found, brought together by the shadowy mandate of the spymaster.
+
+Their nascent team was immediately tested on the road toward **Haven**, facing off against a pair of **massive bullfrogs** made dangerous by the land’s corruption. They fought as one, their distinct talents meshing in a brutal, efficient display that routed the surviving beast.
+
+Now, as a strange and powerful group of strangers, you travel toward the petrified walls of **Haven**, the city that holds the key to the world's ruin and perhaps its salvation. **Kreil Dirn** awaits.
+
 ## A Glimpse of the Wild
 
 The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of **Fanewick**, stories you had to see for yourself. Shortly after your 16th name-day, you slipped away from the manicured gardens of **[[Haven]]** and into a place your father had called "Wood's End." That day your curiosity pulled you deeper and deeper into the wood until you happened upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
