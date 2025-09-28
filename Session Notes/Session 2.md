@@ -34,6 +34,8 @@ The figure introduces themself as **Stonebark**, and over the next year, you fr
 
 **What small animal did you shape from the blossoms?**
 
+A chinchilla 
+
 Just as your tiny creation finishes taking shape, a small, curious face peeks through your open window. It is the son of your family's servants, a younger boy with wide, inquisitive eyes. He stares at the tiny magical creation you have made. You know you should make it disappear, but for a moment, you are caught in the joy of your little trick. The boy’s eyes are wide with wonder, and then, slowly, a grin spreads across his face. You think he understands. And then, without a word, he is gone.
 
 Moments later, your mother's voice, sharp as a winter wind, cuts through your happy stupor. "What is this nonsense, child? What have you been doing?" Her face is a storm of fury and disappointment. She knows what you have been doing. She knows where you have been going. You see the servant boy standing behind her some distance. Her eyes land on your creation, and the magic shrivels and dies under her gaze.
