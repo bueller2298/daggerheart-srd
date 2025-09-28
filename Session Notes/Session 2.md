@@ -34,7 +34,7 @@ The figure introduces themself as **Stonebark**, and over the next year, you fr
 
 **What small animal did you shape from the blossoms?**
 
-A chinchilla d
+A chinchilla, 
 
 Just as your tiny creation finishes taking shape, a small, curious face peeks through your open window. It is the son of your family's servants, a younger boy with wide, inquisitive eyes. He stares at the tiny magical creation you have made. You know you should make it disappear, but for a moment, you are caught in the joy of your little trick. The boy’s eyes are wide with wonder, and then, slowly, a grin spreads across his face. You think he understands. And then, without a word, he is gone.
 
