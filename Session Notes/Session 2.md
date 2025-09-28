@@ -22,6 +22,8 @@ Now, as a strange and powerful group of strangers, you travel toward the petrifi
 
 ## A Glimpse of the Wild
 
+Khatari Gabbys Character
+
 The air is damp and cold, but you barely notice. The feeling of freedom in the woods is so intoxicating, so different from the suffocating order of the castle your family resides in. For years your father has told you stories of the wild land of **Fanewick**, stories you had to see for yourself. Shortly after your 16th name-day, you slipped away from the manicured gardens of **[[Haven]]** and into a place your father had called "Wood's End." That day your curiosity pulled you deeper and deeper into the wood until you happened upon a clearing. The trees here are old, their branches bowed low with age. In the center, a figure stands motionless, a wizened form that seems to be a part of the forest itself. They are a living extension of the moss on the trees and the roots in the ground. They are a part of the forest, and as you watch, they turn to face you.
 
 **What does this person look like? Describe their general appearance, and one detail that makes them seem as though they have been a part of this forest forever.**
