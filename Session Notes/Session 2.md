@@ -1,6 +1,4 @@
 
-![[Recording 20250928124024.m4a]]
-
 ## Summary
 ## **The Gathering: A Season Stuck in Stone**
 
