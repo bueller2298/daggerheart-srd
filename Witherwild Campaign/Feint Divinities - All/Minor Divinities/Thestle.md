@@ -1,0 +1,1 @@
+A spirit of song and wind that fell to minor deicide at the hands of [[Rayvian Goldwind|Rayvian]] and his battalion during the beginning
