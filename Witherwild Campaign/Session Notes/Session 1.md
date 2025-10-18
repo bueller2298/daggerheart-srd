@@ -73,7 +73,7 @@ He hands you a scroll, its paper heavy and its words already written. "I need yo
 
 
 
-## Purpose's Vision of Broken Wings
+## [[Purpose]]'s Vision of Broken Wings
 
 The world around you seems to blur, the sounds of the camp fading into a low, echoing hum. You feel a presence, ancient and mournful, settling over you like a cold shroud. The light shifts, and the world is no longer what it was. You stand not in the present, but in a memory—a waking vision of a time not long past.
 
@@ -81,7 +81,7 @@ The world around you seems to blur, the sounds of the camp fading into a low, ec
 
 You are a young giant again, your hands clutched tightly at your mother's cloak as she weeps. Your father stands tall, defiant, his shoulders stooped under the weight of injustice. Before you, a crowd of your kin. The High Priest's voice booms across the village square, a sentence of exile. Your family's name, **Purpose**, is stripped from you.
 
-**What is the name of the High Priest who is yelling out to the crowd, to your dismay?** (Daveed)
+**What is the name of the High Priest who is yelling out to the crowd, to your dismay?** ([[Daveed]])
 
 The High Priest raises his hands, silencing the crowd. His voice, a soothing balm, cuts through the tension. "My people," he begins, his gaze sweeping over the crowd, "look at the sickness that has come to our land. We have prayed, we have fasted, and we have waited for **Nikta** to restore the balance. But she has not. She has turned her eyes away from us, and so we must look to a new path. The **balance** this family clings to is a relic of a time that is past, a cage of decay that will only bring us ruin!" He turns to you, his face a mask of disappointment. "And you, young one... you are **Purpose** no longer. A hollow name for a hollow life."
 
@@ -117,7 +117,7 @@ And then the vision fades, and you are back to reality. Wandering through the st
 
 
 
-## Rayvian 
+## [[Rayvian]]
 
 In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
 
