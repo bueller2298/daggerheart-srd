@@ -1,0 +1,3 @@
+Described as a humanoid being resembling a sunflower stalk from a distance, but when approached reminded [[Khatari]] of the face of her child hood best friend.
+
+Taught [[Khatari]] the ways of being a [[Druid]] for some amount of time. Eventually [[Khatari]] made a small flower in her bedroom into a chinchilla shape with druidcraft and it led to her being banished from her wealthy family's estate, deep within the innermost parts of [[Haven]].
