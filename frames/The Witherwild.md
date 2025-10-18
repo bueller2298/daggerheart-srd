@@ -58,7 +58,7 @@ In Fanewick, knowledge is the most valuable commodity, and those who have expert
 >
 > *You once traded important knowledge for something terrible. What did you impart and what did you gain in return?*
 
-In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from the Serpent’s Sickness, none were immune.
+In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from [[Serpent’s Sickness|the Serpent]]’s Sickness, none were immune.
 
 > *Who have you lost to the Serpent’s Sickness? How did it affect you?*
 >
@@ -138,7 +138,7 @@ After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infe
 
 Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven’s army invaded.
 
-**Haventies and the Serpent’s Sickness**
+**Havenites and the Serpent’s Sickness**
 
 Anyone, but especially those from Haven, may carry the Serpent’s Sickness, which stiffens their movements and gives them limited time to survive without a cure.
 
