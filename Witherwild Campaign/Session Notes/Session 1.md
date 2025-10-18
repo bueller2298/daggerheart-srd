@@ -117,13 +117,13 @@ And then the vision fades, and you are back to reality. Wandering through the st
 
 
 
-## [[Rayvian]]
+## [[Rayvian Goldwind]]
 
-In front of you, [[Rayvian]], a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
+In front of you, [[Rayvian Goldwind]], a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
 
 In this moment, your shield is needed. A massive vine, thick as a tree trunk and moving with a slow, predatory will of its own, is coiling around something precious. You stand between the encroaching verdance and your charge, your body a wall of iron and muscle, your blade sharp and ready. This is not a grand battle. It is a quiet, deliberate stand.
 
-**What is the vine coiling around, and why is it so important to you to save it?** (This is someone young who just went out and got lost, and [[Rayvian]] encountered them wandering. )
+**What is the vine coiling around, and why is it so important to you to save it?** (This is someone young who just went out and got lost, and [[Rayvian Goldwind]] encountered them wandering. )
 
 You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. This clear note has found it's way into your mind for months, reminding you of a turning point in your life. It is not mournful. It is not sad. It is a sound  untouched **purity**. This ghostly harmony begins to wrap around you like a second, cold skin. You look down on your once polished golden armor that you no longer care to shine and your unshakeable certainty, is a crushing weight. A voice whispers within your mind, "You cannot undo what you have done. Your heroism is a lie."
 
@@ -169,4 +169,4 @@ As you look around you notice someone a few new faces.
 
 
 Session 1 Summary
-[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met [[Purpose]], a giant with a massive set of divine wings, [[Rayvian]], a fierce protector looking to do good, and [[Flawsee L'Bougie|Flawsee]], a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
+[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met [[Purpose]], a giant with a massive set of divine wings, [[Rayvian Goldwind]], a fierce protector looking to do good, and [[Flawsee L'Bougie|Flawsee]], a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
