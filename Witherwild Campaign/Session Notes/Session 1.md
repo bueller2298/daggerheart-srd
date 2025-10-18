@@ -165,8 +165,8 @@ As you way your options, you know one thing, you have been awake for far too lon
 
 As you look around you notice someone a few new faces.
 
-Flawsee has a broom like tuft of hair that marks his plight and curse
+[[Flawsee L'Bougie|Flawsee]] has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met [[Purpose]], a giant with a massive set of divine wings, [[Rayvian]], a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
+[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met [[Purpose]], a giant with a massive set of divine wings, [[Rayvian]], a fierce protector looking to do good, and [[Flawsee L'Bougie|Flawsee]], a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].

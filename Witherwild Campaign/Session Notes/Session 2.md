@@ -12,7 +12,7 @@ His path led him to the massive, bright-winged giant who had reclaimed his birth
 
 Next, [[Harlow]] encountered **[[Rayvian]]**, a fierce bulwark of a protector who wears his heavy, golden armor like a shackle of shame. Haunted by a past failure, [[Rayvian]] finds his only solace in shielding the innocent. It was while protecting a lost child from the hungry, coiling vines of the **Witherwild** that he was marked, the wave of his unworthiness momentarily pushed aside as he began to **shed his ill-fitting armor**.
 
-Finally, they tracked down **Flawsee L’Bougie**, the bookish spell-caster tormented by a curse that has already claimed his family and is now visibly upon him, marked by a shocking tuft of hair. Driven by his loyal young assistant, **Terrenace**, Flawsee is desperate for a cure. His latest lead is the legendary **Blighted Feather of Oz'kan**, rumored to be on the perilous **Isle of the Twelve**, but a summons from Dirn diverted him from his immediate search.
+Finally, they tracked down **[[Flawsee L'Bougie|Flawsee]] L’Bougie**, the bookish spell-caster tormented by a curse that has already claimed his family and is now visibly upon him, marked by a shocking tuft of hair. Driven by his loyal young assistant, **Terrenace**, [[Flawsee L'Bougie|Flawsee]] is desperate for a cure. His latest lead is the legendary **Blighted Feather of Oz'kan**, rumored to be on the perilous **Isle of the Twelve**, but a summons from Dirn diverted him from his immediate search.
 
 The three had been found, brought together by the shadowy mandate of the spymaster.
 
