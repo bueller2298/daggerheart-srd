@@ -6,8 +6,8 @@ mapCalc1: NaN
 
 
 ```leaflet  
-id: Mapfile  
-image: [[Mapfile.webp]] 
+id: ![[![[Mapfile.webp|Mapfile]].webp|Mapfile]]  
+image: [[![[Mapfile.webp|Mapfile]].webp]] 
 bounds: [[0,0], [2550, 3300]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
