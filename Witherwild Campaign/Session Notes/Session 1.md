@@ -23,7 +23,7 @@ The walls of **[[Haven]]** may have kept out the gods, but they could not stop
 ### A Deal in the Dark
 
 
-**Harlow,** you travel ahead of a small merchant. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so-called "grease-pits," a nickname for the places where smugglers, thieves, criminals, and generally dangerous people tend to be found. The job is straightforward: bring him to the location, make the trade, and get him back. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. He stops abruptly, his voice a nervous whisper. "It's just up ahead. The spot, I mean. Are you ready?"
+**[[Harlow]],** you travel ahead of a small merchant. Hours before, he had given you a handful of coin, with the promise for more if you safely delivered him to one of the so-called "grease-pits," a nickname for the places where smugglers, thieves, criminals, and generally dangerous people tend to be found. The job is straightforward: bring him to the location, make the trade, and get him back. As the merchant leads you down a cramped, refuse-filled alley, he begins to fidget, his eyes darting from shadow to shadow. He stops abruptly, his voice a nervous whisper. "It's just up ahead. The spot, I mean. Are you ready?"
 
 **What do you say in response? Describe the merchant to me—is he slimy, timid, or something else entirely?**
 
