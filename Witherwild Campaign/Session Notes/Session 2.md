@@ -18,7 +18,7 @@ The three had been found, brought together by the shadowy mandate of the spymast
 
 Their nascent team was immediately tested on the road toward **Haven**, facing off against a pair of **massive bullfrogs** made dangerous by the land’s corruption. They fought as one, their distinct talents meshing in a brutal, efficient display that routed the surviving beast.
 
-Now, as a strange and powerful group of strangers, you travel toward the petrified walls of **Haven**, the city that holds the key to the world's ruin and perhaps its salvation. **Kreil Dirn** awaits.
+Now, as a strange and powerful group of strangers, you travel toward the petrified walls of **Haven**, the city that holds the key to the world's ruin and perhaps its salvation. **[[Kreil Dirn]]** awaits.
 
 ## A Glimpse of the Wild
 
