@@ -266,7 +266,7 @@ Recently, [[Kreil Dirn|Kreil]] uncovered the Fanewraith’s plot and is horrifie
 
 The party is sent an invitation from Haven to meet with [[Kreil Dirn|Kreil]]. But is his information correct? Does he have his own motivation or secret ambition? Whether they come from Fanewick or Haven, the party must extend some trust to a person who is equally as dangerous and mercurial as the “enemy” they pursue. And what will they do when they find the Fanewraith? Bring her to justice? Side with her? Attempt to recover the Reaping Eye?
 
-[[Kreil Dirn|Kreil]] advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
+[[Kreil Dirn|Kreil]] advises the party to start their hunt for the Fanewraith in the treetop village of [[Alula]], where he suspects she runs her operation.
 
 ## CAMPAIGN MECHANICS
 

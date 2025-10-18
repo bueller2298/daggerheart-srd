@@ -28,9 +28,9 @@ The air is damp and cold, but you barely notice. The feeling of freedom in the w
 
 **What does this person look like? Describe their general appearance, and one detail that makes them seem as though they have been a part of this forest forever.**
 
-Sunflow stalk but looks like a child hood best friend.
+Sunflower stalk but looks like a child hood best friend.
 
-The figure introduces themself as **Stonebark**, and over the next year, you frequent this place. You slowly learn to listen to the whispers of the wind, to feel the life in the plants, and begin to practice the magic of the wild. Now a year older, a year wiser, and a year more rebellious, it is late at night, and you are alone in your room, the silence broken only by the tick of an old clock. The air here is so still, so suffocatingly quiet. You remember the teachings of your elder, **Stonebark**. Your hands tingle with an urge to create, to bring life into this sterile place. You take a small white flower from a vase on your desk and begin to whisper to it the way **Stonebark** taught you. Slowly, impossibly, the petals swell and shift, reforming into something new.
+The figure introduces themself as **[[Stonebark]]**, and over the next year, you frequent this place. You slowly learn to listen to the whispers of the wind, to feel the life in the plants, and begin to practice the magic of the wild. Now a year older, a year wiser, and a year more rebellious, it is late at night, and you are alone in your room, the silence broken only by the tick of an old clock. The air here is so still, so suffocatingly quiet. You remember the teachings of your elder, **[[Stonebark]]**. Your hands tingle with an urge to create, to bring life into this sterile place. You take a small white flower from a vase on your desk and begin to whisper to it the way **[[Stonebark]]** taught you. Slowly, impossibly, the petals swell and shift, reforming into something new.
 
 **What small animal did you shape from the blossoms?**
 
