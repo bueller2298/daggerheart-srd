@@ -1,1 +1,1 @@
-In our last session, the final member of our now band of
+In our last session, the final member of our now band of silent saviors was introduced. Khatari, a female fairy druid, longed for the embrace of the wild described to her in stories by her loving father. Her mother on the other hand found these 
