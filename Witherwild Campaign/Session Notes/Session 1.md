@@ -79,17 +79,17 @@ The world around you seems to blur, the sounds of the camp fading into a low, ec
 
 **Please describe to me the general layout of your clan's village which lies to the south of the greater vicinity known as Keener's Pike. ** (The village because they are giants is very large, and it lies within the valley of a mountain, the terrain hardens its people. The buildings look very extravagant with lots of colors, almost like a chapel, like the St. Basille. )
 
-You are a young giant again, your hands clutched tightly at your mother's cloak as she weeps. Your father stands tall, defiant, his shoulders stooped under the weight of injustice. Before you, a crowd of your kin. The High Priest's voice booms across the village square, a sentence of exile. Your family's name, **Purpose**, is stripped from you.
+You are a young giant again, your hands clutched tightly at your mother's cloak as she weeps. Your father stands tall, defiant, his shoulders stooped under the weight of injustice. Before you, a crowd of your kin. The High Priest's voice booms across the village square, a sentence of exile. Your family's name, **[[Purpose]]**, is stripped from you.
 
 **What is the name of the High Priest who is yelling out to the crowd, to your dismay?** ([[Daveed]])
 
-The High Priest raises his hands, silencing the crowd. His voice, a soothing balm, cuts through the tension. "My people," he begins, his gaze sweeping over the crowd, "look at the sickness that has come to our land. We have prayed, we have fasted, and we have waited for **Nikta** to restore the balance. But she has not. She has turned her eyes away from us, and so we must look to a new path. The **balance** this family clings to is a relic of a time that is past, a cage of decay that will only bring us ruin!" He turns to you, his face a mask of disappointment. "And you, young one... you are **Purpose** no longer. A hollow name for a hollow life."
+The High Priest raises his hands, silencing the crowd. His voice, a soothing balm, cuts through the tension. "My people," he begins, his gaze sweeping over the crowd, "look at the sickness that has come to our land. We have prayed, we have fasted, and we have waited for **Nikta** to restore the balance. But she has not. She has turned her eyes away from us, and so we must look to a new path. The **balance** this family clings to is a relic of a time that is past, a cage of decay that will only bring us ruin!" He turns to you, his face a mask of disappointment. "And you, young one... you are **[[Purpose]]** no longer. A hollow name for a hollow life."
 
 The vision shifts. Shame, sorrow, and a simmering rage fill you, a small, burning ember of righteous fury that quickly grows into a roaring inferno. It whispers a new word to you, a new name, one that would define your path forward.
 
 Days, then weeks, then months pass in a flash of cold wind and hungry nights. The vision shifts, and you are no longer the same. Your body has grown, hardened by hardship. The whisper of **Vengeance** becomes a roar in your ears. You need to become strong, to learn the ways of the fight. You travel far, seeking a teacher who could forge you into the weapon you needed to be, until eventually hunger, thirst, and fatigue set in. When it seems you are at your rock bottom, a figure approaches.
 
-**Describe this teacher figure's general build and what they look like. ** (A woman, not a giant, Perhaps a Faint Divinity, white hair like Purpose, unassuming at least in physical stature but stern, an older person past 50 years old)
+**Describe this teacher figure's general build and what they look like. ** (A woman, not a giant, Perhaps a Faint Divinity, white hair like [[Purpose]], unassuming at least in physical stature but stern, an older person past 50 years old)
 
 The vision focuses on a single place, a person. The training wasn't a long, slow lesson, but a brutal crash course born of desperation. The teacher was a hard and unforgiving taskmaster, but they understood your fury. Their final lesson was about transforming that rage into something more than just a weapon. They spoke of how your anger was a kind of fuel, but that fuel could either burn you to ash or give you the power to soar.
 
@@ -109,7 +109,7 @@ You feel the wind catch under them, a new weight to your body, a new freedom to 
 
 The vision rushes forward once more, time blurring past like a river. You feel the grit of a well-worn road under your feet, the familiar scent of home on the breeze. You are an adult, strong and determined, and you are back. You approach the High Priest's home, the grand oak doors looming before you, just as you remember them from your last moments here. You stand there for a moment, the weight of a year's fury and determination in your heart. You feel the eyes of your community on you, on this single, crucial moment.
 
-**What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?** (DAVEED!)
+**What signal do you give to your clan that you are here to cleanse the name of your family and reclaim their honor?** ([[DAVEED]]!)
 
 And then the vision fades, and you are back to reality. Wandering through the streets here in Selonia. As you turn a familiar corner back towards the quaint home of a family you've been staying with in return for a helping hand. Through the window you can see candlelight and a breeze washes over you and you smell a freshly cooked meal. As you open the door, you look upon the dinner table with the small family already eating and an unfamiliar face joining them at the table.
 
@@ -119,11 +119,11 @@ And then the vision fades, and you are back to reality. Wandering through the st
 
 ## [[Rayvian]]
 
-In front of you, Rayvian, a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
+In front of you, [[Rayvian]], a campfire crackles, but its warmth offers you no comfort from the damp air. The **[[Witherwild]]** has become a force of constant, aggressive growth. Its monstrous flora chokes the land, twisting around everything in its path. You are not a soldier fighting for a cause anymore. You are a shield, a bulwark of stone against a world gone mad.
 
 In this moment, your shield is needed. A massive vine, thick as a tree trunk and moving with a slow, predatory will of its own, is coiling around something precious. You stand between the encroaching verdance and your charge, your body a wall of iron and muscle, your blade sharp and ready. This is not a grand battle. It is a quiet, deliberate stand.
 
-**What is the vine coiling around, and why is it so important to you to save it?** (This is someone young who just went out and got lost, and Rayvian encountered them wandering. )
+**What is the vine coiling around, and why is it so important to you to save it?** (This is someone young who just went out and got lost, and [[Rayvian]] encountered them wandering. )
 
 You drive your blade into the fibrous plant. Sap bursts from it, thick and syrupy, as the vine thrashes like a wounded beast. You press on, your focus absolute, but then it comes. Not a whisper on the wind, but a piercingly clear sound that cuts through the silence—a single, perfect note of pure, unadulterated song. This clear note has found it's way into your mind for months, reminding you of a turning point in your life. It is not mournful. It is not sad. It is a sound  untouched **purity**. This ghostly harmony begins to wrap around you like a second, cold skin. You look down on your once polished golden armor that you no longer care to shine and your unshakeable certainty, is a crushing weight. A voice whispers within your mind, "You cannot undo what you have done. Your heroism is a lie."
 
@@ -169,4 +169,4 @@ Flawsee has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
+[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met [[Purpose]], a giant with a massive set of divine wings, [[Rayvian]], a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
