@@ -6,11 +6,11 @@ The world of **Fanewick** is choking. The theft of **Nikta’s Reaping Eye** by 
 
 It started in the shadow-drenched grease-pits of the city, where the spymaster **[[Kreil Dirn]]** sought not coin, but instruments of destiny.
 
-**Harlow**, the faun warrior who fights for coin to escape an inner void, found himself tested by Dirn’s thugs, his precise, brutal movements earning him a scroll instead of silver. He was given a mandate: gather those who could yet save the world.
+**[[Harlow]]**, the faun warrior who fights for coin to escape an inner void, found himself tested by Dirn’s thugs, his precise, brutal movements earning him a scroll instead of silver. He was given a mandate: gather those who could yet save the world.
 
 His path led him to the massive, bright-winged giant who had reclaimed his birthright: **Purpose**. Once exiled from his people's valley village by **High Priest Daveed** and forced to wander, he endured brutal training and a trial by fire. Now, bearing **eight rainbow wings**—a fierce, divine gift from the broken goddess Nikta—he stands as her champion, his exile ended and his name restored, ready to strike a blow against the new corruption that threatens his home.
 
-Next, Harlow encountered **Rayvian**, a fierce bulwark of a protector who wears his heavy, golden armor like a shackle of shame. Haunted by a past failure, Rayvian finds his only solace in shielding the innocent. It was while protecting a lost child from the hungry, coiling vines of the **Witherwild** that he was marked, the wave of his unworthiness momentarily pushed aside as he began to **shed his ill-fitting armor**.
+Next, [[Harlow]] encountered **Rayvian**, a fierce bulwark of a protector who wears his heavy, golden armor like a shackle of shame. Haunted by a past failure, Rayvian finds his only solace in shielding the innocent. It was while protecting a lost child from the hungry, coiling vines of the **Witherwild** that he was marked, the wave of his unworthiness momentarily pushed aside as he began to **shed his ill-fitting armor**.
 
 Finally, they tracked down **Flawsee L’Bougie**, the bookish spell-caster tormented by a curse that has already claimed his family and is now visibly upon him, marked by a shocking tuft of hair. Driven by his loyal young assistant, **Terrenace**, Flawsee is desperate for a cure. His latest lead is the legendary **Blighted Feather of Oz'kan**, rumored to be on the perilous **Isle of the Twelve**, but a summons from Dirn diverted him from his immediate search.
 

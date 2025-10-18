@@ -35,7 +35,7 @@ The alley you travel down turns up ahead. You slowly approach, hand on the handl
 
 The merchant pipes up, "Good help is hard to find these days." He nods toward you.
 
-"Don't I know it," the figure says. One of the thugs approaches the merchant and places a bag into his hands. The jingle of coin is heard as it hits his hand. "Thank you, Mortimer, that will be all. Harlow, let's chat."
+"Don't I know it," the figure says. One of the thugs approaches the merchant and places a bag into his hands. The jingle of coin is heard as it hits his hand. "Thank you, Mortimer, that will be all. [[Harlow]], let's chat."
 
 You have no idea who this man is or how he knows your name.
 
@@ -139,7 +139,7 @@ Sleep eventually overtakes your both, and the next day you continue on your jour
 
 As you approach, you are greeted by an unfamiliar faces. With an outstretched arm holding a sealed scroll. The wax seal is one you recognize well, a magnifying glass crossed with a dagger dripping blood.
 
-## Flawsee L'Bougie
+## [[Flawsee L'Bougie]]
 
 You've been sitting in place for what seems like days. A stack of tomes and scrolls stacked high to your side. This is a familiar activity, and you can't begin to estimate the amount of time you've sat pouring over parchment in search of answers, or should I say in search of a specific answer. Your eyes begin to sting, and you wonder how long you've been sitting here this time. As you take a breath to compose yourself and give your brain a second from the strain of attempting to absorb more information, you hear the pitter patter of small footsteps.
 
@@ -169,4 +169,4 @@ Flawsee has a broom like tuft of hair that marks his plight and curse
 
 
 Session 1 Summary
-Harlow, on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
+[[Harlow]], on a job, was lead to a dark alley where he had a rendezvous with [[Kreil Dirn]]. There he was given a job: to track down a set of people who may yet help save the lands of Fanewick and [[Haven]], and restore balance. He set out on his gathering mission and we met Purpose, a giant with a massive set of divine wings, Rayvian, a fierce protector looking to do good, and Flawsee, a bookish spell-caster looking for answers of his past. Having gathered the group, they headed back to [[Haven]] to meet back up with [[Kreil Dirn]], along the way they encountered a group of massive bullfrogs and were put to the test in their first team combat. They defeated two on the spot and the third one ran in fear. Then they continued their journey back to [[Haven]].
