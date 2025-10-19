@@ -10,7 +10,7 @@ Made their way to a general goods store within the same marketplace.
 
 Purpose is on alert, Rayvian is scared of being recognized. 
 
-Seamstress, rotund clank man, 
+Seamstress, rotund clank man, gets his poncho modified
 # 🌳 Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
