@@ -4,7 +4,7 @@ Our band of gentleman approached the walls of [[Haven]], the remains of [[Shunâ€
 You all were greeted by the seeming wife of [[Kreil Dirn|Kreil]] and led to his study where he gave you a quest, and promised very little glory if any at all in return. He mentioned various pieces of information that seemingly hooked each one of you into the quest in your own ways. The quest starting with a small lead, a name, the [[Fanewraith]], a person forming a small but consequential coalition with the intention to end the rampant [[Witherwild]] by removing the [[Reaping Eye]] from [[The Great Owl Nikta, the Shepherd of the Seasons|Nikta]]. He gave you a location where you may begin your quest, [[Alula]]. [[Kreil Dirn|Kreil]] did not know how this plan would fare but feels that it isn't not the way forward. He informed you that the [[Sowing Eye]] lie in a vault deep beneath the city that at this point would be folly to attempt to reclaim. He gave the party a [[Box of Many Goods]], a bit of coin, and that is where we now pick up.
 
 **Is there anything that you all would like to do before you head out?**
-
+Smithee - 3rd ring of Haven. 
 # ðŸŒ³ Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
