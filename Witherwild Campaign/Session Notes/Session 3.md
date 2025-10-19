@@ -22,7 +22,7 @@ Seamstress, rotund clank man, gets his poncho modified
 ## 🌲 Travel Interlude: Through [[Wood’s End]]
 
 > **Read Aloud:**  
-> The boglands whisper ahead as the last firm road gives way to moss and mist.  
+> The boglands whisper ahead as the la. t firm road gives way to moss and mist.  
 > Wooden markers jut from the earth — worn, carved with the old [[Fanewick]] runes for “safe passage.” You pass the remnants of a border post, its roof half-collapsed under vines, the crimson banners of [[Haven]] hanging limp in the damp air.  
 > Beyond the post lies [[Wood’s End]], a cluster of homes built among the roots of titanic trees. Lanterns hang low, their glow soft and amber, fighting the encroaching fog.  
 
@@ -32,7 +32,7 @@ You might include a few quick, grounding moments of roleplay here:
 
 - A child offers to sell a handful of white [[Crimson Lady’s Veil]] blossoms, claiming, *“Red ones grow where the dead don’t rest.”*  
 - A weary guard mutters that the swamp ahead “belongs to the ghosts of [[Fanewick]], not [[Haven]].”  
-- A distant hum — the sound of the bog wind moving through hollow reeds — gives the sense that the land itself breathes.  
+- A distant hum — the sound of the bog wind moving through hollow reeds — gives the sense that the land its  elf breathes.  
 
 As the players leave [[Wood’s End]], mist thickens, muffling all sound but the creak of the boardwalks and the distant rhythm of dripping water. The air grows sweet and strange.
 
