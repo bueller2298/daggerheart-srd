@@ -2,16 +2,16 @@
 tags:
   - NPC
   - Template
-aliases: 
-title(s): 
-gender: 
-pronouns: 
-creature type: 
-alignment: 
-ancestry: 
-age: 
-location: 
-family: 
+aliases:
+title(s):
+gender:
+pronouns:
+creature type:
+alignment:
+ancestry:
+age:
+location:
+family:
 notable connection:
 ---
 
