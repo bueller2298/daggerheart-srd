@@ -380,7 +380,7 @@ A mass of moss, vine, and bone stirred by the [[Witherwild]]’s will. It lashes
 
 ## 🌙 Closing Threads
 
-- **[[Flawsee L'Bougie|Flawsee]]’s Lead:** [[Elden Forrow]] slips [[Flawsee L'Bougie|Flawsee]] a sealed letter referencing “[[Oz’kan’s Blight]]” and “the [[Isle of the Twelve]].”
+- **[[Flawsee L'Bougie|Flawsee]]’s Lead:** [[Elden Forrow]] slips [[Flawsee L'Bougie|Flawsee]] a sealed letter referencing “[[The Blighted Feather of Oz'kan|Oz’kan’s Blight]]” and “the [[Isle of the Twelve]].”
     
 - **[[Kreil Dirn|Kreil]]’s Trail:** A coded note carved into the hut: “Follow where the mist burns red.”
     
