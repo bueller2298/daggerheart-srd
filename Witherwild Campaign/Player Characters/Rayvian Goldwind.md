@@ -12,12 +12,9 @@ Rayvian was raised for war. As a child, he paraded in polished armor too large f
 But his victories came at a cost. Entire Wickling villages were razed under his watch. Temples of Divinities were torn down and burned. The most haunting moment came when he (under orders) personally struck down a “divine” creature the locals called “[[Thestle]]” (a spirit of song and wind). It died without resistance, and in the days that followed, the crops withered and the winds stopped blowing.
 
   
-
 Rayvian began to see the truth. He wasn’t saving Haven… he was breaking Fanewick.
 
-Unable to reconcile with his past and his conscious filled with guilt, Rayvian abandoned his title and duties.
-
-  
+Unable to reconcile with his past and his conscious filled with guilt, Rayvian abandoned his title and duties.  
 
 He now follows his own orders as a protector for the people, Wicklings and Havenites alike. A shield for the voiceless, and a sword for the oppressed. 
 
