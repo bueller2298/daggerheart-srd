@@ -5,6 +5,8 @@ You all were greeted by the seeming wife of [[Kreil Dirn|Kreil]] and led to his 
 
 **Is there anything that you all would like to do before you head out?**
 Smithee - 3rd ring of Haven. Limping Elf with a metal prosthetic. Apprehensive woman, she hasn't had business in a while. 
+
+Made their way to a general goods store within the same marketplace. 
 # 🌳 Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
