@@ -10,7 +10,7 @@ Made their way to a general goods store within the same marketplace.
 
 Purpose is on alert, Rayvian is scared of being recognized. 
 
-Seamstress, rotund
+Seamstress, rotund clank man, 
 # 🌳 Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
