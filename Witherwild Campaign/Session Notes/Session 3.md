@@ -6,252 +6,160 @@ You all were greeted by the seeming wife of [[Kreil Dirn|Kreil]] and led to his 
 
 **Is there anything that you all would like to do before you head out?**
 
+# 🌳 Act I: Whispers Beneath the Boughs
+### Beginning of the [[Fanewraith Arc]]
 
-
----
-
-# 🌳 Whispers Beneath the Boughs
-
-### Act I of the [[Fanewraith Arc]]
-
-**Location:** [[Alula]] – the treetop village of [[Fanewick]]’s southern bogs  
-**Session Length:** 2.5–3 hours  
-**Party Level:** 1
+**Location:** [[Wood’s End]] → [[Alula]]  
+**Session Length:** 2.5–3 hours  
+**Party Level:** 1  
 
 ---
 
-## 🌿 Atmospheric Opening
+## 🌲 Travel Interlude: Through [[Wood’s End]]
 
-As the party travels south from [[Haven]], the road narrows and gives way to wet earth. The scent of sweet rot thickens, mingled with a floral perfume that clings to everything — the ghost of [[Crimson Lady’s Veil]]. The trees grow wide and bowed, their roots rising from the bog like ribs.
+> **Read Aloud:**  
+> The boglands whisper ahead as the last firm road gives way to moss and mist.  
+> Wooden markers jut from the earth — worn, carved with the old Fanewick runes for “safe passage.” You pass the remnants of a border post, its roof half-collapsed under vines, the crimson banners of [[Haven]] hanging limp in the damp air.  
+> Beyond the post lies [[Wood’s End]], a cluster of homes built among the roots of titanic trees. Lanterns hang low, their glow soft and amber, fighting the encroaching fog.  
 
-The village of **[[Alula]]** reveals itself gradually: bridges strung between trees, wooden homes grown into living trunks, soft lanterns flickering like fireflies in mist.
+[[Wood’s End]] serves as the last proper settlement before the deep bogs. It’s where Haven patrols thin out and nature begins to reclaim the path. A few locals still offer trade to travelers — bark-paper charms, preserved bogfruit, and cheap spirits meant to ward off the “root-sickness.”  
 
-> **Player Prompts:**  
-> • “What about this place immediately reminds your character of home?”  
-> • “And what about it unsettles you?”
+You might include a few quick, grounding moments of roleplay here:  
 
----
+- A child offers to sell a handful of white [[Crimson Lady’s Veil]] blossoms, claiming, *“Red ones grow where the dead don’t rest.”*  
+- A weary guard mutters that the swamp ahead “belongs to the ghosts of [[Fanewick]], not Haven.”  
+- A distant hum — the sound of the bog wind moving through hollow reeds — gives the sense that the land itself breathes.  
 
-## 🕯️ The Setting of [[Alula]]
-
-|**Area**|**Description**|
-|---|---|
-|**[[Root Market]]**|The base level of the village. Muddy paths and knee-high planks lead to tents selling reeds, spices, and dried white flowers. [[Haven]] banners hang limp in the damp air.|
-|**[[Canopy Walk]]**|The upper village. Platforms woven between branches, connected by rope bridges and pulleys. The homes smell of sap and parchment.|
-|**[[The Red Ark]]**|A great flat-bottomed research barge moored nearby. Its hull hums faintly at night. Only those with Haven writs are permitted aboard.|
-|**[[Alulan Archival Atelier]]**|A hidden stairway in the upper canopy leads to this scholarly enclave. The air is colder here; ink and ozone scent the space.|
-|**[[The Bloomfields]]**|Once wild, now regimented bog farms where Haven soldiers cultivate [[Crimson Lady’s Veil]]. Rows of pale white blossoms stretch endlessly under thin mist.|
+As the players leave [[Wood’s End]], mist thickens, muffling all sound but the creak of the boardwalks and the distant rhythm of dripping water. The air grows sweet and strange.
 
 ---
 
-## 🧭 Adventure Flow
+## 🌫️ Arrival at [[Alula]]
 
-### Scene 1 — **Arrival & Rumor**
+> **Read Aloud:**  
+> The fog parts to reveal the treetop village of **[[Alula]]**, perched high among a circle of ancient trees whose roots drink from the silvered water below. Rope bridges sway in the wind, connecting wooden dwellings carved into living trunks.  
+> Below, the marsh glows faintly — white blossoms stretching in every direction, the bloomfields of [[Crimson Lady’s Veil]]. Haven soldiers in polished leather wade among the plants, their reflections warping in the water as they move with mechanical precision.  
+> Overhead, faint lights flicker through the canopy like patient fireflies.  
+>  
+> The air hums with quiet order, but beneath it lingers a sadness that’s hard to name.  
 
-**Tone:** Curious, tense  
-**Purpose:** Establish [[Alula]] and allow free roleplay
+[[Alula]] is small — perhaps a hundred people live among ten to twenty great trees. Each structure is built into or upon the living wood, linked by suspended bridges and lifts made from woven vine. Below, boardwalks snake through the mist toward the bog farms and military outposts.  
 
-A [[Haven]] patrol drags a villager through the market — accused of “sabotaging Veil production.” Locals watch silently.
+---
 
-**NPC:**
+## 🕯️ Exploring [[Alula]]
 
-- **Corporal Lissandra Vale** (she/her, Human, [[Haven]] Officer)
-    
-    - _Motivation:_ Maintain order, though she’s uneasy about the occupation.
-        
-    - _Clue:_ If pressed kindly, she admits, _“That witch who called herself [[Fanewraith]] passed through here last week.”_
-        
+Allow the party to breathe here. The session’s first half should focus on atmosphere, curiosity, and conversation. The **[[Fanewraith]]** is the hook, but **Alula’s mood** is the story.
+
+---
+
+### 🪶 The Root Market
+
+> **Read Aloud:**  
+> At the base of the great trees, a series of planks and walkways form the Root Market. Mud-stained boots splash through shallow water as vendors call half-heartedly about reeds, tonics, and carved charms. Haven banners hang limp and damp.  
+> A small group of soldiers oversees the trade, their expressions neither cruel nor kind — just tired.
+
+Here, the players can gather early rumors and local tone.  
+
+- **Taren Mohr (they/them, [[Faun]])**, a vendor with moss in their horns and an easy smile, sells small reed charms and speaks quietly of the [[Fanewraith]]:  
+  *“She came through here… said the flowers would bloom red again if we stopped taking orders from Haven. Some believed her.”*  
+  Taren is sympathetic but cautious — they can point the party toward others who met the Fanewraith personally.  
+
+- A **Haven patrol** led by **Corporal Lissandra Vale (she/her, Human)** drags a villager toward the docks. She claims the person tampered with Veil roots, calling it “sabotage.”  
+  If the party intervenes or observes, they may notice her hesitation. With empathy, she admits:  
+  *“That witch—Fanewraith—passed through a week ago. Said she’d end this curse. Left us chasing rumors.”*
 
 > **Player Prompt:**  
-> “What rumor have you each heard of the [[Fanewraith]] before now — and who told it to you?”
+> “You hear murmurs as the crowd disperses — what rumor about the [[Fanewraith]] have you personally heard before today, and who told it to you?”
 
 ---
 
-### Scene 2 — **Exploration & Introductions**
+### 🌉 The Canopy Walk
 
-**Tone:** Communal, investigative  
-**Purpose:** Let players interact and shape tone
+> **Read Aloud:**  
+> Rope bridges stretch between the boughs, swaying gently above a sea of white blossoms. From here, the bogs look endless — a pale field stitched with the black scars of Haven’s irrigation trenches. The scent is sweet, almost cloying.  
 
-|**NPC**|**Location**|**Description**|**Hook**|
-|---|---|---|---|
-|**Taren Mohr**(they/them, [[Faun]])|[[Root Market]]|Long-limbed, moss in their horns. Once worked the bog farms.|Knows that the red blossoms “refuse to bloom.”|
-|**Ilenna Brack**(she/her, [[Dwarf]])|[[Canopy Walk]]|Repairs bridges, gruff but kind.|Offers lodging for the night. Knows which villagers vanished after the [[Fanewraith]]’s visit.|
-|**Elden Forrow**(he/him, Human)|[[Alulan Archival Atelier]]|Nervous scribe who handled [[Flawsee]]’s feather inquiry.|Recognizes Flawsee and hints at missing correspondence.|
-
-Signs of the [[Fanewraith]] remain:
-
-- **White chalk sigils** drawn across floorboards.
-    
-- Locals whisper: “She promised to heal the land, but the flowers just turned gray.”
-    
-
----
-
-### Scene 3 — **The False Lead**  _(Mid-Session Breakpoint)_
-
-**Tone:** Intrigue, slow dread  
-**Purpose:** Reveal mystery and close the first act
-
-The party finds the supposed **headquarters** of the [[Fanewraith]] — a derelict observation hut overlooking the bog. Inside:
-
-- Half-burned journals, old wax seals, faint celestial ink.
-    
-- Notes on _communing with the [[Sowing Eye]]_ — desperate, not malicious.
-    
-
-> **Player Prompts:**  
-> “What detail here suggests the [[Fanewraith]] might not be who you expected?”  
-> “What object catches your eye that might be useful later?”
-
-As they investigate, a **Withered remnant** stirs — perhaps a vine-wrapped spirit or sentient moss.  
-Use this as a brief, descriptive encounter or tension release.
-
-Afterward, they may rest in [[Alula]] before deciding next steps.
-
----
-
-## 🌙 Closing Threads for Next Session
-
-1. **Flawsee’s Lead:**  
-    [[Elden Forrow]] discreetly gives Flawsee a sealed letter referencing “Oz’kan’s Blight” and _“the Isle of Twelve.”_
-    
-2. **Kreil’s Trail:**  
-    A coded note in the hut mentions _“a crossing at dawn, south through the Rootpath Marsh.”_
-    
-3. **Phylax’s Interest:**  
-    A [[Haven]] courier invites them to _“assist in observation of bog flora.”_ — thinly veiled conscription.
-    
-
----
-
-# 🌫️ Scene 3: The False Lead
-
-### Act I — Whispers Beneath the Boughs
-
-**Location:** [[Fanewraith’s Observation Hut]]  
-**Type:** Exploration / Skill Scene / Optional Combat  
-**Tone:** Intrigue, isolation, quiet dread
-
----
-
-## 🌲 Arrival
-
-The trail leads beyond the lower bog paths of [[Alula]], winding through half-sunken boardwalks toward a shallow rise of earth where mist gathers thick.
-
-A narrow bridge of planks, worn to silver, crosses to a hut perched between two leaning trees — the supposed **headquarters** of the [[Fanewraith]].
-
-When the party arrives, the area is unnervingly silent except for the steady drip of water from the canopy.
-
-> _Ask the players:_  
-> “What about this place feels recently abandoned?”  
-> “What detail hints that whoever was here didn’t intend to stay gone for long?”
-
----
-
-## 🛖 Inside the Hut
-
-The observation hut is small but dense with strange detail.  
-Let players investigate freely — reveal clues by **questioning and describing**, not rolls, unless it’s about danger or focus.
-
-|**Object / Detail**|**Description**|**Notes**|
-|---|---|---|
-|**Half-burned Journals**|The cover reads: _“Communion and the Eye.”_ Several pages reference _“threads of sowing”_ and _“the waking root below.”_|Suggests the [[Fanewraith]] sought to _channel_ the [[Sowing Eye]] rather than steal from it.|
-|**Wax-Sealed Drawings**|Circle diagrams of the [[Witherwild]], annotated in shimmering ink that glows faintly when exposed to light.|Anyone touching the ink feels a pulse beneath their skin — harmless, but eerie.|
-|**Broken Glass Apparatus**|A cracked lens aimed toward the bog horizon. Under it: soil samples, some gray and still smoking faintly.|A clear sign of _Wither exposure_.|
-|**Suspended Charm**|A woven branch sigil dangles from the ceiling. It’s a warding charm against corruption — but recently snapped.|If repaired (Simple Task, Hopeful tone), grants 1 temporary Hope to the party.|
+- **Ilenna Brack (she/her, [[Dwarf]])**, a bridgewright who maintains the canopy paths, offers lodging in her small home for the night.  
+  She remembers those who left to follow the Fanewraith — “brave fools, all of them.”  
+  If asked why she stayed: *“Someone has to keep the bridges standing, don’t they?”*  
 
 > **Player Prompt:**  
-> “Something here suggests the [[Fanewraith]] might not be who you expected. What is it?”  
-> Let this personalize the Fanewraith’s myth through each player’s interpretation.
+> “From this height, what catches your character’s eye — something beautiful, or something they wish they hadn’t seen?”  
 
 ---
 
-## 🕸️ The Withered Remnant
+### 🪔 The Alulan Archival Atelier
 
-As the last of the journals are examined, a low creak echoes outside — like wood bending underwater.  
-Something begins to _crawl up the supports of the hut_.
+> **Read Aloud:**  
+> A narrow spiral stair rises through the canopy to a chamber lined with weathered tomes and parchment scrolls. Ink stains the floor like old blood. The symbol of an open eye — Alula’s mark of scholarship — adorns the entryway.  
+> The scent of ozone and wax lingers here.  
 
-A **Withered Remnant** reveals itself — not a beast, but the bog itself rising.
+Inside, **Elden Forrow (he/him, Human)**, a jittery scribe, maintains what remains of the Atelier’s records.  
+He recognizes [[Flawsee]] immediately if present, though he’s nervous about being overheard.  
+Elden can confirm the Atelier once corresponded with the Fanewraith, exchanging letters on “soul mechanics and reclamation.”  
 
----
+> He hesitates, then slides a folded letter across the table:  
+> _“She wanted to know about feathers. Said she’d found one black as pitch that sang when touched. We never saw her again.”_  
 
-### **Withered Remnant**
-
-_Tier 1 Environmental Entity (Treat as Minion or Solo-lite)_
-
-> **Appearance:** A tangle of vines, roots, and human bones, dripping with stagnant water and sporelight. Its “face” flickers between moss and memories — those who died harvesting the crimson flowers.  
-> **Behavior:** Drawn by motion and memory; mimics voices of the dead.
-
-**Stats (Narrative Level)**
-
-- **Difficulty:** 13
-    
-- **Thresholds:** 7/13
-    
-- **HP:** 4
-    
-- **Stress:** 2
-    
-- **ATK:** +2 | _Grasping Roots_ | Very Close | 2d6+3 physical
-    
-- **Traits:** Withered, Corrupted Flora, Emotionally Resonant
-    
-
-**Features**
-
-- **Echo of the Bog — Passive:** When damaged, whispers the memory of a villager’s final words. PCs must roll a simple **Instinct Reaction (12)** or gain 1 Wither token.
-    
-- **Entangling Growth — Action:** Mark 1 Stress to restrain a target within Very Close range. On failure to resist (Strength 12), they are held until freed.
-    
-- **Decay Pulse — Reaction:** When defeated, it bursts into spores. All within Melee range make an **Agility Reaction (12)** or take 1d6 physical damage and 1 Wither token.
-    
-
-**Narrative Use:**  
-This encounter should _feel mournful, not monstrous_. It’s an echo of the land’s suffering — the Fanewraith’s absence leaving an imbalance.
+He also mentions the Fanewraith’s observation hut — a small structure deeper in the bogs, used “for study of red-bloom variance.”  
 
 ---
 
-## 🌌 Aftermath
+## 🌧️ The Observation Hut
 
-Once the remnant is defeated or calmed:
+> **Read Aloud:**  
+> Beyond the main bridges, a half-submerged boardwalk leads into the mist. The air grows heavy with decay, and even the white blossoms turn pale gray.  
+> At the edge of sight stands a crooked hut perched atop two leaning trees — the Fanewraith’s supposed refuge. Its walls are etched with chalk sigils that drip faintly in the damp.  
 
-- The mist clears slightly, revealing hundreds of white [[Crimson Lady’s Veil]] blooms surrounding the hut. Not one is red.
-    
-- Beneath a floorboard, the group finds a **folded letter**, water-stained and unsigned:
-    
+Inside, the party finds remnants of her work:  
+- Burned notes written in elegant hand: *“If the Eye sleeps, perhaps the root may dream for it.”*  
+- A cracked lens, positioned toward the horizon.  
+- A snapped warding charm — if repaired, it momentarily clears the mist.  
 
-> _“I go now toward the marsh. The Eye is near, and its dream calls louder each day.  
-> If I fail, the roots will remember me.”_
+> **Player Prompt:**  
+> “What small sign here makes you doubt the Fanewraith is a villain at all?”  
 
-This letter ends the session on a melancholy note, pointing the party toward the next leg of their journey — **the Rootpath Marsh**.
-
----
-
-## 🧩 Player-Driven Moments
-
-Encourage collaboration before session’s end:
-
-> • “What do you think the Fanewraith hoped to find here?”  
-> • “What emotion lingers in this hut, and how does it affect your character?”  
-> • “If you could leave one message behind like this letter, what would it say?”
-
-Each answer can slightly shift the tone of Alula — hope, fear, regret — helping you set the emotional arc for the next session.
+As the players examine the hut, the ground trembles slightly. Roots shift below the water — and from the murk rises something Withered.
 
 ---
 
-## 🕯️ GM Notes
+### 🌿 Encounter: The Withered Remnant
 
-- **Optional Combat:** If the tone feels too heavy, the Withered Remnant can instead manifest as a single writhing vine (2 HP) — meant for flavor, not challenge.
-    
-- **Thematic Goal:** Create a sense that the Fanewraith is not evil, but playing with powers beyond comprehension.
-    
-- **Session Pacing:**
-    
-    - Arrival & Exploration: 45–60 mins
-        
-    - Withered Encounter: 20–30 mins
-        
-    - Reflection / Rest Scene: 30 mins
-        
+> **Read Aloud:**  
+> The water ripples outward as a shape rises from the depths — a tangle of roots, bone, and broken armor.  
+> It moves like something half-remembered by the swamp, whispering in voices that don’t belong to it.  
+
+**Tier:** 1 (Solo-lite)  
+**Description:** A manifestation of the bog’s memory — those who died harvesting Veil blooms, reawakened by Wither corruption.  
+It is mournful rather than malicious, lashing out only when threatened.  
+
+**Suggested Mechanics:**  
+Use Tier 1 Solo or Environmental stats. Its attacks restrain and decay; its defeat releases a burst of spores causing minor damage and one Wither token on failure (Agility 12).  
+
+Once subdued, the mist eases. The surrounding Veil blooms regain faint white shimmer — none red.  
+
+Beneath the floorboards, the group discovers a letter written in the same careful script:  
+
+> _“I go now toward the marsh. The Eye calls louder each night.  
+> If I fail, let the roots remember me.”_
+
+---
+
+## 🌙 Session Close
+
+[[Alula]] quiets under rain as the session ends. The players may rest in Ilenna’s home or return to the Atelier.  
+Whispers of the Fanewraith persist — part savior, part heretic.  
+
+**Threads for Next Session:**  
+- A coded mention of a *“crossing at dawn, south through the Rootpath Marsh.”*  
+- [[Elden Forrow]]’s sealed note to [[Flawsee]] about “Oz’kan’s Blight.”  
+- A [[Haven]] courier requesting the party’s “assistance in observing the crimson bloomfields.”  
+
+> **Player Reflection Prompts:**  
+> • “What does this place remind your character of — home, loss, or something else?”  
+> • “If the Fanewraith truly means to end the Witherwild, what might it cost?”  
+
+The story fades on mist, moonlight, and the faint hum of the bog —  
+the Witherwild dreaming restlessly beneath their feet.  
 
 ---
