@@ -331,7 +331,7 @@ At the [[Root Market]], the party witnesses a tense scene. A [[Haven]] patrol ac
         
     - **Failure:** Denies involvement.
         
-    - **Critical:** Passes a sealed letter to [[Flawsee]] as the group departs [[Alula]].
+    - **Critical:** Passes a sealed letter to [[Flawsee L'Bougie|Flawsee]] as the group departs [[Alula]].
         
 
 ---
