@@ -152,7 +152,7 @@ Whispers of the [[Fanewraith]] persist — part savior, part heretic.
 **Threads for Next Session:**  
 - A coded mention of a *“crossing at dawn, south through the Rootpath Marsh.”*  
 - [[Elden Forrow]]’s sealed note to [[Flawsee L'Bougie|Flawsee]]
--about “Oz’kan’s Blight.”  
+-about “[[The Blighted Feather of Oz'kan|Oz’kan’s Blight]].”  
 - A [[Haven]] courier requesting the party’s “assistance in observing the crimson bloomfields.”  
 
 > **Player Reflection Prompts:**  
@@ -196,9 +196,9 @@ A figure greets the party at the entry platform —
 
 She wears robes of woven moss and bark thread, a silver clasp shaped like a winged seed. Her voice is soft but carries an undeniable authority.
 
-> “Travelers are rare these days. You’ve come through Haven’s checkpoints — that much I can see. I ask only this: speak gently here. We’ve lost enough to shouting.”
+> “Travelers are rare these days. You’ve come through [[Haven]]’s checkpoints — that much I can see. I ask only this: speak gently here. We’ve lost enough to shouting.”
 
-She offers to guide them briefly through Alula before returning to her home in the [[Canopy Walk]].
+She offers to guide them briefly through [[Alula]] before returning to her home in the [[Canopy Walk]].
 
 ---
 
