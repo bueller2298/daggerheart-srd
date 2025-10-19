@@ -414,3 +414,6 @@ A mass of moss, vine, and bone stirred by the [[Witherwild]]’s will. It lashes
 - Observation Hut: 45 minutes
     
 - Wrap-up / Rest: 20 minutes
+
+
+Ended with 9 fear.
