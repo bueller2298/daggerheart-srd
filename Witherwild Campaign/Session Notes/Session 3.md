@@ -7,6 +7,8 @@ You all were greeted by the seeming wife of [[Kreil Dirn|Kreil]] and led to his 
 Smithee - 3rd ring of Haven. Limping Elf with a metal prosthetic. Apprehensive woman, she hasn't had business in a while. 
 
 Made their way to a general goods store within the same marketplace. 
+
+Purpose is on alert, Rayvian is scared of being recognized. 
 # 🌳 Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
