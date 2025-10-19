@@ -69,8 +69,7 @@ Here, the players can gather early rumors and local tone.
   If the party intervenes or observes, they may notice her hesitation. With empathy, she admits:  
   *“That witch—Fanewraith—passed through a week ago. Said she’d end this curse. Left us chasing rumors.”*
 
-> **Player Prompt:**  
-> “You hear murmurs as the crowd disperses — what rumor about the [[Fanewraith]] have you personally heard before today, and who told it to you?”
+
 
 ---
 
