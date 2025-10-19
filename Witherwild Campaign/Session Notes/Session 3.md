@@ -278,7 +278,7 @@ At the [[Root Market]], the party witnesses a tense scene. A [[Haven]] patrol ac
         
     - **Failure:** Shrugs it off — “Flowers know what they’re doing.”
         
-    - **Critical:** Knows a few villagers who left with the [[Fanewraith]]: **Sera Lune**, **Hobb Drenn**, **Miri of the Roots**.
+    - **Critical:** Knows a few villagers who left with the [[Fanewraith]]: **Sera Lune**, **Hobb Drenn**, Elder Mosken.
         
 
 ---
