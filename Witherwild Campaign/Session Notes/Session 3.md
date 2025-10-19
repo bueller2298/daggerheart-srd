@@ -94,7 +94,7 @@ Here, the players can gather early rumors and local tone.
 > The scent of ozone and wax lingers here.  
 
 Inside, **Elden Forrow (he/him, Human)**, a jittery scribe, maintains what remains of the Atelier’s records.  
-He recognizes [[Flawsee] immediately if present, though he’s nervous about being overheard.  
+He recognizes [[Flawsee L'Bougie|Flawsee]]immediately if present, though he’s nervous about being overheard.  
 Elden can confirm the Atelier once corresponded with the [[Fanewraith]], exchanging letters on “soul mechanics and reclamation.”  
 
 > He hesitates, then slides a folded letter across the table:  
@@ -151,7 +151,8 @@ Whispers of the [[Fanewraith]] persist — part savior, part heretic.
 
 **Threads for Next Session:**  
 - A coded mention of a *“crossing at dawn, south through the Rootpath Marsh.”*  
-- [[Elden Forrow]]’s sealed note to [[Flawsee]] about “Oz’kan’s Blight.”  
+- [[Elden Forrow]]’s sealed note to [[Flawsee L'Bougie|Flawsee]]
+-about “Oz’kan’s Blight.”  
 - A [[Haven]] courier requesting the party’s “assistance in observing the crimson bloomfields.”  
 
 > **Player Reflection Prompts:**  
@@ -326,7 +327,7 @@ At the [[Root Market]], the party witnesses a tense scene. A [[Haven]] patrol ac
     
 - **DC 13 Presence (Inquiry):**
     
-    - **Success:** Admits he handled correspondence from someone named [[Flawsee]] about a “blighted feather.”
+    - **Success:** Admits he handled correspondence from someone named [[Flawsee L'Bougie|Flawsee]] about a “blighted feather.”
         
     - **Failure:** Denies involvement.
         
