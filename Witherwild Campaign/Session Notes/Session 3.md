@@ -9,6 +9,8 @@ Smithee - 3rd ring of Haven. Limping Elf with a metal prosthetic. Apprehensive w
 Made their way to a general goods store within the same marketplace. 
 
 Purpose is on alert, Rayvian is scared of being recognized. 
+
+Seamstress, rotund
 # 🌳 Act I: Whispers Beneath the Boughs
 ### Beginning of the [[Fanewraith Arc]]
 
