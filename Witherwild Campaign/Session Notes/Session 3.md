@@ -237,19 +237,19 @@ At the [[Root Market]], the party witnesses a tense scene. A [[Haven]] patrol ac
     
 - **Age:** 36
     
-- **Role:** Haven Officer
+- **Role:** [[Haven]] Officer
     
 - **Personality:** Disciplined, weary, quietly empathetic
     
-- **Appearance:** Broad-shouldered, short dark hair, armor etched with floral designs — once local, now wearing Haven colors
+- **Appearance:** Broad-shouldered, short dark hair, armor etched with floral designs — once local, now wearing [[Haven]] colors
     
 - **DC 13 Presence (Persuasion):**
     
     - **Success:** Admits the [[Fanewraith]] passed through a week ago, speaking of “ending the sickness at its root.”
         
-    - **Failure:** Gives standard Haven rhetoric — “Superstitious nonsense. She’s a threat.”
+    - **Failure:** Gives standard [[Haven]] rhetoric — “Superstitious nonsense. She’s a threat.”
         
-    - **Critical (18+):** Reveals the Fanewraith’s alias: “Lady Ryn.”
+    - **Critical (18+):** Reveals the [[Fanewraith]]’s alias: “Lady Ryn.”
         
 
 ---
@@ -339,7 +339,7 @@ At the [[Root Market]], the party witnesses a tense scene. A [[Haven]] patrol ac
 ### Scene 3 — **The Observation Hut**
 
 **Tone:** Mystery, melancholy  
-**Purpose:** Reveal the [[Fanewraith]]’s traces and the Witherwild’s creeping presence.
+**Purpose:** Reveal the [[Fanewraith]]’s traces and the [[Witherwild]]’s creeping presence.
 
 Elder [[Mareth Elowen]] mentions a hut beyond the [[Bloomfields]] once used for “watching the mists.” Locals avoid it now — the air there “feels wrong.”
 
@@ -381,11 +381,11 @@ A mass of moss, vine, and bone stirred by the [[Witherwild]]’s will. It lashes
 
 ## 🌙 Closing Threads
 
-- **Flawsee’s Lead:** [[Elden Forrow]] slips Flawsee a sealed letter referencing “[[Oz’kan’s Blight]]” and “the [[Isle of Twelve]].”
+- **[[Flawsee L'Bougie|Flawsee]]’s Lead:** [[Elden Forrow]] slips [[Flawsee L'Bougie|Flawsee]] a sealed letter referencing “[[Oz’kan’s Blight]]” and “the [[Isle of Twelve]].”
     
-- **Kreil’s Trail:** A coded note carved into the hut: “Follow where the mist burns red.”
+- **[[Kreil Dirn|Kreil]]’s Trail:** A coded note carved into the hut: “Follow where the mist burns red.”
     
-- **Haven’s Pressure:** A courier invites the party to “assist in bloom maintenance” — veiled coercion to report to the [[Red Ark]].
+- **[[Haven]]’s Pressure:** A courier invites the party to “assist in bloom maintenance” — veiled coercion to report to the [[Red Ark]].
     
 
 ---
