@@ -124,15 +124,4 @@ Afterward, they may rest in [[Alula]] before deciding next steps.
 
 ---
 
-## ⚖️ Session Balance
-
-|**Element**|**Focus**|
-|---|---|
-|Roleplay / Exploration|~70%|
-|Combat / Skill Scene|One short Withered encounter|
-|Downtime|Rest scene at Ilenna’s loft|
-|Player Agency|Multiple moments of co-creation and rumor-building|
-
----
-
 Would you like me to follow this immediately with the **Scene 3 “False Lead” encounter module** (creature stat, terrain traits, and environmental effects for Withered corruption) in the same markdown-ready format?
