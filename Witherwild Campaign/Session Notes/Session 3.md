@@ -10,7 +10,6 @@ You all were greeted by the seeming wife of [[Kreil Dirn|Kreil]] and led to his 
 ### Beginning of the [[Fanewraith Arc]]
 
 **Location:** [[Wood’s End]] → [[Alula]]  
-**Session Length:** 2.5–3 hours  
 **Party Level:** 1  
 
 ---
