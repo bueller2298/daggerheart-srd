@@ -49,7 +49,7 @@ As the players leave [[Wood’s End]], mist thickens, muffling all sound but the
 
 ## 🕯️ Exploring [[Alula]]
 
-Allow the party to breathe here. The session’s first half should focus on atmosphere, curiosity, and conversation. The **[[Fanewraith]]** is the hook, but **Alula’s mood** is the story.
+Allow the party to breathe here. The session’s first half should focus on atmosphere, curiosity, and conversation. The **[[Fanewraith]]** is the hook, but **[[Alula]]’s mood** is the story.
 
 ---
 
