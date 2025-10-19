@@ -124,4 +124,134 @@ Afterward, they may rest in [[Alula]] before deciding next steps.
 
 ---
 
-Would you like me to follow this immediately with the **Scene 3 “False Lead” encounter module** (creature stat, terrain traits, and environmental effects for Withered corruption) in the same markdown-ready format?
+# 🌫️ Scene 3: The False Lead
+
+### Act I — Whispers Beneath the Boughs
+
+**Location:** [[Fanewraith’s Observation Hut]]  
+**Type:** Exploration / Skill Scene / Optional Combat  
+**Tone:** Intrigue, isolation, quiet dread
+
+---
+
+## 🌲 Arrival
+
+The trail leads beyond the lower bog paths of [[Alula]], winding through half-sunken boardwalks toward a shallow rise of earth where mist gathers thick.
+
+A narrow bridge of planks, worn to silver, crosses to a hut perched between two leaning trees — the supposed **headquarters** of the [[Fanewraith]].
+
+When the party arrives, the area is unnervingly silent except for the steady drip of water from the canopy.
+
+> _Ask the players:_  
+> “What about this place feels recently abandoned?”  
+> “What detail hints that whoever was here didn’t intend to stay gone for long?”
+
+---
+
+## 🛖 Inside the Hut
+
+The observation hut is small but dense with strange detail.  
+Let players investigate freely — reveal clues by **questioning and describing**, not rolls, unless it’s about danger or focus.
+
+|**Object / Detail**|**Description**|**Notes**|
+|---|---|---|
+|**Half-burned Journals**|The cover reads: _“Communion and the Eye.”_ Several pages reference _“threads of sowing”_ and _“the waking root below.”_|Suggests the [[Fanewraith]] sought to _channel_ the [[Sowing Eye]] rather than steal from it.|
+|**Wax-Sealed Drawings**|Circle diagrams of the [[Witherwild]], annotated in shimmering ink that glows faintly when exposed to light.|Anyone touching the ink feels a pulse beneath their skin — harmless, but eerie.|
+|**Broken Glass Apparatus**|A cracked lens aimed toward the bog horizon. Under it: soil samples, some gray and still smoking faintly.|A clear sign of _Wither exposure_.|
+|**Suspended Charm**|A woven branch sigil dangles from the ceiling. It’s a warding charm against corruption — but recently snapped.|If repaired (Simple Task, Hopeful tone), grants 1 temporary Hope to the party.|
+
+> **Player Prompt:**  
+> “Something here suggests the [[Fanewraith]] might not be who you expected. What is it?”  
+> Let this personalize the Fanewraith’s myth through each player’s interpretation.
+
+---
+
+## 🕸️ The Withered Remnant
+
+As the last of the journals are examined, a low creak echoes outside — like wood bending underwater.  
+Something begins to _crawl up the supports of the hut_.
+
+A **Withered Remnant** reveals itself — not a beast, but the bog itself rising.
+
+---
+
+### **Withered Remnant**
+
+_Tier 1 Environmental Entity (Treat as Minion or Solo-lite)_
+
+> **Appearance:** A tangle of vines, roots, and human bones, dripping with stagnant water and sporelight. Its “face” flickers between moss and memories — those who died harvesting the crimson flowers.  
+> **Behavior:** Drawn by motion and memory; mimics voices of the dead.
+
+**Stats (Narrative Level)**
+
+- **Difficulty:** 13
+    
+- **Thresholds:** 7/13
+    
+- **HP:** 4
+    
+- **Stress:** 2
+    
+- **ATK:** +2 | _Grasping Roots_ | Very Close | 2d6+3 physical
+    
+- **Traits:** Withered, Corrupted Flora, Emotionally Resonant
+    
+
+**Features**
+
+- **Echo of the Bog — Passive:** When damaged, whispers the memory of a villager’s final words. PCs must roll a simple **Instinct Reaction (12)** or gain 1 Wither token.
+    
+- **Entangling Growth — Action:** Mark 1 Stress to restrain a target within Very Close range. On failure to resist (Strength 12), they are held until freed.
+    
+- **Decay Pulse — Reaction:** When defeated, it bursts into spores. All within Melee range make an **Agility Reaction (12)** or take 1d6 physical damage and 1 Wither token.
+    
+
+**Narrative Use:**  
+This encounter should _feel mournful, not monstrous_. It’s an echo of the land’s suffering — the Fanewraith’s absence leaving an imbalance.
+
+---
+
+## 🌌 Aftermath
+
+Once the remnant is defeated or calmed:
+
+- The mist clears slightly, revealing hundreds of white [[Crimson Lady’s Veil]] blooms surrounding the hut. Not one is red.
+    
+- Beneath a floorboard, the group finds a **folded letter**, water-stained and unsigned:
+    
+
+> _“I go now toward the marsh. The Eye is near, and its dream calls louder each day.  
+> If I fail, the roots will remember me.”_
+
+This letter ends the session on a melancholy note, pointing the party toward the next leg of their journey — **the Rootpath Marsh**.
+
+---
+
+## 🧩 Player-Driven Moments
+
+Encourage collaboration before session’s end:
+
+> • “What do you think the Fanewraith hoped to find here?”  
+> • “What emotion lingers in this hut, and how does it affect your character?”  
+> • “If you could leave one message behind like this letter, what would it say?”
+
+Each answer can slightly shift the tone of Alula — hope, fear, regret — helping you set the emotional arc for the next session.
+
+---
+
+## 🕯️ GM Notes
+
+- **Optional Combat:** If the tone feels too heavy, the Withered Remnant can instead manifest as a single writhing vine (2 HP) — meant for flavor, not challenge.
+    
+- **Thematic Goal:** Create a sense that the Fanewraith is not evil, but playing with powers beyond comprehension.
+    
+- **Session Pacing:**
+    
+    - Arrival & Exploration: 45–60 mins
+        
+    - Withered Encounter: 20–30 mins
+        
+    - Reflection / Rest Scene: 30 mins
+        
+
+---
