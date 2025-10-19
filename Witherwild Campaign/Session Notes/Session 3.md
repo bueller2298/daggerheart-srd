@@ -94,7 +94,7 @@ Here, the players can gather early rumors and local tone.
 > The scent of ozone and wax lingers here.  
 
 Inside, **Elden Forrow (he/him, Human)**, a jittery scribe, maintains what remains of the Atelier’s records.  
-He recognizes [[Flawsee]] immediately if present, though he’s nervous about being overheard.  
+He recognizes [[Flawsee] immediately if present, though he’s nervous about being overheard.  
 Elden can confirm the Atelier once corresponded with the [[Fanewraith]], exchanging letters on “soul mechanics and reclamation.”  
 
 > He hesitates, then slides a folded letter across the table:  
