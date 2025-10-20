@@ -19,6 +19,7 @@
 *Arrows whistle past, pinning cloaks, sleeves, and skin alike to bark and board.*
 
 ***Withdraw - Reaction:*** When taking damage, the Marksman may mark a Stress to retreat one range band away, gaining Cover until the end of the round.  
+
 *Discipline overrides panic; they melt into the fog, movement calculated, precise.*
 
 ---
