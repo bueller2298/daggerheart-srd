@@ -1,35 +1,50 @@
 # BOGGLASS SCORPION  
-*formerly: Giant Scorpion*
+*(formerly: Giant Scorpion)*
 
 ***Tier 1 Ambusher***  
-*A chitinous predator dwelling beneath the shallow waters of the bog. Its carapace glimmers like black glass, and its stinger hums with a low, resonant tone — the sound of venom thick as tar.*  
-**Motives & Tactics:** Lurk beneath mud, ambush with precision, retreat after striking
+*A massive scorpion adapted to the swamp’s pale glassy mud. Its carapace shimmers like wet obsidian, and its venom hisses when it meets air.*
+
+**Motives & Tactics:** Lurk beneath mud, strike from shadows, retreat when wounded
 
 > **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 2  
 > **ATK:** +3 | **Claws:** Very Close | 1d10+2 phy  
 > **Experience:** Armored Hide +2
 
-## FEATURES
+---
 
-***Burrow Ambush — Passive:***  
-When undetected, the Boggless Scorpion gains **+3 Advantage** on its first attack roll after emerging.  
-Creatures surprised by its attack must make an **Instinct Reaction (DC 12)** or begin the encounter **Prone**.
+## 🦂 FEATURES
 
-***Twin Pinchers — Action:***  
+**Burrow Ambush — Passive**  
+While buried in mud or water, the Bogglass Scorpion gains **+3 Advantage** on its first attack after emerging.  
+Creatures surprised by this attack must succeed an **Instinct Reaction (DC 12)** or start the encounter **Prone**.
+
+**Twin Pinchers — Action**  
 Attack two separate targets within **Very Close range**.  
-On a success, each takes **1d8+2 physical damage**.  
-If both attacks succeed, the Scorpion gains 1 **Fear** as it drags both prey inward.
+On a success:  
+• Deal **1d8+2 physical damage** to each target.  
+• If both attacks hit, the scorpion gains **1 Fear** as it drags prey inward, grinding them beneath its weight.
 
-***Bog Venom Sting — Action:***  
-Make a stinger attack against a single target within **Close range**.  
-On a hit, deal **2d8 physical damage** and force a **Body Reaction (DC 13)**.  
-On a failure, the target is **Poisoned** — suffering **1d6 damage at the start of each of their turns** until they spend an action to purge the venom.  
-Critical failure: the venom numbs their limbs, applying **Slowed** until cured.
+**Bog Venom Sting — Action**  
+Make a stinger attack against one target within **Close range**.  
+On a hit:  
+• Deal **2d8 physical damage**.  
+• The target must make a **Body Reaction (DC 13)** or become **Poisoned**, taking **1d6 damage at the start of each of their turns** until they spend an action to purge the venom.  
+On a critical failure: the venom paralyzes them, inflicting **Slowed**.
 
-***Reflective Carapace — Reaction:***  
+**Reflective Carapace — Reaction**  
 When struck by a **ranged or magical attack**, roll a **d6**.  
-On a **5–6**, the carapace refracts the energy harmlessly, reducing the incoming damage by half (round down).  
-If reduced to 0 damage, the Scorpion gains 1 **Fear**.
+On a **5–6**, the attack refracts off its glossy shell, halving the incoming damage (round down).  
+If reduced to 0 damage, the scorpion gains **1 Fear**.
 
-> *“It doesn’t scuttle — it glides, the surface breaking in ripples.  
-> Then, the gleam of glass. Then, pain.”*
+---
+
+## 🌫️ VISUAL NOTES  
+- Carapace gleams like **black glass flecked with swamp light**  
+- Venom glows faintly **green-white in darkness**  
+- Movement nearly silent — a **subtle hiss before the strike**  
+- Beneath the water, only the **tip of the stinger breaks the surface**  
+- Locals claim it can smell **blood through the bog water**
+
+---
+
+**Original Creature Name:** Giant Scorpion
