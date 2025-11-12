@@ -27,4 +27,4 @@ One seeks rumors from a cheerful gnome…
 All eyes turned toward an empty home where **answers** — or **danger** — await
 
 ## Trailing Taren Mohr
-Whom
+Whoever decides to trail Taren Mohr can make a stealth roll to remain unseen and tail them. This is 
