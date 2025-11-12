@@ -29,4 +29,5 @@ All eyes turned toward an empty home where **answers** — or **danger** —
 ## Trailing Taren Mohr
 Whoever decides to trail Taren Mohr can make a stealth roll to remain unseen and tail them. A stealth roll of 12 will allow a success. Taren is an honest herbalist and told the party legitimate information, this lead proves to be cold.
 
-Checking in on the Loon home
+## Checking in on the Loon home
+Whoever decides to make their way under cover of night to the Loon home will find a home that looks like the dwellers within made q
