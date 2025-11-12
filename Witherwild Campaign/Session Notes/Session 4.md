@@ -33,4 +33,4 @@ Whoever decides to trail Taren Mohr can make a stealth roll to remain unseen and
 Whoever decides to make their way under cover of night to the Loon home will find a home that looks quaint enough. An inspection of 12 will reveal that the home looks as if someone left expediently, 
 
 An inspection of 15 plus will reveal a small letter :
-"I hope this letter finds you well. Meeting you proved to be most opportune. I can't thank you enough for such an amazing night of merriment and conversation, and thank you for letting me into your trust. I will make my way soon from Alula, but I invite you to travel with me, should you desire. If this proves to be within your wishes approach"
+"I hope this letter finds you well. Meeting you proved to be most opportune. I can't thank you enough for such an amazing night of merriment and conversation, and thank you for letting me into your trust. I will make my way soon from Alula, but I invite you to travel with me, should you desire. If this proves to be within your wishes approach,  approach Ileana, and speak: "Roots remember what the branches forget. She will tell you where I will wait for you for "
