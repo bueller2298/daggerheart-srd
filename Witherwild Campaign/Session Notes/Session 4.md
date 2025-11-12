@@ -27,4 +27,5 @@ One seeks rumors from a cheerful gnome…
 All eyes turned toward an empty home where **answers** — or **danger** — await
 
 ## Trailing Taren Mohr
-Whoever decides to trail Taren Mohr can make a stealth roll to remain unseen and tail them. This is 
+Whoever decides to trail Taren Mohr can make a stealth roll to remain unseen and tail them. A stealth roll of 12 will allow a success. Taren is an honest herbalist and told the party legitimate information, this lead proves to be cold.
+
