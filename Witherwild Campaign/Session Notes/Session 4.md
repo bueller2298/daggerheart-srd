@@ -49,3 +49,6 @@ An inspection of 15 plus will reveal a small letter :
     
 - **Appearance:** Weathered skin, wild gray hair, always carries a coil of rope
 
+
+## The Observation Hut
+As our adventurers make their way southwest, colors go from whi
