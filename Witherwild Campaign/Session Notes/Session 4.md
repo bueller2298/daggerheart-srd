@@ -51,4 +51,4 @@ An inspection of 15 plus will reveal a small letter :
 
 
 ## The Observation Hut
-As our adventurers make their way southwest, colors go from white to green as they approach the mountains. 
+As our adventurers make their way southwest, colors go from white to green as they approach the mountains. The adventurers can make a navigation check 13 and under is a fail and will lead to a combat enounter and 14 and over leads them to the o
