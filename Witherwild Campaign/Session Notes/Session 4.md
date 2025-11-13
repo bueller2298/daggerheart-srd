@@ -53,3 +53,4 @@ An inspection of 15 plus will reveal a small letter :
 ## The Observation Hut
 As our adventurers make their way southwest, colors go from white to green as they approach the mountains. The adventurers can make a navigation check 13 and under is a fail and will lead to a combat encounter and 14 and over leads them to the observation hut.
 
+Encounter here: https://freshcutgrass.app/encounter?data=eyJuIjoiTXkgRW5jb3VudGVyIiwiZCI6W3sibiI6IldpdGhlcmVkIE1vdGhlciBUcmVlIiwiYSI6InFzeHU4OTV3M2p5WEZTcFhmV0t3UzgiLCJxIjoxLCJ1IjowLCJpIjpbeyJuIjpudWxsfV19LHsibiI6IldpdGhlcmVkIFN3YXJtIiwiYSI6InAzMmdqWEZMSDJWd3pScEpSQUoxTnEiLCJxIjoxLCJ1IjowLCJpIjpbeyJuIjpudWxsfV19LHsibiI6IldpdGhlcnNwaWRlciIsImEiOiJwN0VGajZ3NWJXTUFLQWEydlRlYmFTIiwicSI6MiwidSI6MCwiaSI6W3sibiI6bnVsbH0seyJuIjpudWxsfV19XX0%3D
