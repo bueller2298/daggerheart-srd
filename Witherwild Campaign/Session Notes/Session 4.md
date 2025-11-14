@@ -59,4 +59,4 @@ As the adventurers make their way along the bottom of the moutainside, a trail t
 
 Within the observation hut, it is most likely that the adventurers will give it a thorough look through. This place does seem to be a base of operation that is covert, so if they look carefully it will benefit them, if they ransack it, the [[Fanewraith]] will know when she gets back, success would be a stealth check of 15. Make sure to remember this for passage of time. 
 
-Key items in the hut would be a list of 
+The hut is small and utilitarian, a bedroll sits on a raised bedframe mad
