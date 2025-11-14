@@ -55,3 +55,4 @@ As our adventurers make their way southwest, colors go from white to green as th
 
 Encounter here: https://freshcutgrass.app/encounter?data=eyJuIjoiTXkgRW5jb3VudGVyIiwiZCI6W3sibiI6IldpdGhlcmVkIE1vdGhlciBUcmVlIiwiYSI6InFzeHU4OTV3M2p5WEZTcFhmV0t3UzgiLCJxIjoxLCJ1IjowLCJpIjpbeyJuIjpudWxsfV19LHsibiI6IldpdGhlcmVkIFN3YXJtIiwiYSI6InAzMmdqWEZMSDJWd3pScEpSQUoxTnEiLCJxIjoxLCJ1IjowLCJpIjpbeyJuIjpudWxsfV19LHsibiI6IldpdGhlcnNwaWRlciIsImEiOiJwN0VGajZ3NWJXTUFLQWEydlRlYmFTIiwicSI6MiwidSI6MCwiaSI6W3sibiI6bnVsbH0seyJuIjpudWxsfV19XX0%3D
 
+As the adventurers make their way along the bottom of the moutainside, a trail that scales up the ridge eventually comes along, a steep climb up for about 1.5 hours eventually leads to a cutout in the mountain side, a s
