@@ -5,4 +5,5 @@ As the adventurers make their way along the bottom of the moutainside, a trail t
 Within the observation hut, it is most likely that the adventurers will give it a thorough look through. This place does seem to be a base of operation that is covert, so if they look carefully it will benefit them, if they ransack it, the [[Fanewraith]] will know when she gets back, success would be a stealth check of 15. Make sure to remember this for passage of time. 
 
 The hut is small and utilitarian, a bedroll sits on a raised bed frame made of gathered teak wood. Beneath the bed is a small chest, within the chest is a beautiful red silk dress, a signet ring, and a letter.
+
 "*You always did have a way with words, I shouldn't have been surprised. Children found a friend in you, elderly respected you, and your peers trusted in your words. Such a woman of the people deserves such a station, and thus the station is yours. It is the highest honor of mine life that I entrust this letter to be delivered to you,*"
