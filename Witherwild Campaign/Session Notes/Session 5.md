@@ -5,7 +5,7 @@ As the adventurers make their way along the bottom of the moutainside, a trail t
 Within the observation hut, it is most likely that the adventurers will give it a thorough look through. At first glance, there is a small bed, no more than five feet tall, there are a pair of slippers that are rather large, there is a stand that looks like it holds some sort of instrument or weapon. There is a chair with a mirror and some jewelery. This place does seem to be a base of operation that is covert, so if they look carefully it will benefit them, if they ransack it, the [[Fanewraith]] will know when she gets back, success would be a stealth check of 15. Make sure to remember this for passage of time. As they carefully inspect the jewelry there is a locket necklace, a ring with an inset green gem, and set of fine gold filigreed bracelets, a plain looking golden ring, and laid out on the jewelry stand is a quill with ink and a stack of blank parchment. 
 If the players choose to rifle through the jewelry or interact with the locket, an apparition of the [[Fanewraith]] appears outside the hut walking in.
 
-This is not the real [[Fanewraith]] but is still tangible and can do harm.
+This is not the real [[Fanewraith]] but is still tangible and can do harm. She walks in wordlessly, stands in the threshold of the door. Watches them pick through her hut.
 
 
 The hut is small and utilitarian, a bedroll sits on a raised bed frame made of gathered teak wood. Beneath the bed is a small chest, within the chest is a beautiful red silk dress, a signet ring, and a letter.
