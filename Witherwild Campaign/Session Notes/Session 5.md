@@ -15,3 +15,121 @@ The hut is small and utilitarian, a bedroll sits on a raised bed frame made of g
 The letter is ripped and cuts off there.
 
 Ended with 7 fear.
+
+Session Summary DM FACING
+# DM-FACING SUMMARY
+
+### Last Session — Story Beats & Truths Revealed
+
+## 1. Arrival in Alula & Political Context
+
+- The party arrived in **Alula**, a treetop village under the quiet occupation of **Haven forces**.
+    
+- They met **Elder Mareth Elowen**, a gentle but perceptive figure who serves as both community anchor and diplomatic buffer with Haven.
+    
+- The **Alulin Archival Atelier** functions as Alula’s memory, record-keeper, and informal center of authority.
+    
+
+## 2. Revelation from Elden Forrow
+
+- **Elden Forrow** revealed that the **Fanewraith** arrived in the region **approximately 12 days ago**.
+    
+- Shortly after her arrival, **residents began leaving** Alula — not violently taken, but _departing willingly_.
+    
+- Among the missing was **Elder Moskin**, a deeply rooted and respected figure.
+    
+- Elden provided **a sealed letter**, given with urgency and caution, to be opened only far from the village and its “listening branches.”
+    
+
+## 3. The Herbalist: Taren Mohr
+
+- The party sought out **Taren Mohr**, Alula’s herbalist.
+    
+- Taren was defensive, suspicious, but ultimately cooperative.
+    
+- He confirmed that several people had left recently and provided **names and locations**, including a residence in the **East Trees** marked by the family name **Loon**.
+    
+- His behavior suggested fear, not complicity.
+    
+
+## 4. Investigation of the Loon Residence
+
+- Under cover of night, the party infiltrated the **Loon home**.
+    
+- The house was **orderly but incomplete** — sentimental items were gone, not necessities.
+    
+- This strongly indicated **intentional departure**, not abduction.
+    
+- A **letter** was discovered:
+    
+    - It described a warm, charismatic encounter.
+        
+    - It invited the recipient to leave Alula willingly.
+        
+    - It referenced a contact named **Elena**.
+        
+    - It included the phrase:  
+        **“Roots remember what the branches forget.”**
+        
+    - The writer would wait **no longer than one day** — implying proximity.
+        
+
+## 5. Environmental Threat: The Witherwild
+
+- During aerial scouting, **Find** encountered **hostile, semi-sentient plant growth**.
+    
+- Vines reacted to proximity, indicating the **Witherwild is active and dangerous**, especially outside settled paths.
+    
+- This confirmed that the land itself is destabilizing.
+    
+
+## 6. Elena, the Bridgewarden
+
+- At a local drinking counter, the party learned **Elena** serves as a **bridgewarden** on the western edge of Alula.
+    
+- When approached and given the phrase **“Roots remember what the branches forget,”** Elena’s demeanor changed instantly.
+    
+- She provided directions:
+    
+    - Travel **southwest along the ridge**
+        
+    - Ascend until reaching a **natural alcove**
+        
+    - “You’ll know when you find it.”
+        
+- This confirmed Elena as an **active intermediary**, not merely a messenger.
+    
+
+## 7. Journey Beyond Alula
+
+- The party chose to **leave Alula at dawn**, avoiding travel at night.
+    
+- They crossed bogland dense with **Crimson Lady’s Veil**, reinforcing its unnatural spread.
+    
+- A skill-based travel sequence showed the land worsening the farther they went.
+    
+- They reached a **landmark tree** at the base of a cliff — with massive roots and withered branches.
+    
+
+## 8. Combat: Witherwild Guardian
+
+- The tree animated violently, attacking with roots, branches, and vine clusters.
+    
+- The environment itself was the threat — not a creature, but a **corrupted natural force**.
+    
+- The party identified the **tree as the core**, not the vines.
+    
+- After a brutal fight, they destroyed the animating force.
+    
+- The Witherwild **receded**, but did not vanish — suggesting suppression, not cure.
+    
+
+## 9. Cliffhanger
+
+- As the fight ended, **something else was approaching**.
+    
+- Not rushing.
+    
+- Not hiding.
+    
+- The session ended with the sense that the party had been **noticed**.
