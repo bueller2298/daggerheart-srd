@@ -1,3 +1,46 @@
+
+
+# PLAYER-FACING RECAP
+
+### “At the Edge of the Witherwild”
+
+When the Witherwild tree finally fell silent, it did not die.
+
+The land recoiled — roots withdrawing, branches sagging — until the entire thing sank into the earth itself, leaving only a single vine that lashed out in parting defiance. Whatever you had fought was not a beast, but a **sentinel**, and it had learned from you.
+
+The climb away from the tree was no safer. The mountain shifted beneath your hands. Stone swallowed flesh and released it again. Vines reached impossibly far. The land itself seemed awake — watching, waiting for missteps.
+
+At last, battered and wary, you found solid rock high above the forest and made camp without fire, trusting stone and silence to keep you safe.
+
+With dawn, you climbed again.
+
+The alcove you reached was unmistakable — a hidden hollow carved into the mountainside. Inside, you found signs of life: a cold campfire, a pot of stew, and four bowls. Three lay spilled. One had been set down carefully.
+
+No blood. No struggle. Just absence.
+
+Deeper within, a small dwelling waited — a bed left unmade, belongings untouched, slippers by the bedside, and a stand meant for something now gone. Whoever lived here had not fled in terror.
+
+They had left **on purpose**.
+
+And as you stand within that quiet space now, you know two things for certain:
+
+You are close.
+
+And whatever you are following did not run.
+
+---
+
+If you want next, we can:
+
+- Tighten the **player recap into a 60-second spoken intro**
+    
+- Flag **DM-only “truth vs assumption” notes** for the alcove
+    
+- Or roll directly into **the approaching presence** as the opening beat of the next session
+    
+
+Just tell me how you want to open.
+
 ## ACT I — THE NOISE (Opening Scene)
 
 ### What the players perceive

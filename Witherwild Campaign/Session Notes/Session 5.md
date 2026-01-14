@@ -17,3 +17,165 @@ The letter is ripped and cuts off there.
 Ended with 7 fear.
 
 Session Summary DM FACING
+# DM-FACING SUMMARY (CANONICAL)
+
+### Session Summary — Based on Document One & Two
+
+## 1. Aftermath of the Witherwild Tree
+
+- The party defeated the **Witherwild tree guardian**, rendering it **dormant**, not destroyed.
+    
+- The land immediately around it stabilized, but the tree later **retracted entirely into the ground**, leaving only a single vine that briefly pursued the party.
+    
+- This confirmed:
+    
+    - The Witherwild reacts tactically
+        
+    - It can disengage and reposition
+        
+    - Destruction of a manifestation does not end the threat 
+        
+        Document One
+        
+
+## 2. Character Echoes & Internal Consequences
+
+- **Find** experienced a powerful vision:
+    
+    - A past duel with a charismatic giant he once killed
+        
+    - The vision emphasized shame, Nikta’s influence, and the emergence of his wings
+        
+    - This was the first clear moment where Find _consciously wielded_ Nikta’s gift in combat
+        
+- **Flawsee** suffered a memory backlash:
+    
+    - A vision of an elven relative speaking silently
+        
+    - Purple, noxious smoke accompanied the memory
+        
+    - Flawsee took damage attempting to access it
+        
+    - This reinforces the idea that memory, curse, and magic are intertwined
+        
+- **Harlow** reflected on isolation vs unity:
+    
+    - Recognized that strength in this fight came from coordination, not brute force
+        
+    - Reinforced party cohesion as mechanically and narratively important 
+        
+        Document One
+        
+
+## 3. Ascent from the Tree
+
+- The party chose **not** to linger near the dormant guardian.
+    
+- They began ascending the mountainside toward the suspected alcove.
+    
+- Environmental hazards included:
+    
+    - Illusory or unstable handholds
+        
+    - Rock that briefly swallowed part of Harlow’s body
+        
+    - A vine pursuing the party despite extreme vertical distance
+        
+- The party narrowly avoided being pulled back down the cliffside 
+    
+    Document One
+    
+
+## 4. Temporary Camp & Long Rest
+
+- The party found a **rocky landing** roughly 400 feet up the mountain.
+    
+- The stone here was distinct from the earlier earth and appeared resistant to Witherwild intrusion.
+    
+- They chose to take a **long rest**:
+    
+    - Watches were established
+        
+    - No fire was lit to maintain stealth
+        
+    - The party healed and prepared for the next stage
+        
+- During watch, no immediate threats emerged, but the land remained tense and watchful 
+    
+    Document One
+    
+
+## 5. Dawn Ascent to the Alcove
+
+- Using coordinated movement and limited flight, the party ascended further at dawn.
+    
+- They reached a **mountain alcove** — the location hinted at by prior information.
+    
+- The alcove opened into a cavern with signs of recent habitation 
+    
+    Document Two
+    
+
+## 6. The Campfire Scene
+
+- Inside the cavern:
+    
+    - An unlit campfire
+        
+    - A pot of stew (cool, not spoiled, not poisoned)
+        
+    - **Four bowls total**:
+        
+        - Three tipped over
+            
+        - One placed carefully upright
+            
+- No signs of struggle.
+    
+- Packs and bedrolls present but not ransacked.
+    
+- This suggested:
+    
+    - A sudden departure
+        
+    - At least one person acting deliberately
+        
+    - No immediate violence 
+        
+        Document Two
+        
+
+## 7. The Inner Dwelling
+
+- Deeper in the cavern, the party found a **constructed dwelling**:
+    
+    - Bed (recently used)
+        
+    - Vanity with drawers and mirror
+        
+    - Jewelry
+        
+    - Large humanoid slippers
+        
+    - A stand for a missing item (instrument or weapon)
+        
+    - A chest beneath the bed
+        
+- The space showed signs of **recent, orderly habitation**, not abandonment through panic.
+    
+- No alternate exits were found.
+    
+- One party member kept watch outside the dwelling while the others investigated 
+    
+    Document Two
+    
+
+## 8. Session End State
+
+- The party is **inside the alcove**, mid-investigation.
+    
+- The fate of the missing individuals is unresolved.
+    
+- The environment continues to act with intention.
+    
+- The party is rested, alert, and aware that something powerful is shaping events ahead.
