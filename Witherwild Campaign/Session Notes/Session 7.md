@@ -231,16 +231,3 @@ Options identified:
 The party leaned toward **pressing forward**, believing time was critical.
 
 The session ended with a plan forming — and the certainty that the Fanewraith’s appearance was only a beginning.
-
----
-
-If this transcription looks right, next we can:
-
-- Turn this into a **DM-facing session summary**
-    
-- Write a **tight player recap** for the _next_ session opener
-    
-- Extract **canonical truths vs unknowns** for your lore doc
-    
-
-Just tell me how you want to proceed.
