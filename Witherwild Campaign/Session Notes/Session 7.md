@@ -231,3 +231,5 @@ Options identified:
 The party leaned toward **pressing forward**, believing time was critical.
 
 The session ended with a plan forming — and the certainty that the Fanewraith’s appearance was only a beginning.
+
+8 feear
