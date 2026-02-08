@@ -166,7 +166,7 @@ Despite this, **Find broke free and attacked**, choosing violence.
         - A bug-like, antennaed face
             
 
-A psychic, resonant attack emanated from the antennae, dealing severe damage and inflicting **restrained** and **vulnerable**conditions on multiple party members.
+A psychic, resonant attack emanated from the antennae, dealing severe damage and inflicting **restrained** and **vulnerable** conditions on multiple party members.
 
 ---
 
