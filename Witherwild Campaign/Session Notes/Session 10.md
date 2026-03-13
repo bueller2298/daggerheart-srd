@@ -1,3 +1,9 @@
+
+--- start-multi-column: ID_8quc
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
 # SESSION 10 — INTO THE FIELDS OF UNCEASING SONG
 **Act:** Act 2 (early)  
 **Band:** Mid → Edge  
@@ -127,7 +133,7 @@ When Progress hits 0 OR they reach a strong midpoint:
 
 **DM note:** This is where they can *see* the seam. If you haven’t hit Consequence 0 yet, you can still trigger Scene 2 here if they linger, argue, or cut the grass.
 
----
+--- column-break ---
 
 # SCENE 2 — THE SEAM BREACH: THE POLLEN-LUNG (Combat/Containment, 25–40 min)
 
@@ -188,7 +194,7 @@ Optional sting line (read one):
 or  
 *“If the stitches fail, everything opens.”*
 
----
+--- column-break ---
 
 # SCENE 3 — LATCHWIGHT (Bargain, 10–20 min)
 
