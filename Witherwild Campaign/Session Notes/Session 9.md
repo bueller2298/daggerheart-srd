@@ -1,167 +1,278 @@
-# SESSION 9 — THE FIELDS OF UNCEASING SONG
-
+# SESSION 9 — FIELDS OF UNCEASING SONG
 **Act:** Act 2 (opening)  
-**Band:** Mid → Edge (transition session)  
-**Session goal (GM):** The land teaches a rule. The party earns a real westward route-key toward Nikta.  
-**What success looks like:**
-- They earn a **Rite-Key** that lets you keep momentum to Nikta without “getting lost gameplay.”
-- They make contact with **one named minor divinity** (boon + price).
-- They leave with a visceral sense that the Edge is *alive* and *listening*.
-
-**If they fail hard:**
-- They still progress, but you tick **Witherwild Bloom +1** and give them a **scar of travel** (lost time, drained supplies, or a divinity debt).
-
-## Prep in 60 seconds
-- **Open with tableau:** Reed-flats under eternal spring. Wind makes the reeds “sing.” The song repeats the party’s last sentence… but with one word wrong.
-- **Spotlight:** Purpose (Nikta/balance), then either Harlow (paranoia/isolation) or Flawsee (curse/anxiety).
-- **Clocks to show on-screen:** Witherwild Bloom (navigation cost) + Fanewraith Balance (containment “leaks”).
+**Band:** Mid → Edge  
+**Length:** 2–2.5 hours  
+**Theme:** *The Witherwild is getting so bad the Fanewraith’s “cruel math” starts to sound rational.*  
+**Featured divinity:** **Latchwight** (Seams, Knots, Stitches)
 
 ---
 
-# Scene 1 — Main Scene: The Rule of the Path (60–80 min)
+## QUICK RUN (read this first)
+**Goal:** Cross the Fields, earn a real westward route toward Nikta, and accept (or refuse) Latchwight’s Claim.  
+**Pressure:** The land demands payment. If they refuse payment, it collects anyway.  
+**End state:** They leave with **Rite-Key: Westward Line**, and the dread that containment is the only thing keeping the world from unzipping.
 
-## Location
-**The Choirfields** — a wide meadow of waist-high reeds and pale flowers that should be easy to cross.  
-Instead, the land **folds**: if they walk in a straight line, they return to where they started.
-
-## Environment (Traversal): THE CHOIRFIELDS
-Use **3 features** and ignore the rest.
-
-### FEATURES
-**Echo-Lock (Passive):**  
-If the party repeats the same approach twice (same leader, same plan, same route), they end up back at the start.  
-*Tell:* they find their own bootprints *ahead* of them.
-
-**Borrowed Direction (Passive):**  
-A PC may make an **Instinct or Knowledge roll** to “read” the reed-song.  
-- Success: learn **one Rule** (below).  
-- Success w/ Fear: learn it, but the reader marks **1 Stress** (headache, nosebleed, intrusive memory).
-
-**The Song Demands a Verse (Action):**  
-If they argue loudly, draw steel, or force passage, the reeds lash like cords. One PC must make an **Agility reaction** (Difficulty set by your table standard for “Difficult”).  
-- Fail: mark **1 Stress** and become **Rattled** until their next roll with Hope.  
-- Success: no effect, but the song grows “interested.”
-
-**Hollow Step (Reaction):**  
-On a **failure with Fear** during traversal, someone steps into a cold sinkhole of mud and old pollen. Choose one:
-- lose a **handful of gear / a consumable**, or
-- mark **1 Stress**, or
-- the party loses time: **Witherwild Bloom +1**.
-
-## Countdown
-**Progress Countdown (10): “Earn the Westward Line”**  
-Tick **down** when they:
-- follow a discovered Rule,
-- speak a vow and keep it,
-- accept a divinity’s bargain,
-- spend Hope collaboratively (Help an Ally / shared risk).
-Tick **up** when they:
-- try to brute force,
-- fight the environment,
-- refuse all prices and all humility.
-
-## The Rules (pick 2–3, reveal via Borrowed Direction)
-**Rule 1 — The Reed-Song only accepts truth.**  
-The leader must say one true thing they’ve been avoiding. (It can be small, but real.)
-
-**Rule 2 — The path takes what you refuse to name.**  
-If someone won’t name their fear, the land “names it” for them: they mark **1 Stress** or lose a token item.
-
-**Rule 3 — Balance is shared, not carried.**  
-If they try to “lead” alone, Echo-Lock triggers. They must **swap lead** or **Help an Ally** to proceed.
-
-**Rule 4 — A vow is a key.**  
-A vow spoken aloud becomes a route-marker. Breaking it later becomes a consequence you can cash in.
-
-### Scene end reward (always give this if they don’t rage-quit)
-**RITE-KEY: WESTWARD LINE**  
-A physical sign (a braided reed cord, a chalk sigil, or a spoken phrase).  
-**Use:** Once per session during travel toward Nikta, the party may spend the Rite-Key to:
-- negate one travel consequence, OR
-- gain advantage on the next travel/navigation roll, OR
-- refuse one Echo-Lock reset.
-
-> If you want it harsher: the Rite-Key has **3 charges** total, shared by the party.
+**Preload (freshcutgrass): pick ONE breach threat**
+- **Huge Green Ooze (Tier 3 Skulk)** reskinned as **The Pollen-Lung**
+- **Dire Bat (Tier 3 Skulk)** reskinned as **The Echo-Hunter**
 
 ---
 
-# Scene 2 — Optional Encounter: The Listener in the Reeds (0–45 min)
+## WHAT’S REALLY GOING ON (DM ONLY)
+These Fields sit on top of an old **processional route** once used by Nikta’s faithful to bring offerings west. The route is now broken into a “loop,” because reality itself keeps folding back.  
+The Fanewraith’s broader work keeps certain **seams** from tearing open; this place is one of them. Tonight, the seam is strained and may breach.  
+Latchwight is a faint divinity that specializes in **stitching**—but it always tightens the world to do so. It offers one “safe segment” toward Nikta, at the cost of a future pull on Nikta’s thread.
 
-Only run this if they:
-- camp here,
-- push through by force,
-- or deliberately chase “what’s watching.”
-
-Pick **one** package and preload those stat blocks in freshcutgrass.
-
-## Package A (clean + scary): DIRE BAT (Tier 3 Skulk)
-**Trigger tell:** the song stops for one heartbeat. Everything goes still. Then wings in the reeds.  
-**Goal:** make them feel hunted, not bogged down.  
-**Fast win condition:** The Dire Bat flees if it takes **Major damage** OR if they use the Rite-Key creatively (shouting the vow, binding the song, etc.).  
-**Clock effect:**
-- If they kill it brutally: **Witherwild Bloom +1**
-- If they repel it with rite/cleverness: **Fanewraith Balance -1** (they unknowingly helped containment)
-
-## Package B (weirder, more Witherwild): HUGE GREEN OOZE (Tier 3 Skulk)
-Reskin as: **The Pollen-Lung** — a translucent mass that “breathes” spores and tries to fill mouths and armor gaps.  
-**Fast win condition:** It withdraws if they set a controlled burn / salt line / vow-bound barrier.  
-**Clock effect:** Same as above.
-
-> If you want a gentler session: downgrade to **Tier 2** threat + a hazard instead.
+**Clocks to consider (not mandatory):**
+- If they solve problems with slaughter/force → **Witherwild Bloom +1**
+- If they contain/ritually resolve → **Fanewraith Balance -1**
 
 ---
 
-# Scene 3 — Specific Minor Divinity Contact (10–20 min)
+# SCENE 0 — ARRIVAL AT THE PROCESSION GATE (5–10 min)
+This is the entry point and the reason the tenets exist.
 
-Do NOT present “a divinity” generically. Pick ONE of the three below.
+### READ ALOUD
+*Spring should smell like wet earth and green life. Here it smells like pollen and old paper. Waist-high reeds sway in a wind you can’t feel on your skin. The reeds don’t hiss—they hum, like a choir warming up.*
 
-## Option 1: HUSH-OF-REEDS (Faint Divinity of Silence and Safe Passage)
-**Form/tell:** the reeds bend away from it; birds refuse to sing in its presence. It never speaks aloud—its “voice” appears as condensation on metal or mirrors.  
-**What it wants:** silence in sacred places; hates shouting, oaths broken loudly, and unnecessary bloodshed.  
-**Boon (choose one):**
-- **Quiet Road:** Once before next rest, the party ignores one “getting lost / loop” consequence.
-- **Muted Footsteps:** Advantage on one stealth/travel roll while moving toward Nikta.
-**Price (choose one):**
-- **Carry the Quiet:** Until they reach Nikta, the party cannot raise their voices above conversation. If they do, each PC marks **1 Stress** (the land flinches).
-- **Name Tax:** One PC must give up a nickname/title for the journey (they cannot use it; others forget it temporarily).
-**How to roleplay:** It communicates by *removing* sound, not adding words.
+*Ahead, half-buried in moss and reed-roots, stands an old stone marker split down the middle like it was pried apart. On each half is a carved hand—palms facing outward—as if warning travelers to stop.*
 
-## Option 2: BRIGHTWICK (Faint Divinity of Lanternlight, Lies, and Lost Things)
-**Form/tell:** a floating lantern glow that appears where it shouldn’t; moths orbit it in a perfect ring. Shadows “lean” toward it.  
-**What it wants:** secrets. Specifically, *useful* secrets—routes, names, betrayals.  
-**Boon (choose one):**
-- **The Straightest Line:** It marks the correct westward route for one day’s travel.
-- **Find the Thread:** The next time the party searches, they find *exactly one* thing they need (GM chooses).
-**Price (choose one):**
-- **Confession:** Each PC must say one true secret aloud. (You decide if it’s private to the party or offered to the lantern.)
-- **A Favor Owed:** Record **DIVINITY DEBT (1)**. Brightwick can call it in later as “tell me the truth now” or “hand me that object.”
-**How to roleplay:** It’s playful and awful. It is never cruel directly—only in what it makes people reveal.
+*Then the song repeats your last sentence back to you… one heartbeat late… and one word wrong.*
 
-## Option 3: MOSS-MOTHER’S THUMB (Faint Divinity of Healing Growth and Slow Rot)
-**Form/tell:** a thumbprint of moss appears on bark, stone, or skin. Where it touches, something heals… and something else decays.  
-**What it wants:** balance through exchange. It’s the closest to Nikta’s “math.”  
-**Boon (choose one):**
-- **Green Mending:** Clear **1 Stress** on one PC OR restore a small battered resource (a broken strap, ruined map edge, etc.).
-- **Root-Anchor:** The party can camp once without triggering a travel complication.
-**Price (choose one):**
-- **Exchange:** Another PC marks **1 Stress** (or loses a small item) as the “payment.”
-- **Rot Mark:** One PC gains a visible mark (moss under nails, green vein lines). Harmless now, but it makes them recognizable to divinities later.
-**How to roleplay:** Warm, maternal, unsettling. It treats mortals like gardens.
+### Discoverable clues (use to teach “why the tenets matter”)
+Let players notice these with a quick Instinct/Knowledge/Perceive-style action.
+- **The split marker** has faint text (worn): *“NO STEP WITHOUT DUE.”* (payment)
+- The carved hands have different meanings:
+  - Left palm: a **coin/seed** motif (exchange)
+  - Right palm: two hands clasping (shared burden / shared truth)
+- A line of old **offering niches** (small stone cups) runs west—many are filled with **knots of reed cord** instead of coins. (stitch imagery)
 
-### Divinity encounter procedure (fast)
-- Present: **tell → boon → price**
-- If they accept: grant boon, write down price and any debt.
-- If they refuse: no boon, but no punishment beyond the land remaining difficult.
+### Transition into Scene 1 (tell them what the choice is)
+They can:
+- attempt crossing directly (likely triggers the loop),
+- investigate the marker and offerings first (best path),
+- try to cut/burn a route (fast but costly).
 
 ---
 
-# Rewards / Reveals
-- **Rite-Key: Westward Line** (core progress tool)
-- **One named divinity relationship** established (ally, creditor, or wary observer)
-- **Truth of Act 2 tone:** “The land doesn’t just attack. It negotiates.”
+# SCENE 1 — THE REED-CHOIR LOOP (Main Scene, 60–75 min)
+**Location name clarity:**  
+**Fields of Unceasing Song** = the whole region.  
+**Reed-Choir Loop** = the specific cursed stretch they must cross tonight.
 
-# End-of-session prompts (send back to me)
-- Which divinity did you use, and which price did they accept/refuse?
-- Did they fight the Listener? If yes, did they kill it or repel it?
-- Which Rule(s) did they learn?
-- Which campaign clocks ticked (Bloom / Fanewraith Balance) and why?
+## What the PCs are trying to do
+They must “earn” the westward line by obeying the old processional logic: **payment, shared truth, shared burden**.
+
+## Geography & structures in this scene (so it’s not abstract)
+As they move west, they encounter these in order:
+1) **Offering Niches** (stone cups along the path)  
+2) **The Echo Cairn** (a low pile of stones with reed cords tied around it)  
+3) **The Stitch-Post** (a leaning wooden post wrapped in hundreds of old knots) — this is where the Rite-Key comes from  
+4) **The Westward Line** (a strip of ground where the song quiets and the loop stops)
+
+You don’t need a map — just treat these as “stations.”
+
+## The two countdowns (simple and visible)
+
+### Progress Countdown (10): **EARN THE WESTWARD LINE**
+Tick down when they:
+- make an honest exchange at an Offering Niche,
+- speak truth + receive truth in return,
+- rotate leadership / Help an Ally / share risk,
+- perform a small rite at the Echo Cairn or Stitch-Post.
+
+### Consequence Countdown (6): **THE LAND COLLECTS**
+Tick down when they:
+- fail with Fear on travel actions,
+- spill blood here,
+- try to brute force the loop (burn/cut a straight path),
+- refuse every payment and try to “take.”
+
+At **0**, trigger Scene 2 (the breach).
+
+## How the “tenets” become obvious (discoverable stations)
+
+### Station 1: Offering Niches — teaches PAYMENT
+If they inspect the niches:
+
+#### READ ALOUD
+*Stone cups line the path like a row of open mouths. Most are empty. A few hold things that aren’t offerings so much as confessions: a child’s ribbon, a broken ring, a tuft of fur, a single tooth. One cup holds nothing but a tight knot of reed cord… and the knot looks fresh.*
+
+**What it means (DM):** People used to pay to pass. Now the land takes payment anyway.
+
+**Action prompt:** “What do you put in a cup?”  
+- If they offer something meaningful → Progress -2 (reward decisive play)
+- If they offer something trivial → Progress -1
+- If they refuse → Consequence -1 (“the land collects later”)
+
+### Station 2: The Echo Cairn — teaches SHARED TRUTH
+When they reach a cairn wrapped with cords:
+
+#### READ ALOUD
+*The hum changes here. It becomes layered—like many mouths singing the same note. In the center of a low cairn is a flat stone stained dark with old rain. Someone scratched a sentence into it with a nail:*
+
+*“TWO TRUTHS TO HOLD A PATH.”*
+
+**Action prompt:** Ask for a paired truth exchange:
+- One PC says a truth they’ve avoided.
+- Another answers with a truth of their own.
+
+If they do it sincerely → Progress -2  
+If they refuse or mock it → Consequence -1 and trigger **Echo-Lock** immediately once.
+
+### Station 3: The Stitch-Post — teaches SHARED BURDEN and gives the RITE-KEY
+A leaning post wrapped in knots:
+
+#### READ ALOUD
+*You find a wooden post half-swallowed by reeds. It’s wrapped in hundreds of old reed cords, some so rotted they crumble at a touch. But a few are new—tight, clean, almost wet with sap. The cords form layers like scar tissue.*
+
+*At the base is a shallow groove in the earth where countless feet once passed. The groove points west… and then, halfway, it doubles back on itself. The loop is carved into the ground.*
+
+**What this does:** This is the origin of the Rite-Key.
+
+**Shared burden prompt:** To earn the key, they must physically bind themselves to the group:
+- braid one cord together (each PC contributes a strand),
+- or tie wrists together in pairs for a short distance,
+- or rotate who holds the cord and “leads.”
+
+If they do it → Progress -3 (this is the big turning point)
+
+### Echo-Lock (the loop) — how it manifests
+If they repeat the same approach twice or refuse the tenets:
+
+#### READ ALOUD
+*You walk. The reeds part and close behind you like water. Minutes pass. The hum never changes. Then you see it: your own bootprints. The same broken stalks. The same split stone marker ahead. You are back at the gate.*
+
+*And this time, the stone cup you ignored is no longer empty.*
+
+**What changed (choose one):**
+- a keepsake is missing
+- water is lower
+- someone can’t recall a minor detail
+- a strand of cord is already tied around a wrist (too tight)
+
+## Scene 1 reward: Rite-Key — WESTWARD LINE
+**Where it comes from:** The Stitch-Post’s “fresh” cord responds when they honor the tenets.
+
+#### READ ALOUD
+*One of the newer cords loosens on its own—like it’s been waiting for your hands. When you lift it, it tightens around your wrist, not painful, just… claiming. The reed-song softens. A thin strip of ground to the west turns quiet, like someone finally closed a door.*
+
+**RITE-KEY: WESTWARD LINE**
+- **Mercy Use:** Negate one travel consequence (once per session).
+- **Harrow Use:** Auto-succeed a travel obstacle, but one PC must choose: **mark 2 Stress** OR **lose 1 Hope**.
+
+**Immediate bridge to Scene 3:**  
+As the song quiets, the cord’s knot “tugs” west. That tug is Latchwight noticing the party.
+
+---
+
+# SCENE 2 — THE SEAM BREACH (Triggered/Optional, 0–40 min)
+This happens if **THE LAND COLLECTS** hits 0, or if you want the punctuation.
+
+## Bridge line (connect from Scene 1 cleanly)
+Whether they’re about to succeed or just after they do, the seam strains.
+
+#### READ ALOUD
+*The reed-song cuts off like someone snapped a string. For one heartbeat, the meadow becomes two meadows: one spring-bright… and one rotting, crawling, and wrong. Between them, the air splits like cloth tearing. You see the seam—a stitch coming undone.*
+
+## Combat objective (keeps it short)
+### Containment Countdown (6): **STITCH THE SEAM**
+The encounter ends when this hits 0 (the breach closes or stabilizes).
+
+Tick down when PCs:
+- use the Rite-Key with a vow,
+- take containment actions (barrier, binding, pushing it back),
+- succeed on Instinct/Knowledge/Presence actions to “find the stitch.”
+
+Tick up when PCs:
+- fail with Fear,
+- use fire/violence indiscriminately,
+- insist on killing rather than containing.
+
+## Choose one breach threat and use the matching entrance + description
+
+## Threat A: THE POLLEN-LUNG (Huge Green Ooze reskin)
+**Where it comes from:** It extrudes out of the *rotting meadow* side of the seam like breath condensing.
+
+#### READ ALOUD (entrance)
+*From the wrong meadow, something swells—like a lung filling. A translucent mass presses through the tear in the air, and the seam stretches around it like fabric pulled over a knee. The thing “inhales,” and the reeds bend toward it.*
+
+#### READ ALOUD (what they see)
+*It’s not slime so much as a wet veil. Inside it, spores drift like stars in cloudy water. Where it touches stalks, they pale instantly, as if the green is being sucked out. It moves toward warmth and breath—slow, certain, hungry.*
+
+**How it fights (DM quick):**
+- It “breathes” spore clouds, forcing the party to keep moving or contain it.
+- Emphasize it isn’t angry—it’s an ecosystem failure made flesh.
+
+## Threat B: THE ECHO-HUNTER (Dire Bat reskin)
+**Where it comes from:** It drops out of the *bright meadow* side’s reeds—like sound itself condensing into wings.
+
+#### READ ALOUD (entrance)
+*The reeds around you go still. Not from calm—from attention. Then the air above you thickens, and something falls through it like a stone. You hear the wingbeat a heartbeat after you see it.*
+
+#### READ ALOUD (what they see)
+*It’s a bat-shaped shadow with too many joints, like it was folded wrong. Its eyes reflect your own faces—briefly, impossibly—before it turns. When it screams, the scream comes from behind you, not from its mouth.*
+
+**How it fights (DM quick):**
+- It attacks where sound misleads.
+- It flees if its “echo anchor” is disrupted with vows/truth/Rite-Key.
+
+## Outcome sting (choose one line to read)
+*“She is not cruel. She is late.”*  
+*“Balance is not kindness.”*  
+*“If the stitches fail, everything opens.”*
+
+## Bridge to Scene 3
+No matter how Scene 2 ends, the seam “tightens” briefly—like someone pulling a knot. That is Latchwight arriving.
+
+---
+
+# SCENE 3 — LATCHWIGHT’S OFFER (10–20 min)
+This should feel like a module “quest bargain” scene.
+
+## Latchwight portrayal (personality, DM-only)
+- **Voice:** not sound—pressure in teeth, the sensation of twine tightening, words as *certainty*.
+- **Mood:** calm, practical, faintly impatient. No cruelty; no comfort.
+- **Values:** repairs > freedom, containment > mercy, promises > intentions.
+- **Tells:** knots form on their own; cords tighten when someone lies; things “cinch” around the guilty.
+
+## Manifestation (read aloud)
+*The reed cord on your wrist tightens—not painful, but insistent. Ahead, a knot forms in midair where no hands touch. It cinches itself. The air smells like twine and rain.*
+
+*Then you hear a voice that isn’t sound. It’s pressure in your teeth:*
+
+*“I can tie what is tearing.”*
+
+## The Offer
+**Boon: STITCHED ROUTE**  
+Latchwight will stitch one safe segment toward Nikta’s perimeter (you can use this next session to skip a travel consequence and keep pace).
+
+**Price: LATCHWIGHT CLAIM (1)**  
+The party must choose one:
+
+1) **THE ASK:** *“When you reach her, you will ask her to give something up.”*  
+2) **THE TAKING:** *“When you reach her, you will take something she cannot afford to lose.”*
+
+#### READ ALOUD (the blade of it)
+*“A stitch always pulls something closed. When you reach her… you will pull.”*
+
+Record: **LATCHWIGHT CLAIM (1)** + Ask/Taking.
+
+### If they accept (read aloud)
+*The knot loosens. The reed-song returns—quieter, steadier. For the first time, the west feels like a line drawn with intent, not hope.*
+
+### If they refuse (read aloud)
+*The knot tightens until the cord bites your wrist. Not a threat—a reminder. The song resumes, but it won’t harmonize with you. The west becomes a question again.*
+
+---
+
+# CLOSING IMAGE (read aloud, end session)
+*Far to the west, you glimpse a pale glow like moonlight caught in sap—a sign that Nikta’s perimeter is real, and near. Behind you, the reeds sing your name with a new note in it—like a hook finding its place.*
+
+---
+
+## AFTER-SESSION CHECKLIST (send back to me)
+- Which station mattered most: Niches / Cairn / Stitch-Post?
+- Did the seam breach trigger? Which threat did you use? Did they contain or kill?
+- Did they accept Latchwight Claim? Ask or Taking?
+- Which clocks did you tick (Bloom / Fanewraith Balance) and why?
