@@ -7,6 +7,23 @@
 
 ---
 
+## SESSION 8 → SESSION 9 TRANSITION (read this first)
+
+**DM-only summary:** Last session, the party finally encountered the **Fanewraith’s apparition** and rejected her reasoning and methods. They recommitted to reaching **Nikta** before the Fanewraith can make another move, and turned **west**—only to realize the Witherwild out here isn’t just “more monsters,” it’s **a place where the rules are failing**. The party is now traveling beyond the safer corridors, where the land feels *awake* and the distance between “real” and “wrong” is thinning.
+
+### READ ALOUD (recap + arrival)
+*You leave the Fanewraith behind with your disagreement still hanging in the air like smoke. West is the only answer that feels like an answer—Nikta, the one name that still means “balance” to you, even if none of you agree what balance should cost.*
+
+*At first the road is just a road. Then it becomes a suggestion. The trees lean the wrong way. Your footprints don’t always match the ground you remember stepping on. When you stop to listen, the silence feels… crowded.*
+
+*By the time the reeds appear, you’ve stopped pretending this is ordinary wilderness. The Witherwild out here doesn’t just hide threats— it edits the world while you’re standing in it.*
+
+*Spring should smell like wet earth and green life. Here it smells like pollen and old paper. Waist-high reeds sway in a wind you can’t feel on your skin. The reeds don’t hiss—they hum, like a choir warming up.*
+
+*Then the song repeats your last sentence back to you… one heartbeat late… and one word wrong.*
+
+---
+
 ## QUICK RUN (read this first)
 **Goal:** Cross the Fields, earn a real westward route toward Nikta, and accept (or refuse) Latchwight’s Claim.  
 **Pressure:** The land demands payment. If they refuse payment, it collects anyway.  
@@ -32,16 +49,9 @@ Latchwight is a faint divinity that specializes in **stitching**—but it always
 # SCENE 0 — ARRIVAL AT THE PROCESSION GATE (5–10 min)
 This is the entry point and the reason the tenets exist.
 
-### READ ALOUD
-*Spring should smell like wet earth and green life. Here it smells like pollen and old paper. Waist-high reeds sway in a wind you can’t feel on your skin. The reeds don’t hiss—they hum, like a choir warming up.*
-
-*Ahead, half-buried in moss and reed-roots, stands an old stone marker split down the middle like it was pried apart. On each half is a carved hand—palms facing outward—as if warning travelers to stop.*
-
-*Then the song repeats your last sentence back to you… one heartbeat late… and one word wrong.*
-
 ### Discoverable clues (use to teach “why the tenets matter”)
 Let players notice these with a quick Instinct/Knowledge/Perceive-style action.
-- **The split marker** has faint text (worn): *“NO STEP WITHOUT DUE.”* (payment)
+- **A split stone marker** has faint text (worn): *“NO STEP WITHOUT DUE.”* (payment)
 - The carved hands have different meanings:
   - Left palm: a **coin/seed** motif (exchange)
   - Right palm: two hands clasping (shared burden / shared truth)
@@ -100,9 +110,9 @@ If they inspect the niches:
 
 **What it means (DM):** People used to pay to pass. Now the land takes payment anyway.
 
-**Action prompt:** “What do you put in a cup?”  
-- If they offer something meaningful → Progress -2 (reward decisive play)
-- If they offer something trivial → Progress -1
+**Action prompt:** “What do you put in a cup?”
+- If they offer something meaningful → Progress -2  
+- If they offer something trivial → Progress -1  
 - If they refuse → Consequence -1 (“the land collects later”)
 
 ### Station 2: The Echo Cairn — teaches SHARED TRUTH
@@ -135,13 +145,13 @@ A leaning post wrapped in knots:
 - or tie wrists together in pairs for a short distance,
 - or rotate who holds the cord and “leads.”
 
-If they do it → Progress -3 (this is the big turning point)
+If they do it → Progress -3
 
 ### Echo-Lock (the loop) — how it manifests
 If they repeat the same approach twice or refuse the tenets:
 
 #### READ ALOUD
-*You walk. The reeds part and close behind you like water. Minutes pass. The hum never changes. Then you see it: your own bootprints. The same broken stalks. The same split stone marker ahead. You are back at the gate.*
+*You walk. The reeds part and close behind you like water. Minutes pass. The hum never changes. Then you see it: your own bootprints. The same split stone marker ahead. You are back at the gate.*
 
 *And this time, the stone cup you ignored is no longer empty.*
 
@@ -189,7 +199,7 @@ Tick up when PCs:
 - use fire/violence indiscriminately,
 - insist on killing rather than containing.
 
-## Choose one breach threat and use the matching entrance + description
+## Choose ONE breach threat and use the matching entrance + description
 
 ## Threat A: THE POLLEN-LUNG (Huge Green Ooze reskin)
 **Where it comes from:** It extrudes out of the *rotting meadow* side of the seam like breath condensing.
@@ -201,8 +211,7 @@ Tick up when PCs:
 *It’s not slime so much as a wet veil. Inside it, spores drift like stars in cloudy water. Where it touches stalks, they pale instantly, as if the green is being sucked out. It moves toward warmth and breath—slow, certain, hungry.*
 
 **How it fights (DM quick):**
-- It “breathes” spore clouds, forcing the party to keep moving or contain it.
-- Emphasize it isn’t angry—it’s an ecosystem failure made flesh.
+- It “breathes” spore clouds; punish standing still; reward containment.
 
 ## Threat B: THE ECHO-HUNTER (Dire Bat reskin)
 **Where it comes from:** It drops out of the *bright meadow* side’s reeds—like sound itself condensing into wings.
@@ -214,8 +223,7 @@ Tick up when PCs:
 *It’s a bat-shaped shadow with too many joints, like it was folded wrong. Its eyes reflect your own faces—briefly, impossibly—before it turns. When it screams, the scream comes from behind you, not from its mouth.*
 
 **How it fights (DM quick):**
-- It attacks where sound misleads.
-- It flees if its “echo anchor” is disrupted with vows/truth/Rite-Key.
+- It attacks from the wrong angles; let vows/truth disrupt its advantage.
 
 ## Outcome sting (choose one line to read)
 *“She is not cruel. She is late.”*  
@@ -228,13 +236,12 @@ No matter how Scene 2 ends, the seam “tightens” briefly—like someone pulli
 ---
 
 # SCENE 3 — LATCHWIGHT’S OFFER (10–20 min)
-This should feel like a module “quest bargain” scene.
 
 ## Latchwight portrayal (personality, DM-only)
-- **Voice:** not sound—pressure in teeth, the sensation of twine tightening, words as *certainty*.
-- **Mood:** calm, practical, faintly impatient. No cruelty; no comfort.
-- **Values:** repairs > freedom, containment > mercy, promises > intentions.
-- **Tells:** knots form on their own; cords tighten when someone lies; things “cinch” around the guilty.
+- **Voice:** not sound—pressure in teeth; words arrive as certainty.
+- **Mood:** calm, practical, faintly impatient. No comfort, no malice.
+- **Values:** containment > mercy; promises > intentions; repair > freedom.
+- **Tells:** knots form unaided; cords tighten when someone lies; air smells like twine and rain.
 
 ## Manifestation (read aloud)
 *The reed cord on your wrist tightens—not painful, but insistent. Ahead, a knot forms in midair where no hands touch. It cinches itself. The air smells like twine and rain.*
@@ -245,7 +252,7 @@ This should feel like a module “quest bargain” scene.
 
 ## The Offer
 **Boon: STITCHED ROUTE**  
-Latchwight will stitch one safe segment toward Nikta’s perimeter (you can use this next session to skip a travel consequence and keep pace).
+Latchwight will stitch one safe segment toward Nikta’s perimeter (use next session to skip a travel consequence and keep pace).
 
 **Price: LATCHWIGHT CLAIM (1)**  
 The party must choose one:
