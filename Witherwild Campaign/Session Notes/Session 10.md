@@ -1,17 +1,16 @@
-
 # SESSION 10 — INTO THE FIELDS OF UNCEASING SONG
 **Act:** Act 2 (early)  
 **Band:** Mid → Edge  
 **Length:** 2–2.5 hours  
-**Focus:** The Witherwild ramps from “unsettling” to “systemic.” The party starts to feel the Fanewraith’s logic: *containment requires costs.*  
-**Featured threat (preload):** **Huge Green Ooze (Tier 3 Skulk)** reskinned as **THE POLLEN-LUNG**  
-**Featured divinity (introduced this session):** **Latchwight** (Seams, Knots, Stitches)
+**Featured threat (preload):** **Huge Green Ooze (Tier 3 Skulk)** → *THE POLLEN-LUNG*  
+**Featured divinity:** **Latchwight** (Seams, Knots, Stitches)  
+**Key note:** One PC can fly. Flight helps with **recon**, not **escaping the field’s rules**.
 
 ---
 
 ## SESSION 9 → SESSION 10 TRANSITION (read this first)
 
-**DM-only summary:** Last session ended on the ridge above the **Fields of Unceasing Song**. You chose to press forward into the grass rather than risk the vine-choked descent back to the river. You found a corpse that would not decay; even magic couldn’t “find” its spirit. When you completed the burial, the grass and flowers bent inward and the earth **took the body** with unsettling speed. This Witherwild doesn’t just kill—it interferes with the meaning of life and death. Purpose took a new name: **Restore**.
+**DM-only summary:** Last session ended on the ridge above the **Fields of Unceasing Song**. You chose to push forward into the grass rather than risk the vine-choked descent back to the river. You found a corpse that would not decay; even magic couldn’t “find” its spirit. When you completed the burial, the grass and flowers bent inward and the earth **took the body** with unsettling speed. This Witherwild doesn’t just kill—it interferes with the meaning of life and death. Purpose took a new name: **Restore**.
 
 ### READ ALOUD
 *The morning light catches on the sea far below, but up here the world belongs to grass and wind. You remember the corpse that wouldn’t rot—how even magic couldn’t find its spirit, how the field listened like it understood your words better than you did.*
@@ -27,142 +26,183 @@
 ---
 
 ## QUICK RUN (DM)
-**Session goal:** Get them **into** the grass, make them learn that progress requires **payment**, then reveal a **seam** and force a choice: contain vs kill. End with **Latchwight’s bargain** that points straight at Nikta’s dilemma.
+**Session goal:** Get them **into** the grass, let the field *teach its rules* through discoverable signs, reach the **Songline Stones**, trigger a **seam breach** (contain vs kill), and end with **Latchwight’s bargain** pointing at Nikta’s dilemma.
 
-### Preload (freshcutgrass)
+**Preload (freshcutgrass):**
 - **Huge Green Ooze (Tier 3 Skulk)**
 
-### Intended structure
-- **Scene 1 (Traversal + discovery):** 60–75 min
-- **Scene 2 (Triggered combat):** 25–40 min (short by design; countdown win condition)
-- **Scene 3 (Latchwight bargain):** 10–20 min
-- **Close:** 2 min image
+**Intended structure**
+- Scene 1 (Traversal + discovery): 60–75 min  
+- Scene 2 (Triggered combat): 25–40 min  
+- Scene 3 (Latchwight bargain): 10–20 min  
+- Close: 2 min
 
 ---
 
 ## WHAT’S REALLY GOING ON (DM ONLY)
-The Fields are an old pilgrimage route toward Nikta. The Witherwild has turned it into a **looping pressure system** that demands exchange. Beneath the field is a **containment seam**—a “stitched” boundary that prevents deeper Witherwild from flooding the region. This seam is fraying.
+The Fields are an old pilgrimage route toward Nikta. The Witherwild has turned it into a **pressure system**: progress requires **exchange** (payment, shared burden, anchoring truth). Beneath the field is a **containment seam**—a stitched boundary that prevents deeper Witherwild from flooding the region. It is fraying.
 
-Latchwight is not the Fanewraith, but it operates on the same “math”: **repairs require tension**. It will offer a stitched route segment toward Nikta—at the cost of a future “pull” on Nikta’s thread.
+Latchwight isn’t the Fanewraith, but it runs on the same math: **repairs require tension**. It offers a stitched route segment toward Nikta—at the cost of a future “pull” on Nikta’s thread.
 
 ---
 
-# SCENE 1 — ENTERING THE GRASS (Traversal Horror, 60–75 min)
+# SCENE 1 — ENTERING THE GRASS (Traversal + Discovery, 60–75 min)
 
-## Scene objective
-Cross the first stretch of the Fields and reach a visible landmark: **The Songline Stones** (standing stones protruding above the grass). This gives you a concrete “destination” inside an abstract environment.
+## Objective
+Reach a visible landmark inside the grass: **The Songline Stones** (3–5 upright stones protruding above the sea of green). This gives the party a concrete destination.
 
-### READ ALOUD (first steps into the field)
+### READ ALOUD (first steps)
 *The grass swallows your legs immediately. It’s cold against your skin, even in sunlight. The humming isn’t coming from one direction—it’s all around you, as if the field is using the wind to breathe.*
 
 *Somewhere ahead, taller shapes interrupt the sea of green—stones, maybe. Markers. A path that wants to be a path.*
 
-## Geography (DM)
-- **Edge Ridge → The Songline Stones** is about “one scene” of travel.
-- The grass is dense; visibility is poor at ground level.
-- From above (if someone flies), you can see:
-  - the **Songline Stones** (3–5 upright stones),
-  - a darker patch of grass that “moves wrong” (the seam area),
-  - and far off, the suggestion of old foundations (ruins swallowed by growth).
+---
 
-## The two countdowns
-Make these visible to you; you can even draw them on a notecard.
+## Flawsee’s Knowledge (weave this in early)
+Use this as either a prompt you give Flawsee (“you would know…”) or as something Flawsee volunteers.
 
-### Progress Countdown (10): **REACH THE SONGLINE STONES**
+### READ ALOUD (Flawsee’s recollection)
+*Flawsee, you’ve heard the stories: pilgrims came here to “add their voice” to the field’s song, and the field answered with wisdom. But the old tales always included a warning—never come empty-handed, never walk it alone, and never lie to the song. This was a place of reverence, not conquest.*
+
+**DM note:** This is your in-fiction justification for the countdown logic. It tells the players *how to engage* without you explaining mechanics.
+
+---
+
+## The Field Teaches Its Rules (discoverable signposts)
+These appear during the first few minutes of travel, before the party makes too many rolls. Each one suggests a “winning” approach.
+
+### Signpost A — Offering Niche (Payment)
+### READ ALOUD
+*Half-buried in roots is a stone cup. Inside: a broken ring, a braid of hair, a stamped copper, a child’s ribbon—offerings, not trash. The cup isn’t full. It’s waiting.*
+
+**DM prompt:** Ask plainly: “What do you place in the cup?”  
+(They don’t need to know the mechanic—this is the invitation.)
+
+### Signpost B — Slate of Two Truths (Shared truth anchors reality)
+### READ ALOUD
+*The grass parts around a flat slate stone scratched with words in three different hands: “SAY IT TRUE. SAY IT TOGETHER.” Someone underlined “TOGETHER” so hard the stone is scarred.*
+
+**DM prompt:** Ask: “Who says the first truth, and who answers?”  
+(This supports roleplay, and it’s how they learn what works.)
+
+### Signpost C — Knot-Markers (Stitch/anchor logic)
+### READ ALOUD
+*Every so often you spot the same knot—tight, clean, deliberate—tied around a stalk. It isn’t decoration. It’s a sign. When you touch it, the humming steadies for a single breath.*
+
+**DM prompt:** Ask: “Do you follow the knots, copy them, or ignore them?”  
+(If someone has cord, this invites tying/anchoring actions.)
+
+---
+
+## IF A PC FLIES (use immediately)
+### READ ALOUD (flight perspective)
+*For a moment, the field looks simple from up here—just wind and green. Then you notice the problem: the grass below doesn’t sway in one wind. It sways in overlapping patterns, like multiple breaths at once. The Songline Stones are visible… but the distance to them keeps feeling wrong, like the field is stretching and relaxing.*
+
+**Flight benefits (pick 1 per scouting pass):**
+- Spot the **Songline Stones** and a “least-bad” approach.
+- Notice a **moving wrong patch** (seam area) before the ground party reaches it.
+- Identify an **offering niche / slate / knot cluster** (one of the signposts) from above.
+
+**Flight complications (trigger 1 when convenient, especially on Fear):**
+- **Echo-Loop in the sky:** they fly “straight” but drift back over the ridge without realizing until they see the same marker again.
+- **Stitched Air:** near the stones, air feels thick like fabric; flying through it costs **1 Stress** or forces a reaction roll to avoid disorientation.
+- **False Landmark:** from above they see a second set of “stones” that aren’t there at ground level.
+
+> Principle: flight can find the path; it can’t force the field to accept you.
+
+---
+
+## Countdowns (Scene 1 engine)
+
+### Progress (10): REACH THE SONGLINE STONES
 Tick down when they:
-- move as a group (Help an Ally, rotate lead, keep contact),
-- anchor reality with shared truth / vow / memory,
-- pay a small price willingly (time, item, Stress, Hope).
+- **Engage a signpost** (offer at cup / do the two-truth exchange / follow or copy a knot marker)
+- act as a group (Help an Ally / rotate lead / stay in contact)
+- anchor reality (shared vow, memory, truth; spend 1 Hope to cancel disadvantage)
+- pay a small price willingly (item, time, Stress, Hope)
+- use flight to locate a signpost AND the party actually interacts with it (scouting alone isn’t enough)
 
-### Consequence Countdown (6): **THE FIELD COLLECTS**
+### Consequence (6): THE FIELD COLLECTS
 Tick down when they:
-- fail with Fear on a key roll,
-- split up or lose contact,
-- try to brute force (cutting/setting fires),
-- refuse every cost.
+- fail with Fear
+- split up / lose contact
+- cut/burn/hack a path (desecration)
+- refuse every payment and “take without giving”
+- fly through stitched air near the stones without anchoring (field “collects”)
 
-At **0**, trigger Scene 2 (the seam breach).
+**At 0:** trigger Scene 2 immediately.
 
-## Environment features (use in play, not all at once)
+---
 
-### FEATURE: Humming Daze (Passive)
-The song tries to soothe and unmake urgency.
-- When a PC embraces the hum, offer a bargain: “You can ignore Stress for a moment—if you slow down.”
-- If they lean into it too hard, impose disadvantage on the next roll until someone anchors them.
+## Scene 1 tools (use 2–3, not all)
 
-*Optional read:*  
-*The humming finds the shape of your thoughts. For a moment, it feels like relief.*
+### Humming Daze (Passive)
+The field tries to soothe and slow them.
+- Offer a temptation: “You can rest here without fear—if you stop caring about time.”
+- If they lean in, impose disadvantage on the next roll until someone anchors them (touch + shared memory).
 
-### FEATURE: Causality Slip (Passive)
-Once in this scene, introduce a mismatch:
-- their footprints appear ahead,
+### Causality Slip (Passive)
+Once this scene, introduce a mismatch:
+- footprints appear ahead,
 - a spoken sentence echoes with one wrong word,
-- a tool is already damp/dirty as if used.
+- a tool is already damp/dirty like it was used.
+**Mechanical bite:** next roll is disadvantage unless someone spends 1 Hope to anchor.
 
-**Mechanical bite:** Next roll is disadvantage unless someone spends **1 Hope** and describes an anchor.
-
-### FEATURE: The Old Pilgrim Signs (Discoverable clues = “why payment matters”)
-As they move, they find:
-- a half-buried stone cup (offering niche),
-- a cord knot tied around a stalk,
-- a carved symbol: an open palm with a seed/coin.
-
-If they place something in a niche (even small), tick **Progress -2**.
-If they refuse, tick **Consequence -1** (“the field collects later”).
-
-### FEATURE: Echo-Lock (Loop)
-If they repeat the same approach twice, they drift back toward the ridge without realizing.
-When they notice:
-
-*You part the grass and see the ridge line again—too soon. You can’t explain it, but the field has folded your progress and handed you back.*
+### Echo-Lock (Loop)
+If they repeat the same approach twice, they drift back toward the ridge.
+### READ ALOUD (if noticed)
+*You part the grass and see the ridge line again—too soon. The field has folded your progress and handed you back.*
 
 ---
 
 ## Arrival: The Songline Stones (end Scene 1)
-When Progress hits 0 OR they reach a strong midpoint:
+Trigger when Progress hits 0 (or when you want to move forward cleanly).
 
 ### READ ALOUD
 *The grass thins just enough for you to see them clearly: upright stones, each carved with shallow grooves like old musical staff lines. The humming here isn’t louder—it’s cleaner, as if the field has found a note it prefers.*
 
 *Between the stones, the air looks… stitched. Like a seam pulled tight.*
 
-**DM note:** This is where they can *see* the seam. If you haven’t hit Consequence 0 yet, you can still trigger Scene 2 here if they linger, argue, or cut the grass.
-
 ---
 
-# SCENE 2 — THE SEAM BREACH: THE POLLEN-LUNG (Combat/Containment, 25–40 min)
+# SCENE 2 — THE SEAM BREACH (POLLEN-LUNG) (25–40 min)
 
 ## Trigger (choose one)
-- Consequence countdown hits 0, OR
-- they spill blood / use fire / hack the grass, OR
-- they linger at the stones too long, OR
+- Consequence hits 0, OR
+- they refuse payment at a signpost (“take without giving”), OR
+- they cut/burn/hack the grass, OR
+- the flying scout crosses stitched air without anchoring, OR
 - you want the punctuation now.
 
-## READ ALOUD (the seam tears)
+### READ ALOUD (the seam tears)
 *The clean note of the field snaps. Silence hits like pressure in your ears. The air between the stones puckers—then splits, like cloth tearing.*
 
 *On the other side of the tear, the grass is the same shape… but wrong in color. Too pale. Too eager. And something behind it swells as if it’s breathing.*
 
-## Objective countdown (keeps fight short)
-### Containment Countdown (6): **STITCH THE SEAM**
-The encounter ends when this hits 0.
+---
+
+## Combat objective (this keeps the fight short)
+### Containment (6): STITCH THE SEAM
+The encounter ends when this hits 0 (the breach closes/stabilizes).
 
 Tick down when PCs:
-- use the Rite-Key with a vow (or invent a quick “anchor”),
-- create barriers, bind, push, or redirect (containment),
-- succeed on Instinct/Knowledge/Presence to “find the stitch.”
+- use a vow + an anchor action (hold hands, shared truth, pressed token to stone)
+- create barriers, bind, push, or redirect (containment actions)
+- succeed on Instinct/Knowledge/Presence to “find the stitch”
+- **Flight advantage:** a flying PC can “grab the stitch from above.” On success, tick down by **2**. On failure with Fear, mark **1 Stress** or tick up by 1.
 
 Tick up when PCs:
-- fail with Fear,
-- insist on killing it (violent escalation),
-- use fire indiscriminately.
+- fail with Fear
+- use fire/violence indiscriminately
+- insist on killing instead of containing
 
-### If they insist on killing
-Let them. But the field learns:
+**If they kill it anyway (cost):**
 - **Witherwild Bloom +1**
-- each PC marks **1 Stress** from spores/aftershock
+- each PC marks **1 Stress** (spores/aftershock)
 
-## The monster: The Pollen-Lung (Huge Green Ooze reskin)
+---
+
+## The monster: THE POLLEN-LUNG (Huge Green Ooze reskin)
 
 ### READ ALOUD (it emerges)
 *Something presses through the tear like breath condensing on glass. A translucent mass bulges into your world, stretching the seam around it. It “inhales,” and the grass bends toward it as if pulled by a tide.*
@@ -171,35 +211,31 @@ Let them. But the field learns:
 *It isn’t slime so much as a wet veil. Inside it, spores drift like stars in cloudy water. Where it touches stalks, the green drains out instantly. It moves toward warmth and breath—slow, certain, hungry.*
 
 **DM portrayal notes**
-- It doesn’t roar. It doesn’t emote. It behaves like an ecosystem malfunction.
-- Emphasize suffocation, muffling, moisture, pollen-sweet rot.
+- It behaves like a malfunctioning ecosystem, not a person.
+- Emphasize muffling, moisture, pollen-sweet rot, suffocation pressure.
 
-## Exit condition (fast)
-When **STITCH THE SEAM** hits 0:
-
-### READ ALOUD
+### End condition (when STITCH THE SEAM hits 0)
 *The seam tightens with a sound like twine pulled through cloth. The tear shrinks. The Pollen-Lung slides backward as if the world is refusing it entry. Then the air snaps shut—and the humming returns, shakier than before.*
 
-## Clock result
-- If contained/stitched: **Fanewraith Balance -1**
-- If killed: **Witherwild Bloom +1**
-
-Optional sting line (read one):
+(Optional sting line — read one)
 *“Balance is not kindness.”*  
-or  
 *“If the stitches fail, everything opens.”*
+
+**Clock result (pick one):**
+- contained/stitched: **Fanewraith Balance -1**
+- killed: **Witherwild Bloom +1**
 
 ---
 
-# SCENE 3 — LATCHWIGHT (Bargain, 10–20 min)
+# SCENE 3 — LATCHWIGHT’S OFFER (10–20 min)
 
-## Latchwight roleplay (DM)
-- **Voice:** not sound—pressure in teeth, words arriving as certainty.
+## Latchwight portrayal (DM)
+- **Voice:** pressure in teeth; words arrive as certainty.
 - **Mood:** calm, practical, faintly impatient.
 - **Values:** containment > comfort; promises > intentions; repair > freedom.
 - **Tells:** knots form unaided; cords tighten when someone lies; air smells like twine and rain.
 
-## READ ALOUD (Latchwight manifests)
+### READ ALOUD (Latchwight manifests)
 *The air between the stones tightens again—not tearing this time, but cinching. A knot forms in midair where no hands touch. It pulls itself snug.*
 
 *The smell of twine and rain fills your nose.*
@@ -210,11 +246,10 @@ or
 
 ## The Offer
 **Boon: STITCHED ROUTE**  
-Latchwight will stitch one safe segment toward Nikta’s perimeter (you can use this next session to skip a travel consequence and keep pace).
+Latchwight will stitch one safe segment toward Nikta’s perimeter (use next session to skip a travel consequence and keep pace).
 
 **Price: LATCHWIGHT CLAIM (1)**  
 Choose one:
-
 1) **THE ASK:** *“When you reach her, you will ask her to give something up.”*  
 2) **THE TAKING:** *“When you reach her, you will take something she cannot afford to lose.”*
 
@@ -223,10 +258,10 @@ Choose one:
 
 Record: **LATCHWIGHT CLAIM (1)** + Ask/Taking.
 
-### If they accept (read aloud)
+### If they accept
 *The knot loosens. The humming clears—steadier, cleaner. For the first time since entering the field, the west feels like a line drawn with intent, not guesswork.*
 
-### If they refuse (read aloud)
+### If they refuse
 *The knot tightens until the air seems to bite. Not a threat—a reminder. The humming resumes, but it won’t harmonize with you. The west becomes a question again.*
 
 ---
@@ -239,8 +274,9 @@ Record: **LATCHWIGHT CLAIM (1)** + Ask/Taking.
 ---
 
 ## AFTER-SESSION CHECKLIST (send back to me)
-- Did they reach the Songline Stones cleanly, or did the field “collect”?
-- Did the seam breach trigger? Did they **contain** or **kill** the Pollen-Lung?
-- Did they accept Latchwight Claim? Ask or Taking?
-- Did Restore’s new name matter in play (any vow, any moment)?
+- Which signpost did they engage first (cup / slate / knots)?
+- Did the Field Collect? What triggered it?
+- Did they contain or kill the Pollen-Lung?
+- Did they accept the Claim? Ask vs Taking?
+- Any key RP beat for Restore’s new name?
 - Which clocks did you tick and why? (Bloom / Fanewraith Balance / personal hooks)
