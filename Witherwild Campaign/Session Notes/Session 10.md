@@ -274,9 +274,9 @@ Record: **LATCHWIGHT CLAIM (1)** + Ask/Taking.
 ---
 
 ## AFTER-SESSION CHECKLIST (send back to me)
-- Which signpost did they engage first (cup / slate / knots)?
-- Did the Field Collect? What triggered it?
-- Did they contain or kill the Pollen-Lung?
+- Which signpost did they engage first (cup / slate / knots)? 
+- Did the Field Collect? What triggered it? 
+- Did they contain or kill the Pollen-Lung? Kill
 - Did they accept the Claim? Ask vs Taking?
-- Any key RP beat for Restore’s new name?
-- Which clocks did you tick and why? (Bloom / Fanewraith Balance / personal hooks)
+- Any key RP beat for Restore’s new name? Not yet,
+- Which clocks did you tick and why? (Bloom / Fanewraith Balance / personal hooks) with killing the ooze i believe the witherwild bloom gets +1
