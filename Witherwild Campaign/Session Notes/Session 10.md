@@ -280,3 +280,125 @@ Record: **LATCHWIGHT CLAIM (1)** + Ask/Taking.
 - Did they accept the Claim? Ask vs Taking? Refused the deal entirely
 - Any key RP beat for Restore’s new name? Not yet,
 - Which clocks did you tick and why? (Bloom / Fanewraith Balance / personal hooks) with killing the ooze i believe the witherwild bloom gets +1
+
+
+
+# SESSION 10 — CLEAN SUMMARY (Canon)
+
+## Start State
+- The party begins on the ridge above the **Fields of Unceasing Song**, committed to pushing west through the grass rather than descending back toward the river/vines.
+- The burial from Session 9 remains fresh in mind: the corpse would not decay; the earth took it too neatly and too fast.
+- Purpose is now **Restore**.
+
+## Key Events
+- **Orientation problem:** The grass is so tall and dense that ground-level navigation is unreliable. Restore’s flight helps spot landmarks, but the field’s scale and distance feel *wrong*.
+- **Flawsee recalls the old warnings** about the Fields:
+  - **Never come empty-handed**
+  - **Never walk it alone**
+  - **Never lie to the song**
+- The party encounters three repeating “signposts” that feel intentional and ritualistic:
+  1) **Stone offering cup** containing personal relics (hair, broken ring, coins, ribbon).
+  2) **A fallen slate** reading: *“Say it true. Say it together.”*
+  3) **Twine knots** tied around stalks at consistent height, forming a trail; approaching them produces an “inhaling” sensation in the field’s hum.
+- **The party chooses to make an offering together** (feather, gold, hair, ring/other items). After the ritual, the field’s song becomes more harmonious and the “predatory” feeling reduces.
+- Restore scouts again from just above the grass and observes:
+  - the grass sways in **overlapping wind patterns** (not one wind),
+  - the **Songline Stones** appear in the distance but distance feels unstable,
+  - later, a **second set of stones** appears that wasn’t visible before (false landmark effect).
+- **Truth exchange (the slate’s directive):**
+  - Restore prompts a truth circle: why each member is here.
+  - Harlow explains exile/scapegoating and his desire to unite/restore.
+  - Flawsee admits his primary drive is knowledge about his family’s curse (self-motivated, but aligned with freeing Fanewick).
+  - Restore shares his origin and the priesthood schism, revenge on the High Priest, and a suspicion the High Priest may not truly be dead.
+  - The field “accepts” the truth with a palpable sense of alignment; the party feels they are actually making progress.
+- **Reaching the Songline Stones:**
+  - Flawsee’s low magic (prestidigitation) briefly “reveals” that the stones are much closer than they seemed—then reality snaps back with a tearing sensation.
+  - Flawsee sustains the magic (costing stress), and the party is brought fully into the stones’ clearing.
+  - Between the stones, the air looks **stitched**—a seam under tension.
+- **Seam breach and combat: The Pollen-Lung**
+  - The seam tears open and expels a massive ooze (Tier 3 threat). During the fight it splits repeatedly (1 → 2 → 4).
+  - Harlow is engulfed, burns armor, and fights his way out; the party uses movement and ranged pressure to survive.
+  - The party **kills** the ooze and its offspring.
+  - On death, the ooze seeps into the earth and the grass in the clearing visibly **grows**—a clear sign the Witherwild “feeds” on violence/biomass.
+- **Latchwight manifests**
+  - The seam cinches (not tears). A knot forms in midair. Twine-and-rain scent.
+  - A divine presence speaks: **Latchwight**, a minor divinity of seams and stitches, offers to “tie what is tearing” and make the route safer.
+  - The offer carries a price: when the party reaches Nikta, they must either **ask** Nikta to give something up or **take** something she cannot afford to lose.
+  - The party **refuses** the deal. The seam cinches painfully tight as a reminder; the field’s hum becomes menacing again.
+- **End State**
+  - Beyond the stones, the grass parts deliberately and a pale glow in the west suggests **wooded terrain ahead** en route to Nikta.
+  - Post-session, Harlow spends hope to heal stress and shares more of his backstory (ambushed/left for dead; rescued; separated from home).
+
+---
+
+# CLOCK UPDATE (End of Session 10)
+
+> Using the confirmed “best-fit” clock state as canonical baseline.
+
+## WITHERWILD BLOOM — “THE LAND LEARNS” (8)
+**Prev:** 4/8 → **New:** 5/8  
+**Why:** A containment seam breached and the party **killed** the Pollen-Lung. You explicitly narrated the land **feeding** (grass growth) after the kill.
+
+## FANEWRAITH BALANCE — “THE PATCH IS TEARING” (8)
+**Prev:** 4/8 → **New:** 4/8 (no change)  
+**Why:** The breach was **not contained**; it was destroyed. The party also refused Latchwight’s stabilizing bargain. Net effect: balance remains strained, but doesn’t measurably improve.
+
+## PHYLAX’S WORK — “REAPING ENGINE ONLINE” (6)
+**Prev:** 3/6 → **New:** 3/6 (no change)  
+**Why:** No direct interaction with Phylax or his supply chain this session.
+
+## HAVEN’S GRIP — “ROUTES INTO FORTS” (6)
+**Prev:** 2/6 → **New:** 2/6 (no change)  
+**Why:** The party is operating beyond Haven’s easy reach; no new Haven action or consequence occurred on-screen.
+
+## HIDDEN HILL BOILS (Harlow/Clyde) (6)
+**Prev:** 3/6 → **New:** 3/6 (no change)  
+**Why:** No contact or direct pressure on Hidden Hill this session, but the clock remains active.
+
+## OPTIONAL: FLAWSEE’S CURSE — “THE TWELVE’S CLAIM” (8)
+**Prev:** 1/8 → **New:** 1/8 (no change)  
+**Why:** No direct curse escalation this session; Flawsee’s motive is clarified but not advanced.
+
+---
+
+# WHAT THE CLOCKS MEAN NOW (World Effects + Next Session Pressure)
+
+## Witherwild Bloom at 5/8 — immediate consequences
+- **Travel distortion intensifies:** distance lies more often; “you should be closer by now” becomes common.
+- **Violence feeds growth:** killing threats in the wild more frequently causes visible “bloom backlash” (sudden overgrowth, spores, grasping roots).
+- **Environmental rules harden:** places behave like rituals—payment/truth/anchors matter.
+
+## Fanewraith Balance at 4/8 — steady strain
+- Containment still exists, but it’s **noticeably stressed**.
+- The party now has proof that *something* has been stitching reality, and that failure would be catastrophic.
+
+---
+
+# OFFSCREEN FALLOUT (what’s happening while the party travels)
+
+## In deeper Fanewick / Witherwild interior
+- **Seams are fraying in multiple sites.** When one is patched, another strains—triage is happening somewhere.
+- **Old pilgrim practices resurface** in the few remaining pockets of people: offerings, taboos, “don’t travel alone,” truth-rites. Not religion-as-faith—religion-as-survival.
+
+## Haven (and Kreil Dirn’s sphere)
+- **Dirn receives sparse field reports**: westbound zones are becoming “non-navigable” by conventional means; patrols don’t return.
+- Dirn begins using **long-range courier methods** that don’t require settlements:
+  - **Clockwork/bone-messenger birds** (raven-sized) trained to find “marked” targets (the party, Phylax, key agents).
+  - These can deliver short orders, threats, or bargains without human presence in the deep wild.
+
+## Phylax (quiet acceleration)
+- Phylax’s program continues at pace: with every week that passes, more “clean” engineered sites appear on the frontier—places that feel like **designed stasis** rather than wild growth.
+
+## Minor divinities
+- Latchwight’s refusal doesn’t vanish; it becomes **a remembered pressure**. Expect:
+  - “cinching reminders” (tight air, knots appearing, strings snapping)
+  - other small divinities testing whether the party will pay costs voluntarily or be forced into them.
+
+---
+
+## GM NOTE (to paste under the summary if useful)
+This session established the campaign’s core logic in play:
+- **The land can be negotiated with** (offerings + truth worked).
+- **The land punishes certainty** (distance lies, false landmarks).
+- **Violence solves the immediate problem but feeds the larger one** (Bloom backlash).
+- **The ‘clean solution’ always has a price** (Latchwight’s claim—refused, but it frames the Nikta dilemma).
