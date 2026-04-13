@@ -1,3 +1,18 @@
+## Intro Summary
+
+"_You crossed the Fields of Unceasing Song, a place where the land itself felt wrong: graves did not stay graves, the grass seemed to remember the dead, and even simple distance could not be trusted. At the gravesite, a body refused to decay, and when Restore completed a burial, the field answered by cocooning and absorbing the corpse instead of letting it rest naturally._
+
+_Rather than turn back, you chose to press forward through the tall grass. Along the way, you encountered strange signposts and rules of passage: an offering cup demanding payment, a slate that insisted truth be spoken together, and knot-markers that suggested the land itself had been stitched or anchored. By making a collective offering and working together, you briefly made the field feel less predatory._
+
+_But the Witherwild kept lying to you. Landmarks shifted. Distance bent. A second set of stones appeared where there should not have been one, and it became clear that the land could mislead you even when you thought you had found your way. By carefully using low magic and staying coordinated, you still managed to reach the Songline Stones._
+
+_There, a seam in reality tore open and an ooze-like thing breached through. The fight split into multiple smaller threats, but you held together and killed it. When it died, the grass grew afterward, as if the Witherwild had fed on what happened. That was the clearest sign yet that the land is not merely dangerous—it is actively changing and growing stronger._
+
+_After the fight, the minor divinity Latchwight offered you a bargain tied to Nikta: either ask her to give something up, or take something she could not afford to lose. You refused. By the end of the session, you were still heading west toward Nikta, carrying the knowledge that the Witherwild lies, distance lies, and the seams of the world can fail._
+
+_One other important change: Purpose has taken a new name—Restore. So as you head toward Nikta, you do so with the field behind you, the world feeling less stable than before, and the sense that something is still stitching reality shut somewhere ahead."
+
+
 # SESSION 11 — THE TWELVE’S OVAL AND DIRN’S STONE-EYED BIRD
 **Act:** Act 2 (early)  
 **Band:** Edge (with “Mid islands” that survived)  
