@@ -156,7 +156,6 @@ Each PC contributes one small thing (token, hair, coin, thread, feather, etc.).
 
 ## Spotlight prompts (ask 1–2; keep it tight)
 - “Flawsee—what piece of jewelry do you carry that you never wear, and why?”
-- “If your family is ‘held,’ who would have the authority to hold them?”
 - “If breaking this requires a replacement promise… what promise scares you?”
 
 ---
