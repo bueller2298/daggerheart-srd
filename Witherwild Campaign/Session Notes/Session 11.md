@@ -308,3 +308,6 @@ Use this to close:
 - Which reward did they take?
 - Did Dirn’s message redirect their priorities?
 - Which route did they choose next?
+  
+  
+  Flawsee's curse advanced:
