@@ -225,7 +225,8 @@ Once per rest, when the wearer would be misled by a false landmark, echo-loop, s
 Ask one or two at most:
 - “Flawsee, what piece of jewelry do you carry but never wear?”
 - “Who in your family would be dangerous enough to use as leverage?”
-- “What kind of promise frightens you more than injury?”
+- “What kind of promise frightens you more than death?”
+	- The promise that i couldn't do what it takes to get my family back, that i couldnt 
 - “Restore, what does this place sound like when you stop listening with your ears?”
 
 ---
