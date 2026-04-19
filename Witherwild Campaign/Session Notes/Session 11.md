@@ -226,8 +226,9 @@ Ask one or two at most:
 - “Flawsee, what piece of jewelry do you carry but never wear?”
 - “Who in your family would be dangerous enough to use as leverage?”
 - “What kind of promise frightens you more than death?”
-	- The promise that i couldn't do what it takes to get my family back, that i couldnt 
+	- The promise that i couldn't do what it takes to get my family back, that i couldn't get my family back. The fact that the knowledge i've gained is not enough to fulfill the promise.
 - “Restore, what does this place sound like when you stop listening with your ears?”
+	- Now that i don't feel uneasy, 
 
 ---
 
