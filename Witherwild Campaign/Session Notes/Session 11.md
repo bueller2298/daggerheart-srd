@@ -310,4 +310,4 @@ Use this to close:
 - Which route did they choose next?
   
   
-  Flawsee's curse advanced:
+  Flawsee's curse advanced: 3 ticks!
