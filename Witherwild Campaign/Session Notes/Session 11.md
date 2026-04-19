@@ -275,6 +275,323 @@ For you as GM, Quiet Grove exists to provide a **human wrongness** that contrast
 
 If you want, give the party a small token from the bird: a rough map scrap, a marker, or some sign of Dirn’s hand.
 
+
+
+# SESSION 11 EXPANSION — QUIET GROVE AND THE WESTBOUND LINE
+
+Use these sections after **SCENE 3 — DIRN’S STONE-EYED BIRD** if you need more playable material in the same session.
+
+---
+
+# OPTION A — QUIET GROVE
+
+## What This Scene Is For
+
+Quiet Grove is a **nearby wet-woods detour** off the westbound route. It should feel close enough to investigate now, not like a second expedition. Its purpose is to give the party a concrete sign of **organized interference** in the Witherwild.
+
+This is where the party learns that not all wrongness in the wild is divine or ontological. Some of it is deliberate, maintained, and useful to someone.
+
+Quiet Grove should answer at least one of these questions:
+- What is Phylax doing in this corridor?
+- What does “escort” actually mean here?
+- Are people being moved, held, sorted, or processed?
+- What kind of footprint does human order leave in the Witherwild?
+
+## APPROACH TO QUIET GROVE
+
+> *The wet smell reaches you before the grove does. Rot, water, old bark, black mud.*
+>
+> *Then, after another stretch of trees, that smell changes. The rot drops away. The insect-noise drops away. Even the damp feels cleaner.*
+>
+> *The quiet ahead does not feel natural. It feels maintained.*
+
+The party approaches through wetter ground, shallower roots, and soft black mud. Their first sign should be the **absence** of things that should be here: no buzzing, no frogs, no smell of decay, no birds.
+
+### Reading the Outer Signs
+
+A character may make an **Instinct or Knowledge Roll, DC 13**.
+
+On a success, they notice the grove is being kept wrong on purpose. Good details include:
+- mud disturbed by repeated passage, but not chaotically
+- reeds cut cleanly, not broken naturally
+- rot scraped away from trunks
+- fungus thinned or peeled back
+- a clean path where there should not be one
+- signs of loads being carried through, not just single travelers passing
+
+On a success with Hope, also reveal that the traffic is **organized** rather than furtive. This is not a hiding place. It is a corridor.
+
+On a success with Fear, reveal the same information, but also let the players know they are probably being observed from somewhere ahead.
+
+## ENTERING THE GROVE
+
+> *The grove opens low and wide, more wet than green. Black water sits in shallow basins between roots. Moss hangs in deliberate strips from the branches, trimmed just enough that sightlines remain open. Not clear. Never clear. But managed.*
+>
+> *Nothing buzzes here. Nothing sings. Even your own steps seem to soften before they can echo.*
+
+The grove should feel wrong because it is **disciplined**, not because it is overtly supernatural. Let the players immediately understand that this place is useful to someone who wants movement without notice.
+
+## WHAT THE PARTY CAN FIND
+
+You do not need all of these in one run. Pick 2–4 based on pacing.
+
+### 1. A Resting Point That Wasn’t Meant to Be Comfortable
+A low, deliberate staging area built from cut roots, bark mats, and reed bundles. It is not a camp. It is a place to pause, regroup, and move again.
+
+Clues:
+- no personal trinkets left behind
+- no hearth
+- no signs of a long stay
+- rope abrasions on wood or root
+- water skins or wrapping fiber discarded in haste
+
+Interpretation:
+This is a movement site, not a living site.
+
+### 2. Escort Sign
+Boot prints or dragged marks show multiple groups moving the same line.
+
+Clues:
+- heavier prints on the outside, lighter or uneven ones within
+- repeated pauses at narrow choke points
+- one place where someone slipped and was hauled back upright
+- a snapped restraint loop or torn cloth strip
+
+Interpretation:
+Whoever moved through here was being **kept together**, not simply guided.
+
+### 3. A Phylax Mark
+A sign of organization that ties the site back to Phylax without requiring a formal banner.
+
+Examples:
+- a stripped flower token used as a route mark
+- a coded knot pattern on bark
+- a wax-sealed scrap of instruction, half ruined by damp
+- a marked wooden tally tab indicating groups, loads, or timings
+
+Interpretation:
+This is not rogue scavenging. Someone with structure is using the grove.
+
+### 4. The Wrong Kind of Clean
+A patch where fungus, rot, and insect life have been intentionally suppressed.
+
+A character examining it may make a **Knowledge Roll, DC 13**.
+
+On a success, they determine the suppression is not simply “holy” or “blessed.” It is practical. It was done to make the space easier to move through, easier to monitor, and harder to track by ordinary woodland signs.
+
+Interpretation:
+This is maintenance, not sanctification.
+
+## AN ACTIVE COMPLICATION
+
+Choose one if you want pressure.
+
+### Watched From the Reeds
+The party is being observed by a hidden scout or pair of escorts. They are not eager to die here. They want to know whether the party has seen too much.
+
+Run this as:
+- a tense social scene if the party calls out first
+- a stealth pursuit if the observer withdraws
+- a short skirmish if cornered
+
+### Something Broke Loose
+One of the things the grove was meant to move is no longer where it should be.
+
+Examples:
+- a frightened prisoner escaped and is hiding nearby
+- a pack-beast broke tether and churned the mud
+- a Withered scout was being moved under partial control and slipped the line
+
+This lets you turn the grove into a small rescue, chase, or moral choice.
+
+## OPTIONAL SHORT ENCOUNTER
+
+Use only if the scene needs a hard edge.
+
+### Wet Corridor Escort
+A short **Tier 2** skirmish. Use 2–3 escorts and one coordinator or specialist. Keep it fast.
+
+What matters here is not their stats but their behavior:
+- they do not posture
+- they try to pin and separate
+- they prioritize escape with information over a glorious stand
+- they want to prevent witnesses or retrieve evidence
+
+If the party wins or drives them off, they get a stronger clue package.
+
+## STRONG CLUES TO AWARD HERE
+
+Choose 1–2 strong answers for the party to leave with.
+
+- Phylax is moving **people**, not just supplies.
+- The wet corridor is a **controlled movement lane**.
+- Someone is trying to create **predictable paths** in territory that should resist predictability.
+- The people moved through here were not voluntary travelers.
+- The grove exists because the Witherwild is hard to move through unless it is made temporarily obedient.
+
+## QUIET GROVE REWARD OPTIONS
+
+Use one reward, not many.
+
+### Marsh-Lantern Wick
+A treated wick wrapped in resin and reed fiber.
+
+Once per rest, when lit, it reveals the nearest **deliberately maintained route** through swamp, bog, or overgrown wet ground for one scene.
+
+### Escort Ledger Fragment
+A half-ruined route record.
+
+This is not magical treasure, but it is high-value information. It can point toward:
+- a next corridor
+- a timing pattern
+- a holding site
+- a recurring symbol tied to Phylax logistics
+
+## QUIET GROVE EXIT LINE
+
+> *When you leave the grove, the sound returns in pieces. First water. Then distant insects. Then the ordinary groan of branches in the wind.*
+>
+> *The silence behind you does not feel broken. It feels resumed, as if the grove simply chose not to make room for life while you were in it.*
+
+---
+
+# OPTION B — MORE PATH ON THE WAY TO NIKTA
+
+## What This Section Is For
+
+Use these if the party stays on the westbound line after Dirn’s message. This material gives you more actual road between “we keep going west” and “we arrive somewhere important.”
+
+These are not meant to replace Tree Spire or Nikta. They are the **meat of the dangerous approach**.
+
+You can use one of these scenes as extra same-session content, or string 2–3 together to carry into Session 12.
+
+---
+
+## WESTBOUND BEAT 1 — THE RESIN LINE
+
+> *At first it looks like random sap sheen in the bark. Then you notice it repeating: amber-bright streaks on one trunk, then another, then another, always a little west of where your eye first wants to go.*
+>
+> *The line is not obvious. It feels more like something trying not to be found by anything except someone already looking for it.*
+
+This is Dirn’s westbound guidance made tangible.
+
+A character may make an **Instinct or Knowledge Roll, DC 13** to follow it cleanly.
+
+On a success, the party keeps the honest line.
+
+On a success with Fear, they keep the line, but realize too late that something else has also been using it.
+
+On a failure, they drift into a side pocket of woods and lose time before correcting.
+
+### What the Resin Line Should Mean
+The sap-glow is not a magical GPS. It is a **stable pattern in unstable terrain**. It works because it is modest, repeated, and easy to miss.
+
+This is a good place to reinforce:
+- the Witherwild can still be navigated
+- but only by signs that don’t overstate themselves
+
+---
+
+## WESTBOUND BEAT 2 — HOLLOW OF FALSE DISTANCE
+
+> *The trees thin just enough for the land to open ahead of you. Through the trunks, you can see what looks like a rise, then a break in the canopy beyond it. Distance returns all at once, almost gratefully.*
+>
+> *Then someone takes three more steps, and the rise is no closer than it was before.*
+
+This is a place to bring back the “distance lies” theme without repeating the Fields exactly.
+
+The party may solve it by:
+- grounding on close landmarks instead of far ones
+- moving by counted segments
+- anchoring themselves by rope, voice, or declared order
+- using any item or feature that helps reveal local truth
+
+**DC 13** if you call for a roll.
+
+Success means they cross without losing morale. Failure means they lose time, mark Stress, or hand you a small complication.
+
+### Small Complications
+- someone swears they saw the same trunk three times
+- a voice comes from too far away, too clearly
+- the group arrives at the right place in the wrong marching order
+- one pack, item, or trail sign seems briefly duplicated
+
+---
+
+## WESTBOUND BEAT 3 — THE LISTENING ROOTS
+
+> *The roots here rise out of the ground in ridges high enough to trip a horse. Some are bare and pale, others slick with damp black moss. Once you notice it, you cannot stop noticing that they seem to bend toward sound.*
+>
+> *Not toward movement. Toward sound.*
+
+This is a strong environmental scene because it invites player problem-solving.
+
+Possible approaches:
+- move in silence
+- create sound elsewhere
+- climb and cross above
+- test the roots to see what they react to
+- burn, bless, or alter the moss layer
+- use Restore’s flight to scout the pattern
+
+Use **Agility, Finesse, Instinct, or Knowledge, DC 13**, depending on the approach.
+
+On a failure, the roots do not attack like monsters. They **reshape the path**:
+- a clean line becomes blocked
+- a circle path closes behind them
+- they are redirected toward a less favorable corridor
+
+This is a good place to show the Witherwild as active pressure rather than combat.
+
+---
+
+## WESTBOUND BEAT 4 — FIRST SIGHT OF TREE SPIRE
+
+Use this only when you want to reward persistence and end on momentum.
+
+> *Late through the branches, and only for a breath, you see it: not the whole of Tree Spire, but enough. A rise of impossible trunk and structure far to the west, half hidden by distance and canopy.*
+>
+> *Then the woods take it back.*
+
+This should not mean they are close. It should mean the destination has become **real**.
+
+You can pair this with:
+- a clean campsite beat
+- an omen
+- a lingering Flawsee thought
+- a Dirn token becoming relevant again
+
+---
+
+## OPTIONAL INTERSTITIAL — SMALL CAMP IN HOSTILE WOODS
+
+If you need one quieter scene between bigger beats, use this.
+
+> *By the time you stop, the woods have made every choice for you except the final one: whether to sleep close together or pretend that distance between bedrolls still means privacy.*
+
+At camp, ask one of:
+- “What do you do tonight that you would not admit is a fear response?”
+- “What piece of gear do you check twice before sleeping?”
+- “Who sleeps lightly enough to hear the woods change?”
+- “What part of today felt most like the land trying to think around you?”
+
+This is a good place for:
+- a single spotlight question
+- a clock update sign
+- a private omen
+- a small clue from the Oval settling in
+
+---
+
+## HOW TO USE THESE EXPANSIONS
+
+If they go to **Quiet Grove**, that can easily fill **45–60 minutes** on its own.
+
+If they stay on the **Nikta line**, run:
+- one strong westbound beat for a short extension
+- two beats plus camp for a fuller back half
+- three beats if you want the session to end on first sight of Tree Spire rather than right after the bird
+
 ---
 
 # SESSION END — THE NEXT STEP
