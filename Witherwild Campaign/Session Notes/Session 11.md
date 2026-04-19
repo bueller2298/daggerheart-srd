@@ -228,7 +228,7 @@ Ask one or two at most:
 - “What kind of promise frightens you more than death?”
 	- The promise that i couldn't do what it takes to get my family back, that i couldn't get my family back. The fact that the knowledge i've gained is not enough to fulfill the promise.
 - “Restore, what does this place sound like when you stop listening with your ears?”
-	- Now that i don't feel uneasy, 
+	- Now that i don't feel uneasy, it sounds like the peace of being in balanced nature.
 
 ---
 
