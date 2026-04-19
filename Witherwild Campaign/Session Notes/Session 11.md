@@ -1,233 +1,310 @@
-## Intro Summary
-
-"_You crossed the Fields of Unceasing Song, a place where the land itself felt wrong: graves did not stay graves, the grass seemed to remember the dead, and even simple distance could not be trusted. At the gravesite, a body refused to decay, and when Restore completed a burial, the field answered by cocooning and absorbing the corpse instead of letting it rest naturally._
-
-_Rather than turn back, you chose to press forward through the tall grass. Along the way, you encountered strange signposts and rules of passage: an offering cup demanding payment, a slate that insisted truth be spoken together, and knot-markers that suggested the land itself had been stitched or anchored. By making a collective offering and working together, you briefly made the field feel less predatory._
-
-_But the Witherwild kept lying to you. Landmarks shifted. Distance bent. A second set of stones appeared where there should not have been one, and it became clear that the land could mislead you even when you thought you had found your way. By carefully using low magic and staying coordinated, you still managed to reach the Songline Stones._
-
-_There, a seam in reality tore open and an ooze-like thing breached through. The fight split into multiple smaller threats, but you held together and killed it. When it died, the grass grew afterward, as if the Witherwild had fed on what happened. That was the clearest sign yet that the land is not merely dangerous—it is actively changing and growing stronger._
-
-_After the fight, the minor divinity Latchwight offered you a bargain tied to Nikta: either ask her to give something up, or take something she could not afford to lose. You refused. By the end of the session, you were still heading west toward Nikta, carrying the knowledge that the Witherwild lies, distance lies, and the seams of the world can fail._
-
-_One other important change: Purpose has taken a new name—Restore. So as you head toward Nikta, you do so with the field behind you, the world feeling less stable than before, and the sense that something is still stitching reality shut somewhere ahead."
-
-
 # SESSION 11 — THE TWELVE’S OVAL AND DIRN’S STONE-EYED BIRD
-**Act:** Act 2 (early)  
-**Band:** Edge (with “Mid islands” that survived)  
-**Length:** 2–2.5 hours  
-**Primary focus:** **Flawsee’s Curse develops hard** (actionable knowledge, not just vibes).  
-**Secondary focus:** navigation uncertainty + offscreen pressure (Dirn) + one small Restore/Harlow beat.
 
-**Starting clocks (canon):**  
-- Witherwild Bloom **5/8**  
-- Fanewraith Balance **4/8**  
-- Phylax’s Work **3/6**  
-- Haven’s Grip **2/6**  
-- Hidden Hill Boils **3/6**  
+## Use This Session For
+This session covers the **first dangerous leg west after the Fields of Unceasing Song**. It should feel like meaningful progress, but not major territorial gain. Tree Spire remains ahead. The Isle of the Twelve matters, but it is **not** a destination the party can reasonably reach yet.
+
+This session should do three things:
+1. Make the warped woods feel active and deceptive without stalling travel.
+2. Turn Flawsee’s curse from vague pressure into a structured problem.
+3. End on a clear choice for Session 12.
+
+## Starting State
+The party has crossed the Fields of Unceasing Song, killed the seam-breach ooze, and refused Latchwight’s bargain. They are continuing west toward Nikta.
+
+### Current Clocks
+- Witherwild Bloom **5/8**
+- Fanewraith Balance **4/8**
+- Phylax’s Work **3/6**
+- Haven’s Grip **2/6**
+- Hidden Hill Boils **3/6**
 - Flawsee’s Curse **1/8**
 
-**Countdown standard (visible to players):** Objective **6**, Threat **4** (names do the teaching; don’t label “good/bad”).  
-**DC standard (always numeric):** Tier 1 **11** | Tier 2 **13** | Tier 3 **15** | Tier 4 **17**
+## Travel Scale
+Use this scale for the map and for pacing:
+
+Alula to Selonia is about **one day** in manageable terrain.
+
+A roughly similar map distance from the **Fields of Unceasing Song** to **Tree Spire** takes about **three days** because the Witherwild woods are warped, dense, and hostile.
+
+This session therefore covers only the **first day’s push** into the dangerous woods.
+
+That means:
+- **The Twelve’s Oval** is a **same-day encounter site**
+- **Quiet Grove** is a **nearby detour**
+- **Tree Spire / Nikta** remains **meaningfully ahead**
+- **The Isle of the Twelve** is a **future anchor revealed by pattern**, not a current destination
 
 ---
 
-## SESSION 10 → SESSION 11 TRANSITION (read aloud)
-*The stones are behind you now, but the feeling of stitched air clings to your teeth. The Fields never truly stop humming—you just get far enough away that the sound becomes memory instead of weather.*
+## SESSION OPEN
 
-*Ahead, the grass finally breaks. Trees rise in a dense line, their trunks pale with too-fast growth. Somewhere beyond them is Nikta… and somewhere behind you, something is still stitching the world shut.*
+> *The field is behind you now, but not gone. Its song still clings to your teeth and the backs of your eyes. The grass no longer brushes your legs, yet the feeling of being watched has not lessened.*
+>
+> *Ahead, the woods close in. The trunks rise pale and crowded, too near in some places, too far apart in others. Somewhere west lies Tree Spire. Somewhere beyond that, Nikta.*
+>
+> *And somewhere in the dark behind you, the world is still trying to stitch itself shut.*
 
-*And you can’t shake the thought that killing the ooze made the land grow stronger.*
-
----
-
-## QUICK RUN (DM)
-This session is deliberately guided for new players:
-1) **Navigation check** → determines how cleanly they stay on course, but either way you land on the Flawsee site first.
-2) **Flawsee setpiece: The Twelve’s Oval** → reveals mechanism + gives a usable tool.
-3) **Dirn’s bird** → actionable intel + pressure + end-of-session choice.
-
-**Optional combat:** none required. If you need one, use a short Tier 2 skirmish (**DC 13**) triggered by Fear or delay.
+Let the players settle back into table rhythm here. Take quick reactions, marching order, and any immediate player questions before moving into Scene 1.
 
 ---
 
-# SCENE 1 — NAVIGATION: “WHICH WEST IS WEST?” (20–35 min)
+# SCENE 1 — THE FIRST LEG WEST
 
-### READ ALOUD
-*The woods ahead don’t feel like a border. They feel like a mouth. The grass behind you still whispers, but the trees in front of you don’t whisper at all. They stand too still—as if listening for the moment you step under them.*
+The purpose of this scene is to make the woods feel warped and treacherous while still allowing real forward movement. The party should feel that westward travel is possible, but costly and unstable.
 
-*Your map has a west. The land has its own.*
+Use visible countdowns here.
 
-## Player-facing countdowns (visible)
-### Objective (6): **STAY ON THE NIKTA LINE**
-### Threat (4): **THE LAND MISDIRECTS**
+**Objective (6): HOLD THE NIKTA LINE**  
+**Threat (4): THE WOODS TURN YOU**
 
-## Navigation check (do this now)
-**Environment Tier 3 → DC 15**
+This scene is resolved over **three beats**, not one check.
 
-Call for ONE group navigation check led by a navigator. Choose ONE approach:
-- **Instinct (DC 15):** reading slope, wind, canopy breaks, animal sign
-- **Knowledge (DC 15):** map/lore, sunline, recognizing field-to-forest transition markers
-- **Presence (DC 15):** vow/ritual anchoring (“say it true, say it together”) to keep the land honest
-
-Helpers each give ONE concrete contribution:
-- Restore: flight recon (see below)
-- Flawsee: lore of the Fields + “rule-reading”
-- Harlow: survival discipline + keeping the party together
-
-### Flight recon (Restore)
-Restore can scout as part of the roll.
-- **On Hope:** finds a real landmark (resin-glow seam, ridge notch, ruin stump) → mark **Objective +1**
-- **On Fear:** sees a false landmark (“in-between west”) → mark **Threat +1**
-
-### Outcomes (rail-lite)
+For each beat:
 - **Success with Hope:** mark **Objective +2**
 - **Success with Fear:** mark **Objective +1** and **Threat +1**
 - **Failure:** mark **Threat +2**
 
-**Executive decision for Session 11:** regardless of nav outcome, the route intersects **The Twelve’s Oval** before you fully clear the forest.  
-- Success = you hit it briefly and can choose how deep to engage.  
-- Failure = you stumble into it and it presses harder.
+If the Objective fills first, the party reaches the Oval on their own terms. If the Threat fills first, they still reach it, but the woods press first. If neither fills after all three beats, compare totals to determine whether arrival is controlled, mixed, or pressured.
+
+## Beat One — West Refuses to Stay West
+
+> *The first hour is not hard because of thorns or slopes. It is hard because the land refuses to stay agreed upon. A tree you passed seems to be ahead of you again. A low rise in the ground slips from your left to your right. Somewhere overhead, the canopy keeps swallowing the sun and giving it back in the wrong place.*
+
+Call for a group-led navigation effort. One character leads. Others may help only with concrete contributions.
+
+Possible leading approaches:
+- **Instinct:** reading wind, slope, spoor, and breaks in the canopy
+- **Knowledge:** holding to map sense, field-edge logic, and remembered line
+- **Presence:** using vow, rhythm, ritual, or spoken truth to keep the group moving in one declared direction
+
+**Environment Tier 3 → DC 15**
+
+### Restore’s Flight
+Restore may help from the air once during this scene. On a good contribution, give a real landmark: a resin-bright scar, a ridge notch, a broken stump line, or another physical cue. On Fear, let the sky lie back: a mirrored clearing, a false ridge, or a doubled tree line.
+
+## Beat Two — The Split That Should Not Exist
+
+> *You come to a place where the woods open in two directions at once. Both paths seem walked. Both seem to angle west. One smells wet and green. The other smells dry, resinous, and faintly familiar. For one impossible moment, both look like the path you meant to take.*
+
+Possible approaches:
+- climb for a better read
+- read the ground instead of the horizon
+- declare one truth together and force the group to move by it
+
+Use **DC 15** again.
+
+## Beat Three — The Copied Place
+
+> *The woods change again. The trunks here do not lean naturally. The roots do not run naturally. It feels less like entering a clearing and more like entering a thought the land has practiced before.*
+
+Possible approaches:
+- push through before the woods settle around you
+- slow down and read the place before entering
+- circle the edge for a safer approach
+
+**Environment Tier 2 → DC 13**
+
+## Arrival State
+
+### Controlled Arrival
+The party reaches the Oval in good order.
+- The first successful interaction in Scene 2 reveals **one additional truth**.
+
+### Mixed Arrival
+They arrive wary but intact.
+- No bonus, no penalty.
+
+### Pressured Arrival
+The woods get their hands in first.
+Choose one:
+- everyone marks **1 Stress**
+- the first meaningful engagement with the Oval advances **Flawsee’s Curse +1**
 
 ---
 
-# SCENE 2 — THE TWELVE’S OVAL (PRIMARY) (45–75 min)
-**Environment Tier 2 → DC 13**  
-**Purpose:** Make Flawsee’s curse feel structured and actionable.
+# SCENE 2 — THE TWELVE’S OVAL
 
-### READ ALOUD (arrival)
-*The trees open onto a clearing shaped like an eye. Grass refuses to grow inside it. Twelve stones ring the oval, each split by roots like fingers forced through cracks.*
+The Twelve’s Oval is **not** the true fastening point of Flawsee’s curse. It is a woodland site built from the same logic as the older, truer anchor elsewhere. Its purpose is not to answer everything. Its purpose is to teach the party what kind of problem they are dealing with.
 
-*In the center is jewelry—offerings, not treasure. Clasps snapped clean. Single earrings. Rings missing their stones. Chains cut as if someone refused to wear them… or refused to let them be worn.*
+This site is close enough to encounter during the first day’s push west. It should feel like a local wound or local echo, not the final place itself.
 
-*And for one breath, Flawsee, you recognize the pattern: the jewelry isn’t arranged like wealth. It’s arranged like a diagram.*
+> *The trees part around a clearing shaped too neatly to be natural. No grass grows inside it. Twelve stones ring the space, each one split by roots forced through old cracks.*
+>
+> *In the center lie broken ornaments: snapped clasps, cut chains, earrings with no pairs, rings torn empty of their stones. Not treasure. Not a burial. Not random ruin.*
+>
+> *Flawsee, once you see the pattern, you cannot unsee it. One line of chains runs from stone to stone like a path meant to be read. One untouched piece lies slightly apart, as if left for the next hand willing to test it. And near the nearest stone, a bare patch of earth waits empty and clean, the exact size of a palm-sized offering.*
 
-## Present 3 obvious options (rail-lite)
-1) **Read the diagram** (Knowledge DC 13)  
-2) **Touch one piece** carefully (Instinct DC 13)  
-3) **Offer something** (no roll; safest, but advances the curse clock)
+The fiction itself presents the likely approaches:
+- the **chain-line** invites study
+- the **separated ornament** invites handling
+- the **clean patch** invites payment
 
-> Say these as in-world choices: “Study it, test it, or pay it.”
+## Reading the Arrangement
 
----
+A character who studies the line of chains may make a **Knowledge Roll, DC 13**.
 
-## OPTION 1 — READ THE DIAGRAM (Knowledge, DC 13)
-- **Success with Hope:** gain **two revelations** + direction correction
-- **Success with Fear:** revelations + **Flawsee’s Curse +1**
-- **Failure:** **Flawsee’s Curse +1** and one carried ornament is “marked” (see Complication)
+- **Success with Hope:** reveal **2 truths**
+- **Success with Fear:** reveal **2 truths** and advance **Flawsee’s Curse +1**
+- **Failure:** reveal **1 truth** and advance **Flawsee’s Curse +1**
 
-### Revelations (give clearly)
-**Revelation A: The curse is a CONTRACT, not a spell.**  
-It binds to **identity** (name, bloodline, vow, remembered self). It persists because it’s an agreement with terms.
+Good truths to reveal:
+- The curse is a **binding agreement**, not stray magic.
+- Jewelry and adornment can **carry or hold** the curse.
+- This site **copies** an older pattern.
+- The true fastening point lies **elsewhere**.
+- Breaking the curse will require a **replacement promise**, not just force.
+- Flawsee’s family was not simply lost; they were **held as leverage**.
 
-**Revelation B: Adornment is the ANCHOR.**  
-Jewelry is a **carrier lattice**—a way to keep the contract attached. Flawsee’s habit of collecting magical jewelry becomes dangerous and meaningful: the curse can **ride** those objects.
+If the party arrived in control from Scene 1, the first successful read here reveals **one additional truth**.
 
-**Direction correction:** the oval’s skew points **west-southwest** → mark **Objective +1**.
+Use this line if you want to crystallize the insight:
 
----
+> *This clearing is not the lock. It is the rehearsal. Whatever made this was practicing the pattern of something older.*
 
-## OPTION 2 — TOUCH A SINGLE PIECE (Instinct, DC 13)
-- **Success with Hope:** you choose a “safe” piece and get a targeted truth
-- **Success with Fear:** truth + **Flawsee’s Curse +1**
-- **Failure:** **Flawsee’s Curse +1** and mark **Threat +1**
+## Testing One Piece
 
-### Targeted truths (choose one; these aim toward the Isle without becoming a quest marker)
-- **The Map-Suture:** *“The contract has a fastening point—where it was stitched shut. Twelve agreed to it there. It isn’t in the woods. It is surrounded by water.”*
-- **The Counterfeit Offering:** *“These offerings are practice knots. The true ledger isn’t kept here. It’s kept where the Twelve can’t be overheard by the land—stone shore, twelve seats, one empty.”*
-- *“Breaking the contract requires a replacement promise—not just violence.”*
-- *“Your family didn’t vanish. They were held.”*
+A character who lifts, turns, or handles the separated ornament may make an **Instinct or Finesse Roll, DC 13**.
 
----
+- **Success with Hope:** reveal **1 targeted truth** and allow the party to recover salvageable loot
+- **Success with Fear:** reveal **1 targeted truth** and advance **Flawsee’s Curse +1**
+- **Failure:** reveal **1 harsher truth**, advance **Flawsee’s Curse +1**, and mark one carried adornment
 
-## OPTION 3 — MAKE AN OFFERING (no roll; “safe choice”)
-Each PC contributes one small thing (token, hair, coin, thread, feather, etc.).
+Good targeted truths:
+- This was made to keep a person tied to terms they did not control.
+- The curse survives by attachment: **name, line, adornment, promise**.
+- This site teaches the knot. It does not bear the whole weight.
+- The true fastening point is not in these woods.
 
-**Result:** the oval “accepts” them; hum steadies.  
-**Clock:** mark **Flawsee’s Curse +1** (treat as a revelation tick, not just doom).
+## Making an Offering
 
-### READ ALOUD (oval responds)
-*The jewelry doesn’t move. The stones don’t glow. But the air changes—like a jaw unclenching. The hum becomes less hungry.*
+A character may place a small item on the clean patch before the stone. No roll is required.
 
-*For a moment, the clearing feels like it’s waiting for you to finish a sentence you haven’t spoken yet.*
+> *Nothing glows. Nothing speaks. But the pressure in the clearing eases, like a jaw unclenching.*
+>
+> *Whatever this place was made to do, it recognizes payment.*
 
----
+Reveal **1 truth** and advance **Flawsee’s Curse +1** as revelation-progress.
 
-## Spotlight prompts (ask 1–2; keep it tight)
-- “Flawsee—what piece of jewelry do you carry that you never wear, and why?”
-- “If breaking this requires a replacement promise… what promise scares you?”
+## Marked Adornment
 
----
+If you want the curse to leave physical residue, use this once after a failure or Fear result.
 
-## Complication (only if needed)
-If they fail or succeed with Fear: one ornament is “marked.”
-- A clasp tightens, a gem clouds, a ring becomes cold to the touch.
-- Next time Flawsee uses jewelry as a tool/payment, you may impose **DC +2** on that roll OR tick **Flawsee’s Curse +1** (choose one, once).
+One worn or carried adornment turns subtly wrong. It becomes too cold, slightly too tight, clouded, or difficult to unclasp.
 
----
+Use it later once as either:
+- **DC +2** on a relevant roll involving the item
+- or a reason to advance **Flawsee’s Curse +1**
 
-## REWARD: WARD-KNOT (party tool, 1 use)
-They can take a clean twine knot from the oval (or it appears in Flawsee’s palm).
+## Reward
 
-**WARD-KNOT (1 use):**  
-Once, when the land lies (false landmark, distance distortion, echo-loop), break the knot to force the nearest truth to show itself for one scene (one clear landmark, one correct direction, OR one seam revealed).
+Choose one reward for the party.
 
----
+### Oath-Cutter
+A narrow ritual blade of old silver and root-blackened metal.
 
-## Optional 2-minute beat for Restore
-*Restore, the hum briefly forms a phrase like a hymn from your childhood priesthood—missing a verse. The missing verse feels like the High Priest’s voice.*
+**Weapon:** Finesse, Melee, **d6 physical**
 
----
+**Special:** Once per rest, when used to cut a magical seal, knot, oath-mark, binding thread, or curse-token, the wielder may ask one direct question:
+- What is this attached to?
+- What is holding this closed?
+- Where does this connection lead?
 
-# SCENE 3 — DIRN’S STONE-EYED BIRD (20–35 min)
+Answer plainly.
 
-### READ ALOUD (arrival)
-*The wind shifts. The leaves don’t. Something small cuts through the air anyway.*
+### Anchor-Clasp
+A snapped brooch refitted into a stabilizing charm.
 
-*A bird drops from the gray sky—a raven-sized thing with too-still wings. Its eyes aren’t glass. They’re polished stone. It lands on a branch like a nail being hammered in.*
+**Worn item / armor charm**
 
-*It opens its beak, and a voice you recognize spills out—not the bird’s voice. Kreil Dirn’s.*
+Once per rest, when the wearer would be misled by a false landmark, echo-loop, seam distortion, or similar environmental lie, they may mark **1 Stress** to do one of the following:
+- ignore that lie for themselves for one scene
+- reduce one instance of magic or environmental damage by one threshold
 
-## Optional ID roll
-**Tier 2 → DC 13** (Knowledge or Instinct)
-- Hope: “clockwork/bone courier keyed to you”
-- Fear: “message glitches once; you feel watched”
+## Spotlight Questions
 
-## Dirn’s message (read 2–3 lines)
-- *“You’re further west than my maps can promise. That means you’re either useful… or already dead.”*
-- *“Phylax has moved a new escort into the bog corridor. They’re not hunting flowers anymore. They’re hunting people.”*
-- *“The land is feeding. Don’t let it learn you.”*
-- **Flawsee-specific:** *“If the elf’s family vanished, it wasn’t into nothing. It was into leverage. Look for twelve stones, not twelve people.”*
-
-## Actionable intel nugget (choose 1)
-- **Nikta line:** *“West-southwest. Follow sap-glow in the tree line. If the glow stops, you’re off-course.”*
-- **Phylax clue:** *“A ‘quiet grove’ has appeared—no insects, no rot, no birds. That’s engineered.”*
-
-## Bird token (choose 1)
-- A **map scrap** with a single circled landmark (“Quiet Grove” or “Sap-Glow Line”)
-- A **one-use charm** to call the bird again (Dirn collects a favor later)
+Ask one or two at most:
+- “Flawsee, what piece of jewelry do you carry but never wear?”
+- “Who in your family would be dangerous enough to use as leverage?”
+- “What kind of promise frightens you more than injury?”
+- “Restore, what does this place sound like when you stop listening with your ears?”
 
 ---
 
-# ENDING DECISION (end on a choice)
-Present three clear options and stop when they commit:
-1) **Push the Nikta line now** (fast, risky)  
-2) **Follow Flawsee’s curse lead** deeper (more answers, more cost)  
-3) **Follow Dirn’s intel** toward the Quiet Grove (Phylax tie-in)
+# SCENE 3 — DIRN’S STONE-EYED BIRD
 
-### Closing read aloud
-*The bird’s stone eyes don’t blink. The woods ahead don’t breathe. The grass behind you still hums.*
+This scene should happen before the party fully commits to the next route. It exists to turn information into a real choice.
 
-*Somewhere west, Nikta waits.*
+> *The wind changes, but the leaves do not.*
+>
+> *Something small drops out of the gray canopy and lands on a branch with the precise finality of a tool being set into place. Its wings are bird-shaped. Its eyes are polished stone.*
+>
+> *It opens its beak, and Kreil Dirn’s voice comes out.*
 
-*And somewhere else, something is still stitching the world shut—pulling tighter every time you force your way through.*
+If the players stop to examine the bird before listening, allow an **optional Knowledge or Instinct Roll, DC 13**.
+
+- On success, they recognize it as a deliberate courier keyed to them.
+- On a Fear result, they also get the sense that something else could notice it.
+
+Then deliver Dirn’s message in short, sharp lines:
+
+> *“You’re far enough west that my maps have stopped making promises.”*
+>
+> *“Phylax is moving people under escort through the wet corridor. They are not gathering flowers anymore.”*
+>
+> *“If the elf’s family was taken, they were useful. Look for places built to hold, not places built to hide.”*
+
+After that, give the party two tracks of information.
+
+### The Westbound Route
+> *“Stay west. Follow the resin-glow where it shows in the trunks. If the glow disappears, the woods have turned you.”*
+
+This is the main-goal path.
+
+### The Nearby Detour
+> *“There’s a grove ahead where nothing buzzes, nothing rots, and nothing sings. That isn’t peace. That’s maintenance.”*
+
+This is Quiet Grove.
+
+For the players, this should read clearly:
+- one choice pushes the main goal
+- one choice pursues nearby intel
+
+For you as GM, Quiet Grove exists to provide a **human wrongness** that contrasts with the Witherwild’s **cosmic wrongness**. It is organized, maintained, useful, and likely tied to Phylax activity. It is nearby, not another days-long destination.
+
+If you want, give the party a small token from the bird: a rough map scrap, a marker, or some sign of Dirn’s hand.
 
 ---
 
-## AFTER-SESSION CHECKLIST (for your transcript back to me)
-- Did Flawsee read/touch/offer? Which revelation landed?
-- Did Flawsee’s Curse tick? (It should if they engaged meaningfully.)
-- Did they take the Ward-Knot?
-- Did Dirn’s message change their plan?
-- Which option did they choose for Session 12?
+# SESSION END — THE NEXT STEP
+
+End the session on a commitment, not another reveal.
+
+Present the options as forward motion.
+
+## If They Stay on the West Line
+The party continues toward Tree Spire and Nikta. Next session continues the three-day push through warped woods.
+
+## If They Cut to Quiet Grove
+Next session opens on a wrong, over-maintained place in the wet corridor, where signs of movement, escort, and holding can be found.
+
+## If They Follow the Copied Pattern Deeper
+Next session becomes more personal and curse-forward while remaining local to this first leg of travel.
+
+Use this to close:
+
+> *The field is behind you now, but its song has not fully left your bones. The woods ahead divide into promises you do not yet know how to keep.*
+>
+> *West waits. Water waits. Somewhere farther on, Tree Spire rises. Somewhere else, the older knot still holds.*
+>
+> *And tonight, for the first time, you know those are not the same destination.*
+
+---
+
+# AFTER-SESSION CHECKLIST
+
+- Did the party arrive at the Oval in control, mixed, or pressured?
+- Which truths did they learn?
+- Did Flawsee’s Curse advance?
+- Which reward did they take?
+- Did Dirn’s message redirect their priorities?
+- Which route did they choose next?
